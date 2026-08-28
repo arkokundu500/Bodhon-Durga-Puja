@@ -9,7 +9,7 @@ export function VisitorCount({ className = "" }: { className?: string }) {
   const recordedRef = useRef(false);
   const recordVisitMutation = trpc.visitor.recordVisit.useMutation();
 
-  // Query live count from server, polling every 10 seconds for live updates
+  // Query live count from server, polling every 10 seconds for updates
   const visitorQuery = trpc.visitor.stats.useQuery(undefined, {
     refetchInterval: 10000,
     staleTime: 5000,
@@ -51,7 +51,7 @@ export function VisitorCount({ className = "" }: { className?: string }) {
   return (
     <div
       className={`inline-flex items-center gap-2.5 rounded-full border border-[#E5A62C]/30 bg-[#FFF9EF]/10 px-3.5 py-1.5 backdrop-blur-md transition-all hover:border-[#E5A62C]/60 hover:bg-[#FFF9EF]/15 ${className}`}
-      title="Live celebration visitor count for Durga Puja 2026"
+      title="Total visitors count for Durga Puja 2026"
     >
       <span className="relative flex h-2 w-2">
         <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-[#E5A62C] opacity-75" />
@@ -62,7 +62,7 @@ export function VisitorCount({ className = "" }: { className?: string }) {
         <span className="font-serif font-bold text-[#F8D36D]">
           {toBengaliNumber(count.toLocaleString("en-IN"))}
         </span>{" "}
-        <span className="opacity-80">লাইভ দর্শনার্থী · Live Visitors</span>
+        <span className="opacity-80">মোট দর্শনার্থী · Total Visitors</span>
       </span>
     </div>
   );

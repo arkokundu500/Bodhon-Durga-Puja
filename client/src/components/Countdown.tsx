@@ -58,7 +58,7 @@ export function Countdown() {
           ))}
         </div>
       )}
-      <p className="mt-4 text-xs font-medium leading-5 text-[#80675A]">শুরু: শনিবার, ১০ অক্টোবর ২০২৬ · সকাল ৬টা</p>
+      <p className="mt-4 text-xs font-medium leading-5 text-[#80675A]">শুরু: শনিবার, ১০ অক্টোবর ২০২৬ · ভোর ৪টা</p>
     </div>
   );
 }

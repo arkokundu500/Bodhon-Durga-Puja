@@ -73,10 +73,10 @@ describe("Pandal Directory Search & Clear", () => {
   });
 });
 
-describe("Live Visitor Counter", () => {
-  it("renders live visitor count formatted with Bengali digits", () => {
+describe("Total Visitor Counter", () => {
+  it("renders total visitor count formatted with Bengali digits", () => {
     render(<VisitorCount />);
 
-    expect(screen.getByText(/লাইভ দর্শনার্থী · Live Visitors/i)).toBeInTheDocument();
+    expect(screen.getByText(/মোট দর্শনার্থী · Total Visitors/i)).toBeInTheDocument();
   });
 });
