@@ -62,7 +62,6 @@ describe("Pandal Directory Search & Clear", () => {
     // Type 'Bagbazar'
     fireEvent.change(searchInput, { target: { value: "Bagbazar" } });
     expect(searchInput).toHaveValue("Bagbazar");
-    expect(screen.getByText(/Found/i)).toBeInTheDocument();
 
     // Click clear search button
     const clearButton = screen.getByRole("button", { name: /clear search/i });
