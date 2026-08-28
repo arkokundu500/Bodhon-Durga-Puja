@@ -12,8 +12,8 @@ describe("Bodhon Radio media catalog", () => {
     ]);
 
     TRACKS.forEach((track) => {
-      expect(track.cover).toMatch(/^\/manus-storage\/.*\.jpg$/);
-      expect(track.src).toMatch(/^\/manus-storage\/.*\.mp3$/);
+      expect(track.cover).toMatch(/^\/.*\.jpg$/);
+      expect(track.src).toMatch(/^\/.*\.mp3$/);
       expect(track.title.length).toBeGreaterThan(0);
       expect(track.subtitle.length).toBeGreaterThan(0);
     });

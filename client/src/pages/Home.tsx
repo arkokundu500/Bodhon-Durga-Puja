@@ -86,7 +86,7 @@ export default function Home() {
       <SiteHeader />
       <main>
         <section ref={heroRef} id="top" className="hero-section relative isolate flex min-h-[760px] items-end overflow-hidden bg-[#2A201A] pb-14 pt-32 text-[#FFF9EF] sm:min-h-[840px] sm:pb-20 lg:min-h-[900px] lg:pb-24">
-          <video className="absolute inset-0 -z-20 h-full w-full object-cover opacity-[0.84]" autoPlay muted loop playsInline poster="/manus-storage/durga-gold-wide_329e4673.png" src="/manus-storage/kashful-loop_e16b0912.mp4" aria-hidden="true" />
+          <video className="absolute inset-0 -z-20 h-full w-full object-cover opacity-[0.84]" autoPlay muted loop playsInline poster="/durga-gold-wide_329e4673.png" src="/kashful-loop_e16b0912.mp4" aria-hidden="true" />
           <div className="absolute inset-0 -z-10 bg-[linear-gradient(90deg,rgba(42,32,26,0.78)_0%,rgba(42,32,26,0.42)_48%,rgba(42,32,26,0.2)_100%)]" />
           <div className="hero-haze absolute -bottom-24 left-[35%] -z-10 h-72 w-72 rounded-full bg-[#E5A62C]/20 blur-3xl" />
           <div className="absolute inset-0 -z-10 opacity-50 [background-image:linear-gradient(rgba(255,249,239,0.08)_1px,transparent_1px),linear-gradient(90deg,rgba(255,249,239,0.08)_1px,transparent_1px)] [background-size:72px_72px] [mask-image:linear-gradient(to_bottom,black,transparent_78%)]" />
@@ -106,7 +106,7 @@ export default function Home() {
             </div>
             <div className="hero-sidecard relative ml-auto w-full max-w-[330px] rounded-[32px] border border-white/30 bg-[#FFF9EF]/12 p-3 shadow-2xl backdrop-blur-md lg:mb-3">
               <div className="relative overflow-hidden rounded-[24px] border border-white/15 bg-[#2A201A]">
-                <img src="/manus-storage/durga-icon_c3c9fdb9.png" alt="Bengali Durga illustration" className="h-[290px] w-full object-cover opacity-90 mix-blend-screen" />
+                <img src="/durga-icon_c3c9fdb9.png" alt="Bengali Durga illustration" className="h-[290px] w-full object-cover opacity-90 mix-blend-screen" />
                 <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-[#2A201A] via-[#2A201A]/65 to-transparent p-5 pt-20">
                   <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-[#F8D36D]"></p>
                   <p className="mt-1 font-serif text-xl font-bold">জয় মা দুর্গা</p>
@@ -213,7 +213,7 @@ export default function Home() {
         </section>
 
         <section id="timeline" className="relative overflow-hidden bg-[#2A201A] py-24 text-[#FFF9EF] sm:py-32">
-          <div className="absolute inset-0 opacity-30 [background-image:url('/manus-storage/alpona-paper-texture_bd9c7e11.webp')] [background-size:cover] mix-blend-screen" />
+          <div className="absolute inset-0 opacity-30 [background-image:url('/alpona-paper-texture_bd9c7e11.webp')] [background-size:cover] mix-blend-screen" />
           <div className="container relative z-10">
             <div className="grid items-end gap-10 lg:grid-cols-[1fr_0.72fr]">
               <div className="reveal-left">

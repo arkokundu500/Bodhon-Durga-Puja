@@ -24,10 +24,10 @@ export const METRO_STATIONS: TransitPoint[] = metroStations as TransitPoint[];
 export const BUS_STOPS: TransitPoint[] = busStops as TransitPoint[];
 
 export const TRACKS: Track[] = [
-  { id: "dhak-baja-kashor-baja", title: "ঢাক বাজা কাঁসর বাজা", subtitle: "Durgā Pūjā Special · আগমনী energy", cover: "/manus-storage/Dhak-Baja-Kashor-Baja_ab8e7ed6.jpg", src: "/manus-storage/DhakBajaKashorBaja_7b910599.mp3" },
-  { id: "dhaker-taley", title: "ঢাকের তালে", subtitle: "শারদ rhythm · pujo on the move", cover: "/manus-storage/DhakerTaleySong_87c024b1.jpg", src: "/manus-storage/DhakerTaleySong_a808da27.mp3" },
-  { id: "dugga-ma", title: "দুগ্গা মা", subtitle: "মায়ের ডাক · festive sing-along", cover: "/manus-storage/DuggaMa_06c18295.jpg", src: "/manus-storage/DuggaMa_8dcf8b5b.mp3" },
-  { id: "dugga-elo", title: "দুগ্গা এলো", subtitle: "শহরে মায়ের arrival · cinematic pujo", cover: "/manus-storage/DuggaElo_6e6d2c7e.jpg", src: "/manus-storage/DuggaEloSong_0e19a729.mp3" },
+  { id: "dhak-baja-kashor-baja", title: "ঢাক বাজা কাঁসর বাজা", subtitle: "Durgā Pūjā Special · আগমনী energy", cover: "/Dhak-Baja-Kashor-Baja_ab8e7ed6.jpg", src: "/DhakBajaKashorBaja_7b910599.mp3" },
+  { id: "dhaker-taley", title: "ঢাকের তালে", subtitle: "শারদ rhythm · pujo on the move", cover: "/DhakerTaleySong_87c024b1.jpg", src: "/DhakerTaleySong_a808da27.mp3" },
+  { id: "dugga-ma", title: "দুগ্গা মা", subtitle: "মায়ের ডাক · festive sing-along", cover: "/DuggaMa_06c18295.jpg", src: "/DuggaMa_8dcf8b5b.mp3" },
+  { id: "dugga-elo", title: "দুগ্গা এলো", subtitle: "শহরে মায়ের arrival · cinematic pujo", cover: "/DuggaElo_6e6d2c7e.jpg", src: "/DuggaEloSong_0e19a729.mp3" },
 ];
 
 type BodhonStore = { selectedPandalId: string; activeTrackId: string; isPlaying: boolean; setSelectedPandal: (id: string) => void; setActiveTrack: (id: string) => void; setIsPlaying: (value: boolean) => void };
