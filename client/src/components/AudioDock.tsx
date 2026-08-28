@@ -58,9 +58,19 @@ export function AudioDock() {
     if (isPlaying) audio.play().catch(() => setIsPlaying(false)); else audio.pause();
   }, [isPlaying, setIsPlaying]);
 
+  const initialMount = useRef(true);
+
   useEffect(() => {
-    const activeCard = railRef.current?.querySelector(`[data-track-id="${activeTrack.id}"]`);
-    activeCard?.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+    if (initialMount.current) {
+      initialMount.current = false;
+      return;
+    }
+    if (!railRef.current) return;
+    const activeCard = railRef.current.querySelector<HTMLElement>(`[data-track-id="${activeTrack.id}"]`);
+    if (!activeCard) return;
+    const rail = railRef.current;
+    const targetScrollLeft = activeCard.offsetLeft - (rail.offsetWidth / 2) + (activeCard.offsetWidth / 2);
+    rail.scrollTo({ left: targetScrollLeft, behavior: "smooth" });
   }, [activeTrack.id]);
 
   const toggle = () => {
