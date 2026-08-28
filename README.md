@@ -97,7 +97,7 @@ The project comes pre-configured with the Google Maps Demo API key. If you wish 
 NODE_ENV=development
 PORT=3000
 VITE_GOOGLE_MAPS_USE_DIRECT=true
-VITE_GOOGLE_MAPS_API_KEY=AIzaSyAvCma-xCqRdsJ1Cgfv0SktJXXgDyc48xU
+VITE_GOOGLE_MAPS_API_KEY="Collect from Google MAPS"
 ```
 
 ---
