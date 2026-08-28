@@ -135,6 +135,40 @@ npm start
 
 ---
 
+## ⚡ Deploying to Vercel
+
+Bodhon is pre-configured with `vercel.json` and serverless API handlers in `api/` for zero-configuration 1-click deployment on [Vercel](https://vercel.com).
+
+### Option A: Deploy via GitHub (Recommended)
+1. Push your repository to **GitHub**:
+   ```bash
+   git add .
+   git commit -m "Deploy Bodhon to Vercel"
+   git push origin main
+   ```
+2. Go to [Vercel Dashboard](https://vercel.com/dashboard) and click **"Add New" ➔ "Project"**.
+3. Select and import your **`durga_puja`** repository.
+4. In **Project Settings**:
+   - **Framework Preset**: `Vite` (automatically detected)
+   - **Build Command**: `vite build` (or `npm run build`)
+   - **Output Directory**: `dist/public`
+5. *(Optional)* Under **Environment Variables**, add:
+   - `VITE_GOOGLE_MAPS_API_KEY`: Your Google Maps API key
+   - `VITE_GOOGLE_MAPS_USE_DIRECT`: `true`
+6. Click **Deploy**! 🚀
+
+---
+
+### Option B: Deploy via Vercel CLI
+If you have `vercel` CLI installed:
+```bash
+npx vercel
+# Follow the interactive prompts and deploy to production:
+npx vercel --prod
+```
+
+---
+
 ## 🛠️ Tech Stack & Dependencies
 
 ```text
