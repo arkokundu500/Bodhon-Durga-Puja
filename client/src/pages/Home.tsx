@@ -137,7 +137,7 @@ export default function Home() {
               <h2 className="mt-5 font-serif text-4xl sm:text-5xl lg:text-6xl font-black leading-[0.96] tracking-[-0.05em] text-[#2A201A]">
                 মা আসছেন ...<br />
                 <br />
-                <span className="text-[#B52A22]">শারদীয়ার এই উৎসবে, মন হোক আনন্দে ভরা।।</span>
+                <span className="text-[#B52A22]">শারদীয়ার এই উৎসবে, মন হোক আনন্দে ভরা।</span>
               </h2>
 
               <p className="mt-6 text-base sm:text-lg font-medium leading-relaxed text-[#2A201A]/90">
