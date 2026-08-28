@@ -247,7 +247,8 @@ export default function Home() {
           <div className="container">
             <div className="mb-10 grid gap-7 lg:grid-cols-[1fr_0.7fr] lg:items-end">
               <div className="reveal-left"><p className="section-kicker text-[#B52A22]">হারিয়ে যাবেন না</p><h2 className="mt-4 max-w-[10ch] font-serif text-5xl font-black leading-[0.9] tracking-[-0.06em] text-[#2A201A] sm:text-7xl">প্যান্ডেল ঘোরা, এবার বোধনের সঙ্গে।</h2></div>
-              <div className="reveal-right lg:justify-self-end"><p className="max-w-md text-[16px] leading-7 text-[#6B574C]">আপনার আশেপাশের প্যান্ডেল, রেল–বাস–অটো সংযোগ, আর সন্ধ্যার সহজ রুট — এক জায়গায়। বিস্তারিত গাইড খুলে পছন্দের গন্তব্য থেকে শুরু করুন।</p><Link href="/guide" className="mt-5 inline-flex items-center gap-2 rounded-full bg-[#2A201A] px-5 py-3 text-sm font-bold text-[#FFF9EF] transition-all hover:-translate-y-1 hover:bg-[#B52A22] active:scale-[0.98]">Guide Me <MapPinned size={16} /></Link></div>
+              <div className="reveal-right lg:justify-self-end"><p className="max-w-md text-[16px] leading-7 text-[#6B574C]">আপনার আশেপাশের প্যান্ডেল, রেল–বাস–অটো সংযোগ, আর সন্ধ্যার সহজ রুট — এক জায়গায়। বিস্তারিত গাইড খুলে পছন্দের গন্তব্য থেকে শুরু করুন।</p>
+                <Link href="/guide" className="mt-5 inline-flex items-center gap-2 rounded-full bg-[#2A201A] px-5 py-3 text-sm font-bold text-[#FFF9EF] transition-all hover:-translate-y-1 hover:bg-[#B52A22] active:scale-[0.98]">Open Guide Map<MapPinned size={16} /></Link></div>
             </div>
             <div className="reveal"><PandalMap showMap={false} /></div>
           </div>

@@ -5,7 +5,7 @@ import duration from "dayjs/plugin/duration";
 
 dayjs.extend(duration);
 
-const TARGET = dayjs("2026-10-10T06:00:00+05:30");
+const TARGET = dayjs("2026-10-10T04:00:00+05:30");
 
 type Remaining = { days: number; hours: number; minutes: number; seconds: number };
 

@@ -1,0 +1,413 @@
+================================================================================
+                    BODHON (বোধন) — DURGA PUJA 2026
+           FULLSTACK MASTERCLASS, ARCHITECTURE EXPLANATION,
+        INTERVIEW QUESTIONS & ANSWERS, AND JUNIOR DEVELOPER GUIDE
+================================================================================
+Creator: Arko Kundu
+Project: Bodhon — Durga Puja Digital Companion & Transit Guide
+Tech Stack: React 19, TypeScript, Vite, Tailwind CSS v4, Express, tRPC, GSAP,
+            Zustand, TanStack Query, Wouter, Google Maps JS SDK, Vitest, Vercel
+
+
+TABLE OF CONTENTS
+--------------------------------------------------------------------------------
+1. PROJECT OVERVIEW & ARCHITECTURAL BREAKDOWN
+2. CORE FEATURES & IMPLEMENTATION DEEP DIVE
+3. 10 HIGH-FREQUENCY INTERVIEW QUESTIONS & IN-DEPTH ANSWERS
+4. REAL-WORLD BUGS ENCOUNTERED & HOW THEY WERE SOLVED
+5. JUNIOR DEVELOPER BEST PRACTICES & CODE STANDARDS
+6. STEP-BY-STEP IMPLEMENTATION BLUEPRINT (HOW TO REPLICATE)
+--------------------------------------------------------------------------------
+
+
+================================================================================
+1. PROJECT OVERVIEW & ARCHITECTURAL BREAKDOWN
+================================================================================
+
+Bodhon (বোধন) is a production-grade fullstack web application and interactive
+cultural portal dedicated to Durga Puja — the grandest festival of West Bengal
+(recognized by UNESCO as Intangible Cultural Heritage of Humanity).
+
+The application combines rich Bengali editorial aesthetics with high-performance
+modern web technologies, offering:
+- An interactive directory of 344+ Durga Puja pandals across Kolkata & Bengal.
+- Live geospatial transit routing (calculating nearest Metro stations, Bus stops,
+  and walking distances using the Haversine formula).
+- Direct Google Maps JavaScript API rendering with an own-built SVG fallback map.
+- A 60 FPS continuous marquee photo motion gallery with zero-distortion lightbox.
+- Bodhon Radio: A persistent global music dock playing festival songs seamlessly
+  across page transitions.
+- A live real-time visitor tracking engine powered by tRPC and JSON disk storage.
+- A day-by-day Bengali festive countdown timeline from Mahalaya to Bijaya Dashami.
+
+SYSTEM ARCHITECTURE:
+--------------------
+                  +-----------------------------------+
+                  |        Client Browser (Vite)       |
+                  |  - React 19 + TypeScript          |
+                  |  - Wouter (Lightweight Router)    |
+                  |  - Zustand (Audio & Pandal State) |
+                  |  - TanStack React Query (Polling) |
+                  |  - Tailwind CSS v4 + GSAP         |
+                  +-----------------+-----------------+
+                                    |
+                    HTTP / JSON-RPC | tRPC Client
+                                    v
+                  +-----------------+-----------------+
+                  |     Express Server (Node.js)      |
+                  |  - tRPC Router (appRouter)        |
+                  |  - Visitor Tracking Service       |
+                  |  - Static Asset Engine (Vite/Dist)|
+                  |  - Vercel Serverless (api/index)  |
+                  +-----------------+-----------------+
+                                    |
+                                    v
+                  +-----------------+-----------------+
+                  |   Data Layer & Static Assets      |
+                  |  - kml-pandals.json (344 Pandals) |
+                  |  - metro-stations.json & bus-stops|
+                  |  - visitor-stats.json (Live Stats)|
+                  |  - /client/public/ (CDN Media)    |
+                  +-----------------------------------+
+
+
+================================================================================
+2. CORE FEATURES & IMPLEMENTATION DEEP DIVE
+================================================================================
+
+A. GEOSPATIAL TRANSIT & NEAREST STATION ALGORITHM:
+   - Uses the Haversine Formula to compute great-circle distances between GPS
+     coordinates on a spherical earth model:
+     d = 2R * arcsin(sqrt(sin^2(Δlat/2) + cos(lat1)*cos(lat2)*sin^2(Δlon/2)))
+   - Evaluates each pandal against all Kolkata Metro stations and major bus stops,
+     generating instant transit cards (e.g. "Sovabazar Sutanuti Metro - 0.4 km").
+   - Users can trigger geolocation via `navigator.geolocation.getCurrentPosition`
+     to automatically sort 344 pandals from nearest to farthest.
+
+B. DIRECT GOOGLE MAPS SDK & FALLBACK ENGINE:
+   - Loads the Google Maps JavaScript SDK dynamically using the Google Maps API key.
+   - When offline or without API keys, activates an own-built canvas/SVG fallback
+     rendering custom pinpoints, tooltips, and pan-zoom navigation.
+
+C. END-TO-END TYPE-SAFE tRPC BACKEND:
+   - Shared `AppRouter` type between backend (`server/routers.ts`) and frontend
+     (`client/src/lib/trpc.ts`).
+   - Zero code generation required: If a backend procedure argument or return type
+     changes, TypeScript immediately throws compiler errors in the frontend.
+
+D. PERSISTENT GLOBAL AUDIO PLAYER (BODHON RADIO):
+   - Managed with Zustand state store (`useBodhonStore`).
+   - The `<audio>` element stays active during SPA route transitions between
+     Home (`/`) and Guide (`/guide`) without stuttering or re-initiating playback.
+
+E. ZERO-DEPENDENCY LIVE VISITOR ENGINE:
+   - Records unique visitor sessions in memory with atomic sync to disk
+     (`data/visitor-stats.json`).
+   - Client polls `trpc.visitor.stats.useQuery()` every 10 seconds, displaying
+     Bengali numerals (e.g. "২৫ জন লাইভ দর্শক").
+
+
+================================================================================
+3. 10 HIGH-FREQUENCY INTERVIEW QUESTIONS & IN-DEPTH ANSWERS
+================================================================================
+
+QUESTION 1: What is tRPC, and how does it achieve end-to-end type safety without
+GraphQL or code generation?
+--------------------------------------------------------------------------------
+ANSWER:
+tRPC (TypeScript Remote Procedure Call) allows you to build fully type-safe APIs
+by leveraging TypeScript's type inference.
+In traditional REST APIs, the backend and frontend are decoupled, requiring
+manual type definitions or OpenAPI code generators. In GraphQL, a schema file
+and code generation tools (like GraphQL Code Generator) are required.
+With tRPC, the backend exports the TypeScript type of the router:
+   `export type AppRouter = typeof appRouter;`
+The frontend imports ONLY the type (`AppRouter`), not the runtime code. When you
+call `trpc.visitor.stats.useQuery()`, TypeScript automatically infers the exact
+input and output types directly from the backend router definitions. If the
+backend changes a field name, the frontend will fail to compile at build time.
+
+
+QUESTION 2: Explain the Haversine formula and why it is used for geospatial
+calculations in this application.
+--------------------------------------------------------------------------------
+ANSWER:
+The Haversine formula determines the great-circle distance between two points on
+a sphere given their longitudes and latitudes.
+Formula:
+   a = sin²(Δφ/2) + cos(φ1) ⋅ cos(φ2) ⋅ sin²(Δλ/2)
+   c = 2 ⋅ atan2( √a, √(1−a) )
+   d = R ⋅ c  (where R is Earth radius ≈ 6,371 km)
+Why not Euclidean distance (Pythagorean Theorem)?
+Because Euclidean distance assumes a flat Cartesian plane. Over small city
+distances, Euclidean calculation distorts distance due to the curvature of the
+earth and the convergence of meridians. Haversine provides sub-meter precision
+across Kolkata city coordinates (lat: 22.4° to 22.7° N) with negligible CPU cost
+(O(1) complexity per point calculation).
+
+
+QUESTION 3: How do you debounce search input in React, and why is it crucial when
+filtering large datasets?
+--------------------------------------------------------------------------------
+ANSWER:
+Debouncing ensures that expensive computations (like filtering and sorting 344+
+items by multiple string matches and coordinates) are only executed after the user
+has paused typing for a specified delay (e.g. 250ms).
+Without debouncing, every keystroke triggers:
+1. Re-running regex/filter comparisons across 344 items.
+2. Recalculating pagination slices.
+3. DOM reconciliation for the visible cards and map markers.
+Implementation pattern:
+```typescript
+const [searchQuery, setSearchQuery] = useState("");
+const [debouncedQuery, setDebouncedQuery] = useState("");
+
+useEffect(() => {
+  const handler = setTimeout(() => {
+    setDebouncedQuery(searchQuery);
+  }, 250);
+  return () => clearTimeout(handler);
+}, [searchQuery]);
+```
+This reduces CPU cycles and prevents input lag on low-power mobile devices.
+
+
+QUESTION 4: What is Zustand, and why choose it over Redux Toolkit or React Context
+for global state management?
+--------------------------------------------------------------------------------
+ANSWER:
+Zustand is a lightweight (1KB), boilerplate-free state management library based
+on publish-subscribe hooks.
+Comparison:
+1. vs React Context: React Context causes all consumer components to re-render
+   whenever any property in the context value changes, unless heavily memoized.
+   Zustand uses atomic selectors (`const isPlaying = useBodhonStore(s => s.isPlaying)`)
+   so components only re-render when their selected slice changes.
+2. vs Redux Toolkit: Redux requires actions, reducers, dispatchers, and provider
+   wrappers. Zustand requires zero boilerplate, no provider wrappers, and can be
+   read and updated outside React components (e.g. in event listeners or utils).
+
+
+QUESTION 5: How does the infinite CSS Marquee loop work mathematically without
+stutter or jumps?
+--------------------------------------------------------------------------------
+ANSWER:
+To achieve a mathematically seamless horizontal loop:
+1. Duplicate the array of items so that the total width of the sequence exceeds
+   the widest possible screen viewport (e.g. 5 items cloned 4 times = 20 items).
+2. Apply CSS `@keyframes` translating the container from `translateX(0%)` to
+   `translateX(-50%)`:
+   ```css
+   @keyframes galleryMarquee {
+     0% { transform: translateX(0%); }
+     100% { transform: translateX(-50%); }
+   }
+   ```
+3. Because the second half of the element list (-50% to -100%) is an exact replica
+   of the first half (0% to -50%), the moment the animation resets from -50% to 0%,
+   the human eye cannot detect the transition.
+4. Setting `animation-play-state: paused` on `:hover` allows visitors to inspect
+   any photo without jumping.
+
+
+QUESTION 6: How does Wouter differ from React Router, and why was it chosen?
+--------------------------------------------------------------------------------
+ANSWER:
+Wouter is a minimalist routing library for React with a bundle size of ~1.5KB
+(compared to React Router's ~15KB+).
+- It uses native React hooks (`useLocation`, `useRoute`).
+- It avoids unnecessary abstractions, keeping bundle size ultra-compact.
+- Supports standard `<Route path="..." component={...} />` and `<Switch>` APIs.
+- Perfect for high-speed mobile-first web applications where every kilobyte of
+  JavaScript impacts First Contentful Paint (FCP) and Time to Interactive (TTI).
+
+
+QUESTION 7: How do you configure a fullstack Vite + Express app to deploy on
+Vercel as a hybrid Static + Serverless app?
+--------------------------------------------------------------------------------
+ANSWER:
+1. **Frontend**: Vite compiles client assets to `dist/public`.
+2. **Backend**: An Express app entry point is created in `api/index.ts` exporting
+   the handler:
+   ```typescript
+   export default app;
+   ```
+3. **Routing Configuration (`vercel.json`)**:
+   ```json
+   {
+     "version": 2,
+     "buildCommand": "vite build",
+     "outputDirectory": "dist/public",
+     "rewrites": [
+       { "source": "/api/(.*)", "destination": "/api" },
+       { "source": "/(.*)", "destination": "/index.html" }
+     ]
+   }
+   ```
+   - Static requests (`.js`, `.css`, images) are served directly from Vercel CDN.
+   - API requests (`/api/*`) invoke the serverless Node.js runtime (`api/index.ts`).
+   - All other routes fall back to `/index.html` for client-side SPA routing.
+
+
+QUESTION 8: Why is React 19's `useLayoutEffect` used for GSAP animations instead
+of `useEffect`?
+--------------------------------------------------------------------------------
+ANSWER:
+`useLayoutEffect` fires synchronously after all DOM mutations but *before* the
+browser paints the screen.
+If GSAP initial animation states (e.g. `opacity: 0`, `translateY: 30px`) are set in
+`useEffect`, the browser first paints the un-animated element in its final position,
+and then snaps it to the initial animated state a fraction of a second later, causing
+a visible Flash of Unstyled Content (FOUC) or visual glitch.
+`useLayoutEffect` guarantees that initial styles are applied before the user sees
+the first frame.
+
+
+QUESTION 9: How does the application prevent audio re-initialization during SPA
+navigation?
+--------------------------------------------------------------------------------
+ANSWER:
+The `<audio>` element is mounted within the persistent layout hierarchy or managed
+via a singleton ref attached to the global Zustand store.
+Because route changes in Wouter only swap the `<Switch>` route component rather
+than triggering a full browser page reload (MPA), the `<AudioDock />` component
+remains mounted in the DOM tree, allowing continuous audio playback without
+interruption.
+
+
+QUESTION 10: How do you implement responsive design for complex layouts (Maps,
+Grids, Sidecards) across mobile and desktop?
+--------------------------------------------------------------------------------
+ANSWER:
+Using Tailwind CSS's mobile-first breakpoint approach (`sm: 640px`, `md: 768px`,
+`lg: 1024px`, `xl: 1280px`):
+1. **Pandal Guide Map**:
+   - Mobile: Vertical stacked layout (`grid-cols-1`). Map is collapsible or
+     tab-switched to conserve vertical space.
+   - Desktop: Side-by-side split screen (`lg:grid-cols-[420px_1fr]`).
+2. **Typography**:
+   - Uses fluid clamping: `text-[clamp(2.5rem,7vw,4.5rem)]` so text scales
+     proportionally with screen width without breaking word wraps.
+3. **Touch Targets**:
+   - All interactive buttons and list items have minimum 44px touch targets with
+     `active:scale-[0.98]` feedback for mobile touch ergonomics.
+
+
+================================================================================
+4. REAL-WORLD BUGS ENCOUNTERED & HOW THEY WERE SOLVED
+================================================================================
+
+BUG 1: React 19 `NotFoundError: Failed to execute 'removeChild' on 'Node'`
+--------------------------------------------------------------------------------
+- **Symptom**: Clicking the clear `✕` button on the search bar threw a fatal
+  DOM exception crashing the component.
+- **Root Cause**: The clear button was conditionally rendered (`{query && <button>}`).
+  When clicked, the `onClick` event handler cleared the query state, causing React
+  to immediately unmount the button while the click event was still bubbling up the
+  DOM hierarchy.
+- **Solution**: Keep the button permanently mounted in the DOM, and control its
+  visibility using CSS classes (`invisible opacity-0 pointer-events-none` vs.
+  `visible opacity-100 pointer-events-auto`). This prevents React from altering
+  the DOM tree during the event loop.
+
+BUG 2: Initial Page Load Auto-Scrolling Down to Audio Dock
+--------------------------------------------------------------------------------
+- **Symptom**: On initial website open, the browser automatically jumped down
+  past the hero section directly to the music player.
+- **Root Cause**: Inside `AudioDock.tsx`, `activeCard?.scrollIntoView()` ran on
+  component mount. `Element.scrollIntoView()` scrolls all ancestor containers,
+  including `window`/`viewport`.
+- **Solution**:
+  1. Add an `initialMount = useRef(true)` guard to skip execution on first render.
+  2. Replace `scrollIntoView()` with container-scoped horizontal scrolling:
+     `rail.scrollTo({ left: targetScrollLeft, behavior: "smooth" })`.
+  3. Add a `<ScrollToTop />` route listener in `App.tsx` ensuring `(0, 0)` top
+     position on route change.
+
+BUG 3: Broken Media in Production Due to Proxy Dependency
+--------------------------------------------------------------------------------
+- **Symptom**: Audio and images failed to load on production deployment because
+  `/manus-storage` relied on a local server proxy.
+- **Solution**: Moved all assets directly to `/client/public/` and updated all
+  references to root paths (`/DhakBajaKashorBaja_7b910599.mp3`, `/durga-icon.png`).
+  Vite copies these directly into `dist/public`, allowing Vercel's global CDN to
+  serve them statically with zero backend latency.
+
+
+================================================================================
+5. JUNIOR DEVELOPER BEST PRACTICES & CODE STANDARDS
+================================================================================
+
+1. **Defensive DOM Operations**:
+   Never remove an element from the DOM during its own click handler. Use CSS
+   visibility toggling or `pointer-events-none` to keep reconciliation stable.
+
+2. **Always Bound Event Listeners**:
+   When attaching event listeners (`window.addEventListener("scroll", ...)`),
+   always return a cleanup function in `useEffect` to prevent memory leaks.
+
+3. **Separate Concerns (Presentational vs Business Logic)**:
+   Keep components focused. For example, `PandalMap.tsx` handles UI rendering,
+   while `bodhon-data.ts` and transit calculation algorithms live in helper utils.
+
+4. **Favor Pure Type Sharing**:
+   Avoid duplicating interfaces across frontend and backend. Use tRPC or shared
+   type packages (`@shared/*`) to maintain a single source of truth.
+
+5. **Graceful Degradation**:
+   Always design fallbacks. If the user denies GPS location permission, sort by
+   default category. If the Google Maps API key is missing, render the SVG fallback.
+   If an image fails to load, display an artistic fallback icon (`onError`).
+
+6. **Optimize Static Assets**:
+   Use modern image formats (`.webp`) and compress audio files. Never put multi-MB
+   uncompressed media in your repositories.
+
+7. **Accessibility (a11y)**:
+   - Provide `aria-label` for icon-only buttons (`✕`, `Play`, `Menu`).
+   - Use semantic HTML tags (`<header>`, `<main>`, `<section>`, `<article>`).
+   - Ensure color contrast ratios meet WCAG AA standards (e.g. `#B52A22` on `#FFF9EF`).
+
+8. **Meaningful Git Commit Messages**:
+   Use Conventional Commits:
+   - `feat: add live visitor counter with tRPC polling`
+   - `fix: resolve scrollIntoView viewport jump on initial mount`
+   - `docs: add comprehensive interview and architecture guide`
+
+
+================================================================================
+6. STEP-BY-STEP IMPLEMENTATION BLUEPRINT (HOW TO REPLICATE)
+================================================================================
+
+Want to build your own city festival guide? Follow this 5-stage blueprint:
+
+STAGE 1: DATA MODELING
+- Collect geo-coordinates (lat, lng, name, category, description) in JSON.
+- Create transit anchor dataset (Metro/Train/Bus stops).
+- Write a Haversine distance calculator utility.
+
+STAGE 2: BACKEND & API SETUP
+- Initialize Express with tRPC router.
+- Define procedures: `visitor.stats` (query) and `visitor.recordVisit` (mutation).
+- Configure JSON file or SQLite/Postgres persistence.
+
+STAGE 3: FRONTEND FOUNDATION
+- Set up Vite + React + Tailwind CSS.
+- Establish design tokens: Color palette, typography (Google Fonts), spacing.
+- Build layout shell: Sticky header, footer, global toast container.
+
+STAGE 4: INTERACTIVE COMPONENTS
+- Create interactive Map component with Google Maps SDK + fallback canvas.
+- Build Search Bar with real-time debounced query filtering.
+- Implement Audio Player with Zustand global state and custom seek/time rails.
+- Build Marquee Gallery with CSS keyframes and modal lightbox.
+
+STAGE 5: POLISH, TEST & DEPLOY
+- Write Vitest unit tests for transit calculations and UI components.
+- Run `pnpm check` and `pnpm build`.
+- Add `vercel.json` and deploy to Vercel.
+
+================================================================================
+                           END OF DOCUMENTATION
+                       May Maa Durga Bless Your Code!
+================================================================================

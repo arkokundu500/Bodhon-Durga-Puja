@@ -10,7 +10,7 @@ export type TransitPoint = { id: string; name: string; nameBn?: string; lat: num
 export type Track = { id: string; title: string; subtitle: string; cover: string; src: string };
 
 export const PUJA_TIMELINE: PujaDay[] = [
-  { eyebrow: "আলো জ্বলার আগে", title: "মহালয়া", date: "শনিবার, ১০ অক্টোবর ২০২৬", isoDate: "2026-10-10T06:00:00+05:30", note: "চণ্ডীপাঠ, ভোরের রেডিও, মায়ের আগমনী" },
+  { eyebrow: "আলো জ্বলার আগে", title: "মহালয়া", date: "শনিবার, ১০ অক্টোবর ২০২৬", isoDate: "2026-10-10T04:00:00+05:30", note: "চণ্ডীপাঠ, ভোরের রেডিও, মায়ের আগমনী" },
   { eyebrow: "প্যান্ডেলে প্রথম পা", title: "মহা পঞ্চমী", date: "বৃহস্পতিবার, ১৫ অক্টোবর ২০২৬", isoDate: "2026-10-15T06:00:00+05:30", note: "পুজো আসছে না, পুজো এসেই গেছে!" },
   { eyebrow: "বোধনের দিন", title: "মহা ষষ্ঠী", date: "শুক্রবার, ১৬ অক্টোবর ২০২৬", isoDate: "2026-10-16T06:00:00+05:30", note: "Finally, Pujo mode ON!" },
   { eyebrow: "নবপত্রিকার সকাল", title: "মহা সপ্তমী", date: "শনিবার, ১৭ অক্টোবর ২০২৬", isoDate: "2026-10-17T06:00:00+05:30", note: "কিছু সূচিতে রবিবার, ১৮ অক্টোবর পর্যন্ত" },
