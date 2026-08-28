@@ -1,0 +1,120 @@
+/* Bodhon visual reminder: contemporary Bengali editorial — warm paper surfaces, marigold radiance, Bodhon Vermilion #B52A22, ink brown #2A201A, asymmetric rhythm, alpona geometry, and restrained scroll motion. */
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Noto Serif Bengali", Georgia, serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+}
+
+:root {
+  --radius: 0.85rem;
+  --background: oklch(0.965 0.022 85);
+  --foreground: oklch(0.22 0.025 50);
+  --card: oklch(0.985 0.012 85);
+  --card-foreground: oklch(0.22 0.025 50);
+  --popover: oklch(0.985 0.012 85);
+  --popover-foreground: oklch(0.22 0.025 50);
+  --primary: oklch(0.47 0.16 28);
+  --primary-foreground: oklch(0.985 0.012 85);
+  --secondary: oklch(0.91 0.035 83);
+  --secondary-foreground: oklch(0.35 0.035 50);
+  --muted: oklch(0.93 0.023 83);
+  --muted-foreground: oklch(0.49 0.035 50);
+  --accent: oklch(0.79 0.14 82);
+  --accent-foreground: oklch(0.22 0.025 50);
+  --destructive: oklch(0.55 0.2 25);
+  --destructive-foreground: oklch(0.985 0.012 85);
+  --border: oklch(0.82 0.04 65 / 45%);
+  --input: oklch(0.82 0.04 65 / 35%);
+  --ring: oklch(0.47 0.16 28);
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; background: #F8F1E4; }
+body {
+  margin: 0;
+  min-width: 320px;
+  background: #F8F1E4;
+  color: #2A201A;
+  font-family: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+button, a, input, textarea { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+::selection { background: #B52A22; color: #FFF9EF; }
+
+@layer base {
+  * { @apply border-border outline-ring/50; }
+  button:not(:disabled), [role="button"]:not([aria-disabled="true"]), a[href], select:not(:disabled) { @apply cursor-pointer; }
+}
+
+@layer components {
+  .container { width: 100%; margin-inline: auto; padding-inline: 1rem; }
+  @media (min-width: 640px) { .container { padding-inline: 1.5rem; } }
+  @media (min-width: 1024px) { .container { max-width: 1280px; padding-inline: 2rem; } }
+
+  .section-kicker { font-size: 0.68rem; font-weight: 800; letter-spacing: 0.2em; line-height: 1; text-transform: uppercase; }
+  .alpona-ring { position: relative; }
+  .alpona-ring::before, .alpona-ring::after { position: absolute; content: ""; border-radius: 9999px; border: 1px solid currentColor; opacity: 0.28; }
+  .alpona-ring::before { inset: -5px; border-style: dashed; }
+  .alpona-ring::after { inset: 4px; border-width: 0 1px 1px 0; transform: rotate(45deg); }
+  .field-label { display: block; color: rgba(42,32,26,0.72); font-size: 0.72rem; font-weight: 800; letter-spacing: 0.04em; margin-bottom: 0.55rem; }
+  .field-input { width: 100%; border-radius: 1.1rem; border: 1px solid rgba(181,42,34,0.18); background: rgba(255,249,239,0.62); color: #2A201A; outline: none; padding: 0.85rem 1rem; transition: border-color 180ms ease, background 180ms ease, box-shadow 180ms ease; }
+  .field-input::placeholder { color: rgba(42,32,26,0.43); }
+  .field-input:focus { border-color: #B52A22; background: rgba(255,249,239,0.86); box-shadow: 0 0 0 4px rgba(181,42,34,0.12); }
+}
+
+.grain { position: relative; }
+.grain::after { position: absolute; inset: 0; z-index: 2; pointer-events: none; opacity: 0.08; content: ""; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.32'/%3E%3C/svg%3E"); mix-blend-mode: soft-light; }
+
+@keyframes galleryMarquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-gallery-marquee {
+  animation: galleryMarquee 35s linear infinite;
+  will-change: transform;
+}
+
+@media (max-width: 640px) {
+  .animate-gallery-marquee {
+    animation-duration: 25s;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}

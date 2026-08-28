@@ -1,0 +1,3782 @@
+[
+  {
+    "id": "419272417",
+    "name": "South City Mall",
+    "nameBn": "",
+    "lat": 22.5021252,
+    "lng": 88.3617949
+  },
+  {
+    "id": "419272419",
+    "name": "Jadavpur Thana",
+    "nameBn": "",
+    "lat": 22.5029575,
+    "lng": 88.3677326
+  },
+  {
+    "id": "423615236",
+    "name": "VIP Bazar",
+    "nameBn": "",
+    "lat": 22.5260927,
+    "lng": 88.3956743
+  },
+  {
+    "id": "570084799",
+    "name": "Colony More",
+    "nameBn": "কলোনি মোড়",
+    "lat": 22.723162,
+    "lng": 88.4784668
+  },
+  {
+    "id": "651802692",
+    "name": "Baghajatin",
+    "nameBn": "",
+    "lat": 22.4839937,
+    "lng": 88.3755826
+  },
+  {
+    "id": "651803240",
+    "name": "Annapurna",
+    "nameBn": "",
+    "lat": 22.4861449,
+    "lng": 88.3748101
+  },
+  {
+    "id": "651804166",
+    "name": "Krishna",
+    "nameBn": "",
+    "lat": 22.4885141,
+    "lng": 88.3731686
+  },
+  {
+    "id": "651804431",
+    "name": "Sukanta Setu",
+    "nameBn": "",
+    "lat": 22.4912303,
+    "lng": 88.3723103
+  },
+  {
+    "id": "651804657",
+    "name": "Jadavpur 8B",
+    "nameBn": "",
+    "lat": 22.4956536,
+    "lng": 88.3706122
+  },
+  {
+    "id": "651804962",
+    "name": "Dhakuria",
+    "nameBn": "",
+    "lat": 22.5078133,
+    "lng": 88.3670532
+  },
+  {
+    "id": "651805056",
+    "name": "Golpark",
+    "nameBn": "",
+    "lat": 22.5155838,
+    "lng": 88.3667742
+  },
+  {
+    "id": "651805197",
+    "name": "Gariahat",
+    "nameBn": "",
+    "lat": 22.5194439,
+    "lng": 88.365148
+  },
+  {
+    "id": "651805440",
+    "name": "Ballygunj Phari",
+    "nameBn": "",
+    "lat": 22.5276708,
+    "lng": 88.3661028
+  },
+  {
+    "id": "663975778",
+    "name": "Shyam Bazar Five Point Crossing",
+    "nameBn": "",
+    "lat": 22.6019224,
+    "lng": 88.3736714
+  },
+  {
+    "id": "669234848",
+    "name": "Shimultala Auto stop",
+    "nameBn": "",
+    "lat": 22.4442676,
+    "lng": 88.4098309
+  },
+  {
+    "id": "844568183",
+    "name": "Kwality",
+    "nameBn": "",
+    "lat": 22.5986739,
+    "lng": 88.4140692
+  },
+  {
+    "id": "1179934292",
+    "name": "kaswara",
+    "nameBn": "",
+    "lat": 22.9145091,
+    "lng": 88.299093
+  },
+  {
+    "id": "1272967204",
+    "name": "Taratalla",
+    "nameBn": "",
+    "lat": 22.5131109,
+    "lng": 88.3224906
+  },
+  {
+    "id": "1272967207",
+    "name": "Behala Tram Depot",
+    "nameBn": "",
+    "lat": 22.499411,
+    "lng": 88.3177975
+  },
+  {
+    "id": "1274128854",
+    "name": "Ekbalpore",
+    "nameBn": "",
+    "lat": 22.533306,
+    "lng": 88.3272361
+  },
+  {
+    "id": "1274128859",
+    "name": "Behala Manton",
+    "nameBn": "",
+    "lat": 22.4948331,
+    "lng": 88.3164005
+  },
+  {
+    "id": "1274128863",
+    "name": "Mominpore",
+    "nameBn": "",
+    "lat": 22.5270528,
+    "lng": 88.3260988
+  },
+  {
+    "id": "1274128865",
+    "name": "Behala Chowrashta",
+    "nameBn": "",
+    "lat": 22.4869206,
+    "lng": 88.3129882
+  },
+  {
+    "id": "1274128866",
+    "name": "Behala Shakherbajar",
+    "nameBn": "",
+    "lat": 22.4814683,
+    "lng": 88.3105635
+  },
+  {
+    "id": "1327779115",
+    "name": "Haltu",
+    "nameBn": "হালতু",
+    "lat": 22.510785,
+    "lng": 88.381874
+  },
+  {
+    "id": "1554591190",
+    "name": "Chhatakal",
+    "nameBn": "",
+    "lat": 22.6216656,
+    "lng": 88.4046093
+  },
+  {
+    "id": "1554595779",
+    "name": "Nagerbazar",
+    "nameBn": "",
+    "lat": 22.622809,
+    "lng": 88.4141264
+  },
+  {
+    "id": "1591425421",
+    "name": "Prince Anwar Shah Road",
+    "nameBn": "",
+    "lat": 22.50135,
+    "lng": 88.3449282
+  },
+  {
+    "id": "1618586749",
+    "name": "Kanthadhar",
+    "nameBn": "",
+    "lat": 22.7954281,
+    "lng": 88.3683158
+  },
+  {
+    "id": "1618616450",
+    "name": "Store bazar",
+    "nameBn": "",
+    "lat": 22.8049018,
+    "lng": 88.3706725
+  },
+  {
+    "id": "1618833462",
+    "name": "Park Gate",
+    "nameBn": "",
+    "lat": 22.800963,
+    "lng": 88.3699189
+  },
+  {
+    "id": "1618880394",
+    "name": "Badam Tala",
+    "nameBn": "",
+    "lat": 22.7909362,
+    "lng": 88.3677006
+  },
+  {
+    "id": "1618880500",
+    "name": "Choumatha",
+    "nameBn": "",
+    "lat": 22.7932062,
+    "lng": 88.3676845
+  },
+  {
+    "id": "1618893475",
+    "name": "Lalkuthi",
+    "nameBn": "",
+    "lat": 22.7667996,
+    "lng": 88.3690471
+  },
+  {
+    "id": "1618893913",
+    "name": "Palta",
+    "nameBn": "",
+    "lat": 22.7814799,
+    "lng": 88.3683068
+  },
+  {
+    "id": "1672312948",
+    "name": "Court More",
+    "nameBn": "",
+    "lat": 22.8615706,
+    "lng": 88.3671905
+  },
+  {
+    "id": "1672312964",
+    "name": "Bagbazar",
+    "nameBn": "",
+    "lat": 22.8634094,
+    "lng": 88.3678114
+  },
+  {
+    "id": "1702530312",
+    "name": "Technopolis",
+    "nameBn": "",
+    "lat": 22.5804274,
+    "lng": 88.438056
+  },
+  {
+    "id": "1865813499",
+    "name": "Ruby Hospital",
+    "nameBn": "",
+    "lat": 22.5127692,
+    "lng": 88.401791
+  },
+  {
+    "id": "1983446869",
+    "name": "Paddapukur",
+    "nameBn": "",
+    "lat": 22.5320528,
+    "lng": 88.3530149
+  },
+  {
+    "id": "1983446874",
+    "name": "Lansdowne Market",
+    "nameBn": "",
+    "lat": 22.5285447,
+    "lng": 88.3528594
+  },
+  {
+    "id": "1983446886",
+    "name": "Deshapriya Park",
+    "nameBn": "",
+    "lat": 22.5175341,
+    "lng": 88.3524248
+  },
+  {
+    "id": "1983446889",
+    "name": "Vivekananda Park",
+    "nameBn": "",
+    "lat": 22.5137208,
+    "lng": 88.3592993
+  },
+  {
+    "id": "1983446893",
+    "name": "Rashbehari",
+    "nameBn": "",
+    "lat": 22.5171723,
+    "lng": 88.3455638
+  },
+  {
+    "id": "1983446896",
+    "name": "Shishumangal",
+    "nameBn": "",
+    "lat": 22.5235796,
+    "lng": 88.352103
+  },
+  {
+    "id": "1983446901",
+    "name": "Hazra Law College",
+    "nameBn": "",
+    "lat": 22.5258639,
+    "lng": 88.3631805
+  },
+  {
+    "id": "1983446903",
+    "name": "Judge Court Lal Batti",
+    "nameBn": "",
+    "lat": 22.5252941,
+    "lng": 88.3313105
+  },
+  {
+    "id": "1983469953",
+    "name": "Exide",
+    "nameBn": "",
+    "lat": 22.5417517,
+    "lng": 88.3474426
+  },
+  {
+    "id": "1983499741",
+    "name": "Beckbagan",
+    "nameBn": "",
+    "lat": 22.5408326,
+    "lng": 88.3592162
+  },
+  {
+    "id": "1983542773",
+    "name": "Park Circus - Seven Point",
+    "nameBn": "",
+    "lat": 22.5436154,
+    "lng": 88.3667626
+  },
+  {
+    "id": "1983542778",
+    "name": "Jora Girja",
+    "nameBn": "",
+    "lat": 22.5549476,
+    "lng": 88.3647845
+  },
+  {
+    "id": "2009122783",
+    "name": "DLF",
+    "nameBn": "",
+    "lat": 22.5814478,
+    "lng": 88.4496537
+  },
+  {
+    "id": "2036319857",
+    "name": "Chingrighata",
+    "nameBn": "",
+    "lat": 22.5568433,
+    "lng": 88.4123496
+  },
+  {
+    "id": "2075106755",
+    "name": "Mint",
+    "nameBn": "",
+    "lat": 22.5159671,
+    "lng": 88.3229547
+  },
+  {
+    "id": "2148899078",
+    "name": "Webel More",
+    "nameBn": "",
+    "lat": 22.5720532,
+    "lng": 88.4324131
+  },
+  {
+    "id": "2211350535",
+    "name": "Tollygunj Metro",
+    "nameBn": "",
+    "lat": 22.4946866,
+    "lng": 88.3454753
+  },
+  {
+    "id": "2234881819",
+    "name": "Paribesh Bhavan",
+    "nameBn": "",
+    "lat": 22.5614687,
+    "lng": 88.4088032
+  },
+  {
+    "id": "2252599710",
+    "name": "Andul",
+    "nameBn": "",
+    "lat": 22.5854821,
+    "lng": 88.2358751
+  },
+  {
+    "id": "2252599716",
+    "name": "Andul Station Road",
+    "nameBn": "",
+    "lat": 22.5845955,
+    "lng": 88.2429025
+  },
+  {
+    "id": "2284379642",
+    "name": "Babu Ghat",
+    "nameBn": "",
+    "lat": 22.5650989,
+    "lng": 88.3396621
+  },
+  {
+    "id": "2288704426",
+    "name": "Rajarhat Station",
+    "nameBn": "",
+    "lat": 22.6277029,
+    "lng": 88.4883749
+  },
+  {
+    "id": "2288913453",
+    "name": "Rajarhat Rekjoani",
+    "nameBn": "",
+    "lat": 22.6317997,
+    "lng": 88.4831974
+  },
+  {
+    "id": "2452822470",
+    "name": "Jyangra Choumatha",
+    "nameBn": "",
+    "lat": 22.6176496,
+    "lng": 88.4346393
+  },
+  {
+    "id": "2452822579",
+    "name": "Raghunathpur",
+    "nameBn": "",
+    "lat": 22.6188262,
+    "lng": 88.4324255
+  },
+  {
+    "id": "2452822582",
+    "name": "Tegharia",
+    "nameBn": "",
+    "lat": 22.6213954,
+    "lng": 88.4327698
+  },
+  {
+    "id": "2452822585",
+    "name": "Big Bazaar",
+    "nameBn": "",
+    "lat": 22.6179571,
+    "lng": 88.431881
+  },
+  {
+    "id": "2452822588",
+    "name": "Joramandir",
+    "nameBn": "",
+    "lat": 22.6131768,
+    "lng": 88.4299479
+  },
+  {
+    "id": "2453083698",
+    "name": "Kaikhali",
+    "nameBn": "",
+    "lat": 22.6344209,
+    "lng": 88.4346171
+  },
+  {
+    "id": "2453444447",
+    "name": "Chinar Park",
+    "nameBn": "",
+    "lat": 22.6236199,
+    "lng": 88.4410164
+  },
+  {
+    "id": "2453444448",
+    "name": "Haldiram",
+    "nameBn": "",
+    "lat": 22.6277514,
+    "lng": 88.4335135
+  },
+  {
+    "id": "2453444460",
+    "name": "Baguiati",
+    "nameBn": "বাগুইআটি",
+    "lat": 22.6102177,
+    "lng": 88.427972
+  },
+  {
+    "id": "2453444461",
+    "name": "College More",
+    "nameBn": "কলেজ মোর",
+    "lat": 22.6072744,
+    "lng": 88.4264879
+  },
+  {
+    "id": "2453444462",
+    "name": "Keshtopur (Krishnapur)",
+    "nameBn": "কেষ্টপুর",
+    "lat": 22.6038165,
+    "lng": 88.4242768
+  },
+  {
+    "id": "2455026031",
+    "name": "Rabindra Pally",
+    "nameBn": "",
+    "lat": 22.6017314,
+    "lng": 88.4285398
+  },
+  {
+    "id": "2455034005",
+    "name": "Shitala Mandir",
+    "nameBn": "",
+    "lat": 22.6015412,
+    "lng": 88.4310928
+  },
+  {
+    "id": "2455116015",
+    "name": "SreeBhumi",
+    "nameBn": "",
+    "lat": 22.5981082,
+    "lng": 88.4036131
+  },
+  {
+    "id": "2455116020",
+    "name": "Golaghata",
+    "nameBn": "",
+    "lat": 22.5961058,
+    "lng": 88.4003045
+  },
+  {
+    "id": "2456244815",
+    "name": "Salt Lake Gate",
+    "nameBn": "",
+    "lat": 22.5898561,
+    "lng": 88.3967956
+  },
+  {
+    "id": "2456244816",
+    "name": "PNB",
+    "nameBn": "",
+    "lat": 22.5916566,
+    "lng": 88.4001329
+  },
+  {
+    "id": "2456244817",
+    "name": "PNB",
+    "nameBn": "",
+    "lat": 22.5912297,
+    "lng": 88.3997476
+  },
+  {
+    "id": "2456244818",
+    "name": "PNB",
+    "nameBn": "",
+    "lat": 22.5912825,
+    "lng": 88.3995024
+  },
+  {
+    "id": "2456244819",
+    "name": "AB AC Pahri",
+    "nameBn": "",
+    "lat": 22.5932572,
+    "lng": 88.4024985
+  },
+  {
+    "id": "2456244820",
+    "name": "3 No",
+    "nameBn": "",
+    "lat": 22.5947143,
+    "lng": 88.4053712
+  },
+  {
+    "id": "2456244821",
+    "name": "BD",
+    "nameBn": "",
+    "lat": 22.5958425,
+    "lng": 88.4072132
+  },
+  {
+    "id": "2456244822",
+    "name": "AD",
+    "nameBn": "",
+    "lat": 22.5960796,
+    "lng": 88.4072681
+  },
+  {
+    "id": "2456249739",
+    "name": "Tank No. 4",
+    "nameBn": "",
+    "lat": 22.5970338,
+    "lng": 88.4088718
+  },
+  {
+    "id": "2456254448",
+    "name": "Sen Mahasay Kwality",
+    "nameBn": "",
+    "lat": 22.5985594,
+    "lng": 88.4114814
+  },
+  {
+    "id": "2456254451",
+    "name": "BE Kwality",
+    "nameBn": "",
+    "lat": 22.5984842,
+    "lng": 88.4117152
+  },
+  {
+    "id": "2456260329",
+    "name": "CAP Camp",
+    "nameBn": "",
+    "lat": 22.5985111,
+    "lng": 88.4159488
+  },
+  {
+    "id": "2456260330",
+    "name": "Tank 5 bus stop",
+    "nameBn": "",
+    "lat": 22.5979353,
+    "lng": 88.4186932
+  },
+  {
+    "id": "2457678690",
+    "name": "Airport No. 1 Gate",
+    "nameBn": "",
+    "lat": 22.6415745,
+    "lng": 88.4312932
+  },
+  {
+    "id": "2460710965",
+    "name": "First Gate",
+    "nameBn": "",
+    "lat": 22.5739686,
+    "lng": 88.433413
+  },
+  {
+    "id": "2460737275",
+    "name": "Saltlake EE Block Bus Stop",
+    "nameBn": "",
+    "lat": 22.5822352,
+    "lng": 88.4242073
+  },
+  {
+    "id": "2460737276",
+    "name": "Japani Gate Salt Lake Mini Bus Terminus",
+    "nameBn": "",
+    "lat": 22.5790355,
+    "lng": 88.42612
+  },
+  {
+    "id": "2460737277",
+    "name": "Wipro",
+    "nameBn": "",
+    "lat": 22.5789982,
+    "lng": 88.4266991
+  },
+  {
+    "id": "2460737278",
+    "name": "201 Nimta PO - Nicco Park Bus Terminus",
+    "nameBn": "",
+    "lat": 22.5789289,
+    "lng": 88.4263316
+  },
+  {
+    "id": "2460767452",
+    "name": "Karunamoyee 4",
+    "nameBn": "",
+    "lat": 22.5853358,
+    "lng": 88.4223485
+  },
+  {
+    "id": "2460767454",
+    "name": "Karunamoyee",
+    "nameBn": "",
+    "lat": 22.5859945,
+    "lng": 88.4209109
+  },
+  {
+    "id": "2460767457",
+    "name": "Karunamoyee 2",
+    "nameBn": "",
+    "lat": 22.5853482,
+    "lng": 88.4216619
+  },
+  {
+    "id": "2460767461",
+    "name": "Karunamoyee 1",
+    "nameBn": "",
+    "lat": 22.5852641,
+    "lng": 88.4219595
+  },
+  {
+    "id": "2460767462",
+    "name": "Karunamoyee 3",
+    "nameBn": "",
+    "lat": 22.5857989,
+    "lng": 88.4220213
+  },
+  {
+    "id": "2460767463",
+    "name": "Number 9 Island",
+    "nameBn": "",
+    "lat": 22.5865839,
+    "lng": 88.4241188
+  },
+  {
+    "id": "2460827326",
+    "name": "City Centre",
+    "nameBn": "",
+    "lat": 22.5899519,
+    "lng": 88.4084144
+  },
+  {
+    "id": "2460843429",
+    "name": "Labony",
+    "nameBn": "",
+    "lat": 22.5829732,
+    "lng": 88.4056169
+  },
+  {
+    "id": "2460843437",
+    "name": "Labony 2",
+    "nameBn": "",
+    "lat": 22.5817857,
+    "lng": 88.4064698
+  },
+  {
+    "id": "2460843440",
+    "name": "Vidyasagar",
+    "nameBn": "",
+    "lat": 22.5848727,
+    "lng": 88.4042275
+  },
+  {
+    "id": "2460852907",
+    "name": "GD Island",
+    "nameBn": "",
+    "lat": 22.5765668,
+    "lng": 88.4134121
+  },
+  {
+    "id": "2460884256",
+    "name": "FD Block",
+    "nameBn": "",
+    "lat": 22.5793849,
+    "lng": 88.4143931
+  },
+  {
+    "id": "2460884257",
+    "name": "FD",
+    "nameBn": "",
+    "lat": 22.5847835,
+    "lng": 88.4118879
+  },
+  {
+    "id": "2460971982",
+    "name": "Tank No. 7",
+    "nameBn": "",
+    "lat": 22.5962481,
+    "lng": 88.4245587
+  },
+  {
+    "id": "2460971983",
+    "name": "Baishaki",
+    "nameBn": "",
+    "lat": 22.597084,
+    "lng": 88.4215227
+  },
+  {
+    "id": "2460972893",
+    "name": "Number 7 Island / Circle",
+    "nameBn": "",
+    "lat": 22.593404,
+    "lng": 88.4265998
+  },
+  {
+    "id": "2461167025",
+    "name": "8 Number Tank",
+    "nameBn": "",
+    "lat": 22.5866916,
+    "lng": 88.4312842
+  },
+  {
+    "id": "2461167032",
+    "name": "Number 8 Island",
+    "nameBn": "",
+    "lat": 22.5895544,
+    "lng": 88.4292203
+  },
+  {
+    "id": "2461169194",
+    "name": "Nicco Park",
+    "nameBn": "",
+    "lat": 22.5721539,
+    "lng": 88.4208263
+  },
+  {
+    "id": "2461173842",
+    "name": "Nalban",
+    "nameBn": "",
+    "lat": 22.5690096,
+    "lng": 88.4300009
+  },
+  {
+    "id": "2461173852",
+    "name": "Nalban",
+    "nameBn": "",
+    "lat": 22.5691384,
+    "lng": 88.4300826
+  },
+  {
+    "id": "2461180954",
+    "name": "Infinity Crossing",
+    "nameBn": "",
+    "lat": 22.5700203,
+    "lng": 88.4313691
+  },
+  {
+    "id": "2461180962",
+    "name": "SDF",
+    "nameBn": "",
+    "lat": 22.5690146,
+    "lng": 88.4308135
+  },
+  {
+    "id": "2461204982",
+    "name": "Beleghata",
+    "nameBn": "",
+    "lat": 22.5621921,
+    "lng": 88.4079664
+  },
+  {
+    "id": "2461210032",
+    "name": "Chingrighata",
+    "nameBn": "",
+    "lat": 22.5580221,
+    "lng": 88.4113168
+  },
+  {
+    "id": "2461214063",
+    "name": "Chingrighata",
+    "nameBn": "",
+    "lat": 22.5586562,
+    "lng": 88.4108018
+  },
+  {
+    "id": "2461216050",
+    "name": "Metropolitan",
+    "nameBn": "",
+    "lat": 22.5525577,
+    "lng": 88.4063762
+  },
+  {
+    "id": "2461251724",
+    "name": "Mathpukur",
+    "nameBn": "",
+    "lat": 22.5486688,
+    "lng": 88.4005204
+  },
+  {
+    "id": "2461251736",
+    "name": "Dhapa",
+    "nameBn": "",
+    "lat": 22.5478233,
+    "lng": 88.4002314
+  },
+  {
+    "id": "2462029273",
+    "name": "Surer Math",
+    "nameBn": "",
+    "lat": 22.621781,
+    "lng": 88.405465
+  },
+  {
+    "id": "2464905500",
+    "name": "Santragachhi",
+    "nameBn": "",
+    "lat": 22.585473,
+    "lng": 88.2829399
+  },
+  {
+    "id": "2498418663",
+    "name": "Patuli",
+    "nameBn": "",
+    "lat": 22.4719281,
+    "lng": 88.3897463
+  },
+  {
+    "id": "2609397923",
+    "name": "Joramandir Bazar",
+    "nameBn": "",
+    "lat": 22.5615882,
+    "lng": 88.4026968
+  },
+  {
+    "id": "2657809360",
+    "name": "Barasat Central Bus Terminus",
+    "nameBn": "",
+    "lat": 22.7204341,
+    "lng": 88.4870014
+  },
+  {
+    "id": "2790155771",
+    "name": "CIT More",
+    "nameBn": "",
+    "lat": 22.5628512,
+    "lng": 88.3962626
+  },
+  {
+    "id": "3157361872",
+    "name": "Kudghat",
+    "nameBn": "",
+    "lat": 22.4813707,
+    "lng": 88.3458155
+  },
+  {
+    "id": "3157361873",
+    "name": "New Town Bus Depot",
+    "nameBn": "",
+    "lat": 22.5826577,
+    "lng": 88.4539212
+  },
+  {
+    "id": "3410371984",
+    "name": "Rajabazaar Crossing",
+    "nameBn": "",
+    "lat": 22.5755184,
+    "lng": 88.3733021
+  },
+  {
+    "id": "3410884040",
+    "name": "Nabapally",
+    "nameBn": "",
+    "lat": 22.5146691,
+    "lng": 88.3904126
+  },
+  {
+    "id": "3454322290",
+    "name": "Chaitanya doba bus stop",
+    "nameBn": "",
+    "lat": 22.9448107,
+    "lng": 88.4163461
+  },
+  {
+    "id": "3454322291",
+    "name": "Tentultal Bus Stop",
+    "nameBn": "",
+    "lat": 22.9450255,
+    "lng": 88.4189714
+  },
+  {
+    "id": "3522898210",
+    "name": "Ghoshpara",
+    "nameBn": "",
+    "lat": 22.9800583,
+    "lng": 88.4379678
+  },
+  {
+    "id": "3528438427",
+    "name": "Congress Road",
+    "nameBn": "",
+    "lat": 22.9779346,
+    "lng": 88.4290881
+  },
+  {
+    "id": "3641889608",
+    "name": "Triborno Sangha",
+    "nameBn": "",
+    "lat": 22.5166073,
+    "lng": 88.3883991
+  },
+  {
+    "id": "3716824628",
+    "name": "Hospital More",
+    "nameBn": "",
+    "lat": 22.8661918,
+    "lng": 88.3692236
+  },
+  {
+    "id": "3716824629",
+    "name": "Laxmiganj Bazar",
+    "nameBn": "",
+    "lat": 22.8655242,
+    "lng": 88.3715646
+  },
+  {
+    "id": "3809526015",
+    "name": "58 Bus Stand",
+    "nameBn": "",
+    "lat": 22.5712854,
+    "lng": 88.3108368
+  },
+  {
+    "id": "3809526016",
+    "name": "Mandirtala Bus Stand",
+    "nameBn": "",
+    "lat": 22.5697077,
+    "lng": 88.3176363
+  },
+  {
+    "id": "3809532792",
+    "name": "Kajipara",
+    "nameBn": "",
+    "lat": 22.5641143,
+    "lng": 88.3211309
+  },
+  {
+    "id": "3809532793",
+    "name": "Shibpur Bazaar More",
+    "nameBn": "",
+    "lat": 22.5657574,
+    "lng": 88.3232203
+  },
+  {
+    "id": "3809532795",
+    "name": "Tram Depot",
+    "nameBn": "",
+    "lat": 22.567981,
+    "lng": 88.3240927
+  },
+  {
+    "id": "3815203336",
+    "name": "Aloka Cinema",
+    "nameBn": "",
+    "lat": 22.5701824,
+    "lng": 88.3261369
+  },
+  {
+    "id": "3881963221",
+    "name": "Kajipara",
+    "nameBn": "",
+    "lat": 22.5638594,
+    "lng": 88.320828
+  },
+  {
+    "id": "3888646024",
+    "name": "Betaitala",
+    "nameBn": "",
+    "lat": 22.5620059,
+    "lng": 88.3127348
+  },
+  {
+    "id": "3888646835",
+    "name": "D.B.College",
+    "nameBn": "",
+    "lat": 22.5623962,
+    "lng": 88.318821
+  },
+  {
+    "id": "3888646836",
+    "name": "Betaitala Bazar",
+    "nameBn": "",
+    "lat": 22.5618579,
+    "lng": 88.3144166
+  },
+  {
+    "id": "3888647070",
+    "name": "Shalimar",
+    "nameBn": "",
+    "lat": 22.5608404,
+    "lng": 88.3113386
+  },
+  {
+    "id": "3888755940",
+    "name": "B.E.College",
+    "nameBn": "",
+    "lat": 22.5575487,
+    "lng": 88.3068222
+  },
+  {
+    "id": "3888761871",
+    "name": "B.Garden",
+    "nameBn": "",
+    "lat": 22.5571809,
+    "lng": 88.3010388
+  },
+  {
+    "id": "4170884119",
+    "name": "nonapukur",
+    "nameBn": "",
+    "lat": 22.5504286,
+    "lng": 88.3628561
+  },
+  {
+    "id": "4170915490",
+    "name": "Shyambazer Bata",
+    "nameBn": "",
+    "lat": 22.6028257,
+    "lng": 88.3735084
+  },
+  {
+    "id": "4178727273",
+    "name": "Chiriya more",
+    "nameBn": "",
+    "lat": 22.61818,
+    "lng": 88.3791799
+  },
+  {
+    "id": "4178778357",
+    "name": "Dakshineswar",
+    "nameBn": "",
+    "lat": 22.6526986,
+    "lng": 88.3631643
+  },
+  {
+    "id": "4195415967",
+    "name": "Ruby",
+    "nameBn": "",
+    "lat": 22.5133156,
+    "lng": 88.4013174
+  },
+  {
+    "id": "4195415969",
+    "name": "Ruby Hospital",
+    "nameBn": "",
+    "lat": 22.513245,
+    "lng": 88.4025652
+  },
+  {
+    "id": "4198857274",
+    "name": "Ruby",
+    "nameBn": "",
+    "lat": 22.5139833,
+    "lng": 88.401584
+  },
+  {
+    "id": "4198894030",
+    "name": "Siemens",
+    "nameBn": "",
+    "lat": 22.5140844,
+    "lng": 88.3955136
+  },
+  {
+    "id": "4198894031",
+    "name": "Siemens",
+    "nameBn": "",
+    "lat": 22.514033,
+    "lng": 88.3952865
+  },
+  {
+    "id": "4198894032",
+    "name": "Bosepukur Shitalamandir",
+    "nameBn": "",
+    "lat": 22.5192503,
+    "lng": 88.3852102
+  },
+  {
+    "id": "4198894033",
+    "name": "Bosepukur Shitalamandir",
+    "nameBn": "",
+    "lat": 22.5192878,
+    "lng": 88.3853346
+  },
+  {
+    "id": "4198894036",
+    "name": "Ekdalia",
+    "nameBn": "",
+    "lat": 22.521226,
+    "lng": 88.3694508
+  },
+  {
+    "id": "4198894037",
+    "name": "Ekdalia",
+    "nameBn": "",
+    "lat": 22.5209912,
+    "lng": 88.3687046
+  },
+  {
+    "id": "4198894038",
+    "name": "Fern Road",
+    "nameBn": "",
+    "lat": 22.5204526,
+    "lng": 88.3674187
+  },
+  {
+    "id": "4198894039",
+    "name": "Fern Road",
+    "nameBn": "",
+    "lat": 22.5204711,
+    "lng": 88.3671628
+  },
+  {
+    "id": "4198894040",
+    "name": "Gariahat",
+    "nameBn": "",
+    "lat": 22.5197789,
+    "lng": 88.3654297
+  },
+  {
+    "id": "4198894041",
+    "name": "Gariahat",
+    "nameBn": "",
+    "lat": 22.5194835,
+    "lng": 88.3650649
+  },
+  {
+    "id": "4198894042",
+    "name": "Siemens",
+    "nameBn": "",
+    "lat": 22.514006,
+    "lng": 88.3955159
+  },
+  {
+    "id": "4254019154",
+    "name": "Narkeldanga",
+    "nameBn": "",
+    "lat": 22.5136754,
+    "lng": 88.3981379
+  },
+  {
+    "id": "4254019155",
+    "name": "Narkeldanga",
+    "nameBn": "",
+    "lat": 22.5137952,
+    "lng": 88.3979581
+  },
+  {
+    "id": "4254019156",
+    "name": "Ruby",
+    "nameBn": "",
+    "lat": 22.5127574,
+    "lng": 88.4020774
+  },
+  {
+    "id": "4254019161",
+    "name": "Science City",
+    "nameBn": "",
+    "lat": 22.5411554,
+    "lng": 88.3981365
+  },
+  {
+    "id": "4255794609",
+    "name": "Anandapur",
+    "nameBn": "",
+    "lat": 22.5125261,
+    "lng": 88.4086019
+  },
+  {
+    "id": "4255794610",
+    "name": "Nabapally",
+    "nameBn": "",
+    "lat": 22.5147581,
+    "lng": 88.3904034
+  },
+  {
+    "id": "4255794611",
+    "name": "Triborno",
+    "nameBn": "",
+    "lat": 22.5159206,
+    "lng": 88.3890762
+  },
+  {
+    "id": "4255794612",
+    "name": "Triborno",
+    "nameBn": "",
+    "lat": 22.5158183,
+    "lng": 88.388911
+  },
+  {
+    "id": "4267858525",
+    "name": "Post Office",
+    "nameBn": "",
+    "lat": 22.5195,
+    "lng": 88.3762022
+  },
+  {
+    "id": "4267858526",
+    "name": "Post Office",
+    "nameBn": "",
+    "lat": 22.5195785,
+    "lng": 88.3762239
+  },
+  {
+    "id": "4267858527",
+    "name": "Kasba Old Police Station",
+    "nameBn": "কসবা পুরোনো থানা",
+    "lat": 22.5197791,
+    "lng": 88.3754284
+  },
+  {
+    "id": "4267858528",
+    "name": "Gariahat",
+    "nameBn": "",
+    "lat": 22.5196384,
+    "lng": 88.3656241
+  },
+  {
+    "id": "4267858529",
+    "name": "Gariahat",
+    "nameBn": "গড়িয়াহাট",
+    "lat": 22.5194794,
+    "lng": 88.3654262
+  },
+  {
+    "id": "4324654690",
+    "name": "Coal India",
+    "nameBn": "",
+    "lat": 22.5809761,
+    "lng": 88.4458578
+  },
+  {
+    "id": "4364246317",
+    "name": "206 bus stop",
+    "nameBn": "",
+    "lat": 22.4720183,
+    "lng": 88.3991122
+  },
+  {
+    "id": "4440990296",
+    "name": "Swadeshi More",
+    "nameBn": "",
+    "lat": 22.6988115,
+    "lng": 88.3749529
+  },
+  {
+    "id": "4440995392",
+    "name": "Sodepur Traffic More",
+    "nameBn": "",
+    "lat": 22.7007773,
+    "lng": 88.374823
+  },
+  {
+    "id": "4453324601",
+    "name": "First Gate",
+    "nameBn": "",
+    "lat": 22.5129318,
+    "lng": 88.4050373
+  },
+  {
+    "id": "4453324602",
+    "name": "Second Gate",
+    "nameBn": "",
+    "lat": 22.5128474,
+    "lng": 88.405716
+  },
+  {
+    "id": "4453324603",
+    "name": "Third Gate",
+    "nameBn": "",
+    "lat": 22.5126899,
+    "lng": 88.4071304
+  },
+  {
+    "id": "4478721664",
+    "name": "Haraharitala",
+    "nameBn": "",
+    "lat": 22.4124072,
+    "lng": 88.4183066
+  },
+  {
+    "id": "4478767356",
+    "name": "Kadar Ashram Bus Stop",
+    "nameBn": "",
+    "lat": 22.4085044,
+    "lng": 88.4208403
+  },
+  {
+    "id": "4523697907",
+    "name": "Taltala bazar",
+    "nameBn": "",
+    "lat": 22.5563202,
+    "lng": 88.3583221
+  },
+  {
+    "id": "4567623236",
+    "name": "bata more bus stop",
+    "nameBn": "",
+    "lat": 22.4994678,
+    "lng": 88.23153
+  },
+  {
+    "id": "4646479067",
+    "name": "Godown Gate",
+    "nameBn": "",
+    "lat": 22.5590393,
+    "lng": 88.3087044
+  },
+  {
+    "id": "4646479068",
+    "name": "Projnanananda Bus Stop",
+    "nameBn": "",
+    "lat": 22.5598393,
+    "lng": 88.3098546
+  },
+  {
+    "id": "4856922622",
+    "name": "gotu bazar",
+    "nameBn": "",
+    "lat": 22.9075265,
+    "lng": 88.3289352
+  },
+  {
+    "id": "4856922721",
+    "name": "Alinagar",
+    "nameBn": "",
+    "lat": 22.9133478,
+    "lng": 88.3066267
+  },
+  {
+    "id": "4856922821",
+    "name": "dilli road, hiway",
+    "nameBn": "",
+    "lat": 22.9057585,
+    "lng": 88.3381443
+  },
+  {
+    "id": "5044212190",
+    "name": "Siris Bagan",
+    "nameBn": "",
+    "lat": 22.5674612,
+    "lng": 88.4819395
+  },
+  {
+    "id": "5044212192",
+    "name": "Unitech Gate 1",
+    "nameBn": "",
+    "lat": 22.574454,
+    "lng": 88.4799563
+  },
+  {
+    "id": "5044212193",
+    "name": "Tata Medical",
+    "nameBn": "",
+    "lat": 22.576353,
+    "lng": 88.4791145
+  },
+  {
+    "id": "5044212195",
+    "name": "New Town",
+    "nameBn": "",
+    "lat": 22.5816091,
+    "lng": 88.4527297
+  },
+  {
+    "id": "5044212196",
+    "name": "DLF 1",
+    "nameBn": "",
+    "lat": 22.5813836,
+    "lng": 88.4507715
+  },
+  {
+    "id": "5044212197",
+    "name": "Technopolis",
+    "nameBn": "",
+    "lat": 22.5803283,
+    "lng": 88.4379642
+  },
+  {
+    "id": "5044212198",
+    "name": "RS Software",
+    "nameBn": "",
+    "lat": 22.5768631,
+    "lng": 88.4349264
+  },
+  {
+    "id": "5044212199",
+    "name": "College More",
+    "nameBn": "",
+    "lat": 22.5749254,
+    "lng": 88.4339039
+  },
+  {
+    "id": "5080788783",
+    "name": "Patipukur Fanri",
+    "nameBn": "",
+    "lat": 22.6082198,
+    "lng": 88.3948828
+  },
+  {
+    "id": "5080788784",
+    "name": "Lake town",
+    "nameBn": "",
+    "lat": 22.6097509,
+    "lng": 88.4026439
+  },
+  {
+    "id": "5080788786",
+    "name": "Kalindi",
+    "nameBn": "",
+    "lat": 22.6094315,
+    "lng": 88.4005465
+  },
+  {
+    "id": "5080788797",
+    "name": "Motijheel",
+    "nameBn": "",
+    "lat": 22.6224339,
+    "lng": 88.410193
+  },
+  {
+    "id": "5080788809",
+    "name": "Dumdum Metro",
+    "nameBn": "",
+    "lat": 22.6198467,
+    "lng": 88.3927104
+  },
+  {
+    "id": "5080788812",
+    "name": "Dum Dum Station",
+    "nameBn": "",
+    "lat": 22.6199389,
+    "lng": 88.3940702
+  },
+  {
+    "id": "5080793625",
+    "name": "Hanuman Mandir",
+    "nameBn": "",
+    "lat": 22.6213721,
+    "lng": 88.4023351
+  },
+  {
+    "id": "5080813703",
+    "name": "Bangur",
+    "nameBn": "",
+    "lat": 22.6111306,
+    "lng": 88.4091751
+  },
+  {
+    "id": "5263361107",
+    "name": "Sanghati Park Bus stop",
+    "nameBn": "",
+    "lat": 22.8431168,
+    "lng": 88.6220633
+  },
+  {
+    "id": "5311861530",
+    "name": "R.G. Kar Medical College and Hospital",
+    "nameBn": "",
+    "lat": 22.6034134,
+    "lng": 88.3783598
+  },
+  {
+    "id": "5311861531",
+    "name": "Belgachia More",
+    "nameBn": "",
+    "lat": 22.6052471,
+    "lng": 88.3840518
+  },
+  {
+    "id": "5311861532",
+    "name": "Belgachia Metro",
+    "nameBn": "",
+    "lat": 22.6061291,
+    "lng": 88.3868673
+  },
+  {
+    "id": "5311861533",
+    "name": "Duttabagan",
+    "nameBn": "",
+    "lat": 22.6073875,
+    "lng": 88.3909822
+  },
+  {
+    "id": "5311861534",
+    "name": "Patipukur Fish Market",
+    "nameBn": "",
+    "lat": 22.6079137,
+    "lng": 88.3934937
+  },
+  {
+    "id": "5465037942",
+    "name": "Babu Ghat",
+    "nameBn": "",
+    "lat": 22.5650825,
+    "lng": 88.3397639
+  },
+  {
+    "id": "5465228870",
+    "name": "Joramandir",
+    "nameBn": "",
+    "lat": 22.613301,
+    "lng": 88.4294592
+  },
+  {
+    "id": "5563073566",
+    "name": "New market",
+    "nameBn": "",
+    "lat": 22.8377085,
+    "lng": 88.6075862
+  },
+  {
+    "id": "5567031303",
+    "name": "Airport No. 1 Gate",
+    "nameBn": "",
+    "lat": 22.6417998,
+    "lng": 88.4315005
+  },
+  {
+    "id": "5574213459",
+    "name": "Bijan Bhavan",
+    "nameBn": "",
+    "lat": 22.5734938,
+    "lng": 88.4128821
+  },
+  {
+    "id": "5641802563",
+    "name": "Karigori Bhavan",
+    "nameBn": "",
+    "lat": 22.5601954,
+    "lng": 88.4914294
+  },
+  {
+    "id": "5833123085",
+    "name": "Chiria more",
+    "nameBn": "",
+    "lat": 22.6187242,
+    "lng": 88.3793002
+  },
+  {
+    "id": "6135361873",
+    "name": "Camac Street;ACJ Boss Road Crossing",
+    "nameBn": "",
+    "lat": 22.5415351,
+    "lng": 88.3518671
+  },
+  {
+    "id": "6141500246",
+    "name": "AC Bose Road",
+    "nameBn": "",
+    "lat": 22.541486,
+    "lng": 88.352836
+  },
+  {
+    "id": "6141500383",
+    "name": "AJC Bose Road, Minto Park",
+    "nameBn": "",
+    "lat": 22.5413733,
+    "lng": 88.3549773
+  },
+  {
+    "id": "6157953333",
+    "name": "Kathgola",
+    "nameBn": "",
+    "lat": 22.6295929,
+    "lng": 88.4863086
+  },
+  {
+    "id": "6173705482",
+    "name": "Marquis Street",
+    "nameBn": "",
+    "lat": 22.5565249,
+    "lng": 88.3559708
+  },
+  {
+    "id": "6175581522",
+    "name": "South Garia",
+    "nameBn": "",
+    "lat": 22.4001728,
+    "lng": 88.4772932
+  },
+  {
+    "id": "6378369685",
+    "name": "ODRC",
+    "nameBn": "",
+    "lat": 22.5084089,
+    "lng": 88.3204321
+  },
+  {
+    "id": "6395492065",
+    "name": "Ghasiara More",
+    "nameBn": "",
+    "lat": 22.4392394,
+    "lng": 88.4431933
+  },
+  {
+    "id": "6395618886",
+    "name": "Rahara bazar bus stop",
+    "nameBn": "",
+    "lat": 22.7239265,
+    "lng": 88.3867904
+  },
+  {
+    "id": "6395690486",
+    "name": "Kamalgazi More",
+    "nameBn": "",
+    "lat": 22.4467803,
+    "lng": 88.3902624
+  },
+  {
+    "id": "6397707886",
+    "name": "Ashoknagar Bus Stop",
+    "nameBn": "",
+    "lat": 22.828058,
+    "lng": 88.627711
+  },
+  {
+    "id": "6403387591",
+    "name": "Baidyabati Chowmatha",
+    "nameBn": "",
+    "lat": 22.7878127,
+    "lng": 88.3231807
+  },
+  {
+    "id": "6409324900",
+    "name": "Gandhimore",
+    "nameBn": "",
+    "lat": 22.9468846,
+    "lng": 88.4488402
+  },
+  {
+    "id": "6469067986",
+    "name": "Maidan Bus Stop",
+    "nameBn": "",
+    "lat": 22.5496586,
+    "lng": 88.348759
+  },
+  {
+    "id": "6510186386",
+    "name": "Airport mora",
+    "nameBn": "",
+    "lat": 22.5132412,
+    "lng": 88.30236
+  },
+  {
+    "id": "6528088185",
+    "name": "11A Bus Station",
+    "nameBn": "",
+    "lat": 22.6193604,
+    "lng": 88.3917483
+  },
+  {
+    "id": "6528144885",
+    "name": "ODRC",
+    "nameBn": "",
+    "lat": 22.5082842,
+    "lng": 88.3207431
+  },
+  {
+    "id": "6528146786",
+    "name": "Airport mora",
+    "nameBn": "",
+    "lat": 22.5133024,
+    "lng": 88.3023438
+  },
+  {
+    "id": "6528149985",
+    "name": "Airport More",
+    "nameBn": "",
+    "lat": 22.5132553,
+    "lng": 88.3023394
+  },
+  {
+    "id": "6528585885",
+    "name": "Jhinjhira Bazaar",
+    "nameBn": "",
+    "lat": 22.517233,
+    "lng": 88.2978143
+  },
+  {
+    "id": "6541565786",
+    "name": "26 A Bus Stop",
+    "nameBn": "",
+    "lat": 22.7354365,
+    "lng": 88.197059
+  },
+  {
+    "id": "6541624085",
+    "name": "Naktala",
+    "nameBn": "",
+    "lat": 22.4738701,
+    "lng": 88.3619683
+  },
+  {
+    "id": "6541642789",
+    "name": "4B,Bus Stand",
+    "nameBn": "",
+    "lat": 22.6189106,
+    "lng": 88.3731814
+  },
+  {
+    "id": "6541660785",
+    "name": "Hindu Gobra Bus Stop",
+    "nameBn": "",
+    "lat": 22.5389541,
+    "lng": 88.3765874
+  },
+  {
+    "id": "6791412446",
+    "name": "Santoshpur Lake Pally Bus Stop",
+    "nameBn": "",
+    "lat": 22.4917517,
+    "lng": 88.3830872
+  },
+  {
+    "id": "6902873342",
+    "name": "Hatisala Bus Stand",
+    "nameBn": "",
+    "lat": 22.545442,
+    "lng": 88.5302119
+  },
+  {
+    "id": "6956599532",
+    "name": "South City Mall",
+    "nameBn": "",
+    "lat": 22.5022005,
+    "lng": 88.3617984
+  },
+  {
+    "id": "7055897015",
+    "name": "Park Street",
+    "nameBn": "পার্ক স্ট্রীট",
+    "lat": 22.5548915,
+    "lng": 88.3502179
+  },
+  {
+    "id": "7265806835",
+    "name": "Sahid Nagar Bus Stop",
+    "nameBn": "",
+    "lat": 22.5035812,
+    "lng": 88.3761437
+  },
+  {
+    "id": "7265847795",
+    "name": "Ganguli Pukur Bus Stop",
+    "nameBn": "",
+    "lat": 22.5031182,
+    "lng": 88.3787268
+  },
+  {
+    "id": "7266172768",
+    "name": "Safuipara Bus Stop",
+    "nameBn": "",
+    "lat": 22.5023977,
+    "lng": 88.3840299
+  },
+  {
+    "id": "7266616946",
+    "name": "Safuipara Bus Stop",
+    "nameBn": "",
+    "lat": 22.5022427,
+    "lng": 88.3845512
+  },
+  {
+    "id": "7266625751",
+    "name": "Shitala Mandir Bus Stop",
+    "nameBn": "",
+    "lat": 22.5026073,
+    "lng": 88.3908552
+  },
+  {
+    "id": "7468327498",
+    "name": "Tank No. 4",
+    "nameBn": "",
+    "lat": 22.5973446,
+    "lng": 88.4097153
+  },
+  {
+    "id": "7578419904",
+    "name": "Rajarhat Chowmatha",
+    "nameBn": "",
+    "lat": 22.6266867,
+    "lng": 88.4889817
+  },
+  {
+    "id": "7578419905",
+    "name": "Rajarhat Station",
+    "nameBn": "",
+    "lat": 22.6277061,
+    "lng": 88.4878229
+  },
+  {
+    "id": "7578419906",
+    "name": "Kathgola",
+    "nameBn": "",
+    "lat": 22.6291941,
+    "lng": 88.4861623
+  },
+  {
+    "id": "7578419907",
+    "name": "Rajarhat Police Station",
+    "nameBn": "",
+    "lat": 22.631234,
+    "lng": 88.484875
+  },
+  {
+    "id": "7592526130",
+    "name": "Podra Baroaritala",
+    "nameBn": "",
+    "lat": 22.5610542,
+    "lng": 88.2688005
+  },
+  {
+    "id": "7592663941",
+    "name": "Podra Ferry Ghat",
+    "nameBn": "",
+    "lat": 22.5608395,
+    "lng": 88.2704748
+  },
+  {
+    "id": "7592756490",
+    "name": "Podra More",
+    "nameBn": "",
+    "lat": 22.5606413,
+    "lng": 88.2718642
+  },
+  {
+    "id": "7592794257",
+    "name": "Podra More",
+    "nameBn": "",
+    "lat": 22.5672463,
+    "lng": 88.2729525
+  },
+  {
+    "id": "7592815571",
+    "name": "Kali Temple",
+    "nameBn": "",
+    "lat": 22.5616098,
+    "lng": 88.2671488
+  },
+  {
+    "id": "7592836570",
+    "name": "Chunavati",
+    "nameBn": "",
+    "lat": 22.5623554,
+    "lng": 88.2640697
+  },
+  {
+    "id": "7592857978",
+    "name": "Chunavati",
+    "nameBn": "",
+    "lat": 22.5680844,
+    "lng": 88.2680662
+  },
+  {
+    "id": "7592867220",
+    "name": "Narayana Hospital",
+    "nameBn": "",
+    "lat": 22.5677228,
+    "lng": 88.270405
+  },
+  {
+    "id": "7592869311",
+    "name": "Indus Nursing Home",
+    "nameBn": "",
+    "lat": 22.5674825,
+    "lng": 88.2717166
+  },
+  {
+    "id": "7597486942",
+    "name": "Bakultala",
+    "nameBn": "",
+    "lat": 22.5641518,
+    "lng": 88.2860984
+  },
+  {
+    "id": "7597502637",
+    "name": "Nazirganj",
+    "nameBn": "",
+    "lat": 22.5569786,
+    "lng": 88.2819946
+  },
+  {
+    "id": "7597502901",
+    "name": "Haldarpara",
+    "nameBn": "",
+    "lat": 22.5667327,
+    "lng": 88.2755868
+  },
+  {
+    "id": "7597514486",
+    "name": "Tetultala",
+    "nameBn": "",
+    "lat": 22.5633949,
+    "lng": 88.2906604
+  },
+  {
+    "id": "7597518722",
+    "name": "Bakultala Post Office",
+    "nameBn": "",
+    "lat": 22.5649717,
+    "lng": 88.2841377
+  },
+  {
+    "id": "7597518878",
+    "name": "Maria's Day School",
+    "nameBn": "",
+    "lat": 22.5664256,
+    "lng": 88.2771292
+  },
+  {
+    "id": "7597518879",
+    "name": "Haskhali Pole",
+    "nameBn": "",
+    "lat": 22.5657197,
+    "lng": 88.2806911
+  },
+  {
+    "id": "7597521588",
+    "name": "Shalimar Paints",
+    "nameBn": "",
+    "lat": 22.5590072,
+    "lng": 88.2761501
+  },
+  {
+    "id": "7597524307",
+    "name": "Botanical Garden (B.Garden)",
+    "nameBn": "",
+    "lat": 22.5638942,
+    "lng": 88.2886063
+  },
+  {
+    "id": "7597539534",
+    "name": "College Ghat",
+    "nameBn": "",
+    "lat": 22.5620415,
+    "lng": 88.3060728
+  },
+  {
+    "id": "7597539599",
+    "name": "Lal Kuthi",
+    "nameBn": "",
+    "lat": 22.5630892,
+    "lng": 88.2926537
+  },
+  {
+    "id": "7597540018",
+    "name": "Kali Mandir",
+    "nameBn": "",
+    "lat": 22.5576573,
+    "lng": 88.27935
+  },
+  {
+    "id": "7597545561",
+    "name": "GKW Gate",
+    "nameBn": "",
+    "lat": 22.5630422,
+    "lng": 88.3019502
+  },
+  {
+    "id": "7597548799",
+    "name": "Haskhali Pole",
+    "nameBn": "",
+    "lat": 22.5585119,
+    "lng": 88.277408
+  },
+  {
+    "id": "7597550614",
+    "name": "N H Narayana Superspeciality Hospital",
+    "nameBn": "",
+    "lat": 22.5620539,
+    "lng": 88.3076285
+  },
+  {
+    "id": "7597556249",
+    "name": "Danesh Sheikh Lane",
+    "nameBn": "",
+    "lat": 22.5628886,
+    "lng": 88.2958858
+  },
+  {
+    "id": "7597559821",
+    "name": "Gov. Quater Gate",
+    "nameBn": "",
+    "lat": 22.5640552,
+    "lng": 88.2982864
+  },
+  {
+    "id": "7597562056",
+    "name": "Amtala Phari",
+    "nameBn": "",
+    "lat": 22.5641295,
+    "lng": 88.2991527
+  },
+  {
+    "id": "7597562768",
+    "name": "Shalimar Station",
+    "nameBn": "",
+    "lat": 22.5623511,
+    "lng": 88.3100425
+  },
+  {
+    "id": "7597570132",
+    "name": "Andul Cemetery",
+    "nameBn": "",
+    "lat": 22.5625988,
+    "lng": 88.3037205
+  },
+  {
+    "id": "7972231320",
+    "name": "Kalyani More",
+    "nameBn": "",
+    "lat": 22.9679336,
+    "lng": 88.5455311
+  },
+  {
+    "id": "8179760524",
+    "name": "Kampa More",
+    "nameBn": "",
+    "lat": 22.9334383,
+    "lng": 88.4570839
+  },
+  {
+    "id": "8235661791",
+    "name": "তেঁতুলতলা বাসস্টপ",
+    "nameBn": "",
+    "lat": 22.7616609,
+    "lng": 88.3287763
+  },
+  {
+    "id": "8235682940",
+    "name": "নবগ্ৰাম মোড়",
+    "nameBn": "",
+    "lat": 22.7573252,
+    "lng": 88.3276219
+  },
+  {
+    "id": "8237233943",
+    "name": "মরাদান বাসস্টপ",
+    "nameBn": "",
+    "lat": 22.7587826,
+    "lng": 88.3282319
+  },
+  {
+    "id": "8247012608",
+    "name": "বেল্টিং বাজার",
+    "nameBn": "",
+    "lat": 22.7511776,
+    "lng": 88.3357629
+  },
+  {
+    "id": "8247035673",
+    "name": "ন‌ওগাঁ বাজার বাসস্টপ",
+    "nameBn": "",
+    "lat": 22.7565879,
+    "lng": 88.327585
+  },
+  {
+    "id": "8247041080",
+    "name": "কালিতলা বাসস্টপ",
+    "nameBn": "",
+    "lat": 22.7501043,
+    "lng": 88.3442568
+  },
+  {
+    "id": "8247041907",
+    "name": "শীতলাতলা বাসস্টপ",
+    "nameBn": "",
+    "lat": 22.7648818,
+    "lng": 88.3300496
+  },
+  {
+    "id": "8247058278",
+    "name": "বটতলা",
+    "nameBn": "",
+    "lat": 22.7498168,
+    "lng": 88.3466968
+  },
+  {
+    "id": "8247065580",
+    "name": "বৌবাজার বাসস্টপ",
+    "nameBn": "",
+    "lat": 22.7677428,
+    "lng": 88.3300455
+  },
+  {
+    "id": "8247079607",
+    "name": "Natun rastar mor",
+    "nameBn": "",
+    "lat": 22.5843167,
+    "lng": 88.30782
+  },
+  {
+    "id": "8922188717",
+    "name": "Ram Nagar More Bus Stop",
+    "nameBn": "",
+    "lat": 22.543479,
+    "lng": 88.2946904
+  },
+  {
+    "id": "9033613482",
+    "name": "MN3 Bus Stop",
+    "nameBn": "",
+    "lat": 22.942004,
+    "lng": 88.6381139
+  },
+  {
+    "id": "9033613483",
+    "name": "95/22 Bus Stop",
+    "nameBn": "",
+    "lat": 22.942121,
+    "lng": 88.6379353
+  },
+  {
+    "id": "9033613484",
+    "name": "22 Bus Stop",
+    "nameBn": "",
+    "lat": 22.9418506,
+    "lng": 88.6376386
+  },
+  {
+    "id": "9033613485",
+    "name": "19B Bus Stop",
+    "nameBn": "",
+    "lat": 22.941905,
+    "lng": 88.6376214
+  },
+  {
+    "id": "9033613486",
+    "name": "22 No. Bus Stop",
+    "nameBn": "",
+    "lat": 22.9418496,
+    "lng": 88.6342148
+  },
+  {
+    "id": "9033613487",
+    "name": "MN3/95 Bus Stop",
+    "nameBn": "",
+    "lat": 22.9423869,
+    "lng": 88.6400886
+  },
+  {
+    "id": "9033613488",
+    "name": "19B Bus Stop",
+    "nameBn": "",
+    "lat": 22.9424608,
+    "lng": 88.6404005
+  },
+  {
+    "id": "9033613489",
+    "name": "WBTC/SBSTC Stand",
+    "nameBn": "",
+    "lat": 22.9422354,
+    "lng": 88.640261
+  },
+  {
+    "id": "9033613490",
+    "name": "WBTC/SBSTC Stand",
+    "nameBn": "",
+    "lat": 22.9419761,
+    "lng": 88.6383382
+  },
+  {
+    "id": "9033613491",
+    "name": "WBTC/SBSTC Stand",
+    "nameBn": "",
+    "lat": 22.9417918,
+    "lng": 88.6369647
+  },
+  {
+    "id": "9033613492",
+    "name": "WBTC/SBSTC Stand",
+    "nameBn": "",
+    "lat": 22.941764,
+    "lng": 88.6360198
+  },
+  {
+    "id": "9033613493",
+    "name": "WBTC/SBSTC Stand",
+    "nameBn": "",
+    "lat": 22.941728,
+    "lng": 88.6348332
+  },
+  {
+    "id": "9033613494",
+    "name": "WBTC/SBSTC Stand",
+    "nameBn": "",
+    "lat": 22.941878,
+    "lng": 88.6340265
+  },
+  {
+    "id": "9154990469",
+    "name": "Shimultala Masjid stop",
+    "nameBn": "",
+    "lat": 22.4443162,
+    "lng": 88.4095359
+  },
+  {
+    "id": "9415194576",
+    "name": "Teliar Mor",
+    "nameBn": "তেলিয়ার মোর",
+    "lat": 22.7661081,
+    "lng": 88.2596751
+  },
+  {
+    "id": "9566184517",
+    "name": "Kauborsthan",
+    "nameBn": "",
+    "lat": 22.5840846,
+    "lng": 88.3917069
+  },
+  {
+    "id": "9566184518",
+    "name": "Kaborsthan",
+    "nameBn": "",
+    "lat": 22.5844244,
+    "lng": 88.3916133
+  },
+  {
+    "id": "9567534817",
+    "name": "Hudco",
+    "nameBn": "",
+    "lat": 22.5900243,
+    "lng": 88.3933015
+  },
+  {
+    "id": "9910998317",
+    "name": "Topsia",
+    "nameBn": "",
+    "lat": 22.5418017,
+    "lng": 88.3869552
+  },
+  {
+    "id": "10099991892",
+    "name": "Shimultala Playground Stop",
+    "nameBn": "",
+    "lat": 22.4442509,
+    "lng": 88.4107984
+  },
+  {
+    "id": "10186087295",
+    "name": "14 No Bus Stop",
+    "nameBn": "",
+    "lat": 22.5024104,
+    "lng": 88.3182696
+  },
+  {
+    "id": "10186087296",
+    "name": "14 No Bus Stop",
+    "nameBn": "",
+    "lat": 22.5020736,
+    "lng": 88.3179935
+  },
+  {
+    "id": "10186118010",
+    "name": "Mohananda Crossing BUs Stop",
+    "nameBn": "",
+    "lat": 22.5015283,
+    "lng": 88.3209192
+  },
+  {
+    "id": "10186153814",
+    "name": "Mohananda Crossing BUs Stop",
+    "nameBn": "",
+    "lat": 22.5015356,
+    "lng": 88.3209069
+  },
+  {
+    "id": "10241822509",
+    "name": "Kasba Purono Thana",
+    "nameBn": "",
+    "lat": 22.5193054,
+    "lng": 88.3784625
+  },
+  {
+    "id": "10241822609",
+    "name": "Kasba Bakultala",
+    "nameBn": "",
+    "lat": 22.5192474,
+    "lng": 88.380664
+  },
+  {
+    "id": "10265037993",
+    "name": "Gate No. 7, IISER",
+    "nameBn": "",
+    "lat": 22.9678747,
+    "lng": 88.5304399
+  },
+  {
+    "id": "10558740109",
+    "name": "Babughat ferry to Howrah",
+    "nameBn": "",
+    "lat": 22.5679041,
+    "lng": 88.3412882
+  },
+  {
+    "id": "10792907261",
+    "name": "St. Xavier's",
+    "nameBn": "",
+    "lat": 22.5622319,
+    "lng": 88.4876767
+  },
+  {
+    "id": "10792907262",
+    "name": "St. Xavier's",
+    "nameBn": "",
+    "lat": 22.5624573,
+    "lng": 88.4877786
+  },
+  {
+    "id": "10860783265",
+    "name": "Swasthya Bhawan",
+    "nameBn": "",
+    "lat": 22.5706379,
+    "lng": 88.426408
+  },
+  {
+    "id": "10896146135",
+    "name": "Padma Stoppage",
+    "nameBn": "",
+    "lat": 22.3377298,
+    "lng": 88.4981651
+  },
+  {
+    "id": "10897166959",
+    "name": "lalkuti bus stop",
+    "nameBn": "",
+    "lat": 22.7666584,
+    "lng": 88.3695145
+  },
+  {
+    "id": "10914565529",
+    "name": "barrackpore sbstc bus stand",
+    "nameBn": "",
+    "lat": 22.7604185,
+    "lng": 88.3703069
+  },
+  {
+    "id": "10917915298",
+    "name": "Kalimuddin",
+    "nameBn": "",
+    "lat": 22.5632628,
+    "lng": 88.3941866
+  },
+  {
+    "id": "11127999744",
+    "name": "Owl Stop",
+    "nameBn": "",
+    "lat": 22.6049457,
+    "lng": 88.4695444
+  },
+  {
+    "id": "11422427266",
+    "name": "Gariahat Bus stop",
+    "nameBn": "",
+    "lat": 22.5258568,
+    "lng": 88.3661467
+  },
+  {
+    "id": "11540007265",
+    "name": "Patuli",
+    "nameBn": "",
+    "lat": 22.4718652,
+    "lng": 88.3897901
+  },
+  {
+    "id": "11846943569",
+    "name": "Natun Diyara, Bansh Pol",
+    "nameBn": "",
+    "lat": 22.4693304,
+    "lng": 88.4250032
+  },
+  {
+    "id": "11971705709",
+    "name": "FE Block",
+    "nameBn": "",
+    "lat": 22.5834959,
+    "lng": 88.4184648
+  },
+  {
+    "id": "11971705710",
+    "name": "FD Block Central Park",
+    "nameBn": "",
+    "lat": 22.5840029,
+    "lng": 88.4158488
+  },
+  {
+    "id": "11971705711",
+    "name": "FD Block",
+    "nameBn": "",
+    "lat": 22.5792473,
+    "lng": 88.4141251
+  },
+  {
+    "id": "11971705712",
+    "name": "Bijan Bhavan",
+    "nameBn": "",
+    "lat": 22.5740153,
+    "lng": 88.4127089
+  },
+  {
+    "id": "11971705713",
+    "name": "Amul",
+    "nameBn": "",
+    "lat": 22.5704885,
+    "lng": 88.4118023
+  },
+  {
+    "id": "11971705714",
+    "name": "Salt Lake Stadium",
+    "nameBn": "",
+    "lat": 22.5689281,
+    "lng": 88.4113705
+  },
+  {
+    "id": "11971705715",
+    "name": "Paribesh Bhavan",
+    "nameBn": "",
+    "lat": 22.5625118,
+    "lng": 88.4088694
+  },
+  {
+    "id": "11971705716",
+    "name": "Science City",
+    "nameBn": "",
+    "lat": 22.5396665,
+    "lng": 88.3975732
+  },
+  {
+    "id": "11971705717",
+    "name": "Uttar Panchana Gram",
+    "nameBn": "",
+    "lat": 22.5306711,
+    "lng": 88.3954194
+  },
+  {
+    "id": "11971705718",
+    "name": "Panchana Gram",
+    "nameBn": "",
+    "lat": 22.52803,
+    "lng": 88.3947408
+  },
+  {
+    "id": "11971705719",
+    "name": "VIP Bazar",
+    "nameBn": "",
+    "lat": 22.5257953,
+    "lng": 88.3954006
+  },
+  {
+    "id": "11971705720",
+    "name": "Tagore Park",
+    "nameBn": "",
+    "lat": 22.5204312,
+    "lng": 88.3985871
+  },
+  {
+    "id": "11971705721",
+    "name": "Ruby",
+    "nameBn": "",
+    "lat": 22.5144971,
+    "lng": 88.4012827
+  },
+  {
+    "id": "11971705722",
+    "name": "Kalikapur",
+    "nameBn": "",
+    "lat": 22.5046476,
+    "lng": 88.4006497
+  },
+  {
+    "id": "11971705723",
+    "name": "Singha Bari",
+    "nameBn": "",
+    "lat": 22.5009479,
+    "lng": 88.3999819
+  },
+  {
+    "id": "11971705724",
+    "name": "Metro Cash & Carry",
+    "nameBn": "",
+    "lat": 22.4970103,
+    "lng": 88.3988607
+  },
+  {
+    "id": "11971705725",
+    "name": "Medica",
+    "nameBn": "",
+    "lat": 22.4946127,
+    "lng": 88.397755
+  },
+  {
+    "id": "11971705726",
+    "name": "Mukundapur",
+    "nameBn": "",
+    "lat": 22.4921407,
+    "lng": 88.396436
+  },
+  {
+    "id": "11971705727",
+    "name": "Ajoynagar",
+    "nameBn": "",
+    "lat": 22.4902697,
+    "lng": 88.3953832
+  },
+  {
+    "id": "11971705728",
+    "name": "Survey Park",
+    "nameBn": "",
+    "lat": 22.4922795,
+    "lng": 88.3923094
+  },
+  {
+    "id": "11971705729",
+    "name": "Jora Bridge (Santoshpur)",
+    "nameBn": "",
+    "lat": 22.4938773,
+    "lng": 88.3905029
+  },
+  {
+    "id": "11971705730",
+    "name": "Shining Residency",
+    "nameBn": "",
+    "lat": 22.4928594,
+    "lng": 88.3879428
+  },
+  {
+    "id": "11971705731",
+    "name": "Santoshpur Lake Pally Bus Stop",
+    "nameBn": "",
+    "lat": 22.4917789,
+    "lng": 88.3831852
+  },
+  {
+    "id": "11971705732",
+    "name": "Santoshpur Modern Girls School",
+    "nameBn": "",
+    "lat": 22.4926921,
+    "lng": 88.382009
+  },
+  {
+    "id": "11971705733",
+    "name": "Santoshpur Bot Tala",
+    "nameBn": "",
+    "lat": 22.4931109,
+    "lng": 88.379709
+  },
+  {
+    "id": "11971705734",
+    "name": "Sukanata Setu",
+    "nameBn": "",
+    "lat": 22.4937875,
+    "lng": 88.3755469
+  },
+  {
+    "id": "11971705735",
+    "name": "Sulekha",
+    "nameBn": "",
+    "lat": 22.4915547,
+    "lng": 88.3726729
+  },
+  {
+    "id": "11971705736",
+    "name": "KPC Hospital",
+    "nameBn": "",
+    "lat": 22.4934564,
+    "lng": 88.3717953
+  },
+  {
+    "id": "11971705737",
+    "name": "KPC Hospital",
+    "nameBn": "",
+    "lat": 22.4933947,
+    "lng": 88.3716591
+  },
+  {
+    "id": "11971705738",
+    "name": "Sulekha",
+    "nameBn": "",
+    "lat": 22.4913329,
+    "lng": 88.3726649
+  },
+  {
+    "id": "11971705739",
+    "name": "Sukanata Setu",
+    "nameBn": "",
+    "lat": 22.4937664,
+    "lng": 88.3757293
+  },
+  {
+    "id": "11971705740",
+    "name": "Santoshpur Bot Tala",
+    "nameBn": "",
+    "lat": 22.4930453,
+    "lng": 88.3797151
+  },
+  {
+    "id": "11971705741",
+    "name": "Santoshpur Modern Girls School",
+    "nameBn": "",
+    "lat": 22.4926909,
+    "lng": 88.3818448
+  },
+  {
+    "id": "11971705742",
+    "name": "Shining Residency",
+    "nameBn": "",
+    "lat": 22.4927999,
+    "lng": 88.3880112
+  },
+  {
+    "id": "11971705743",
+    "name": "Jora Bridge (Santoshpur)",
+    "nameBn": "",
+    "lat": 22.4938532,
+    "lng": 88.3899826
+  },
+  {
+    "id": "11971705744",
+    "name": "Survey Park",
+    "nameBn": "",
+    "lat": 22.4922238,
+    "lng": 88.3922906
+  },
+  {
+    "id": "11971705745",
+    "name": "Ajoynagar",
+    "nameBn": "",
+    "lat": 22.489805,
+    "lng": 88.3948602
+  },
+  {
+    "id": "11971705746",
+    "name": "Mukundapur",
+    "nameBn": "",
+    "lat": 22.4920614,
+    "lng": 88.3967699
+  },
+  {
+    "id": "11971705747",
+    "name": "Medica",
+    "nameBn": "",
+    "lat": 22.4944244,
+    "lng": 88.3979367
+  },
+  {
+    "id": "11971705748",
+    "name": "Metro Cash & Carry",
+    "nameBn": "",
+    "lat": 22.4965109,
+    "lng": 88.3990109
+  },
+  {
+    "id": "11971705749",
+    "name": "Singha Bari",
+    "nameBn": "",
+    "lat": 22.5014559,
+    "lng": 88.4004673
+  },
+  {
+    "id": "11971705750",
+    "name": "Kalikapur",
+    "nameBn": "",
+    "lat": 22.5026429,
+    "lng": 88.4007007
+  },
+  {
+    "id": "11971705751",
+    "name": "FD Block Central Park",
+    "nameBn": "",
+    "lat": 22.5838334,
+    "lng": 88.415821
+  },
+  {
+    "id": "11971705753",
+    "name": "Raidighi",
+    "nameBn": "",
+    "lat": 22.484609,
+    "lng": 88.2959036
+  },
+  {
+    "id": "11971705754",
+    "name": "Bakultala",
+    "nameBn": "",
+    "lat": 22.4840184,
+    "lng": 88.3023908
+  },
+  {
+    "id": "11971705756",
+    "name": "Notun Para",
+    "nameBn": "",
+    "lat": 22.4845364,
+    "lng": 88.306276
+  },
+  {
+    "id": "11971705758",
+    "name": "Vivekananda College",
+    "nameBn": "",
+    "lat": 22.4885965,
+    "lng": 88.3138049
+  },
+  {
+    "id": "11971705759",
+    "name": "Simulatala Bazar",
+    "nameBn": "",
+    "lat": 22.4916643,
+    "lng": 88.3152017
+  },
+  {
+    "id": "11971705760",
+    "name": "Manton",
+    "nameBn": "",
+    "lat": 22.4948629,
+    "lng": 88.3166069
+  },
+  {
+    "id": "11971705761",
+    "name": "Behala Notun Bajar",
+    "nameBn": "",
+    "lat": 22.4996493,
+    "lng": 88.3173801
+  },
+  {
+    "id": "11971705762",
+    "name": "14 No Bus Stop",
+    "nameBn": "",
+    "lat": 22.5020253,
+    "lng": 88.3181107
+  },
+  {
+    "id": "11971705763",
+    "name": "Pathak Para",
+    "nameBn": "",
+    "lat": 22.506487,
+    "lng": 88.3197631
+  },
+  {
+    "id": "11971705764",
+    "name": "Ajanta Cinema",
+    "nameBn": "",
+    "lat": 22.5097141,
+    "lng": 88.3210166
+  },
+  {
+    "id": "11971705766",
+    "name": "New Alipore Petrol Pump",
+    "nameBn": "",
+    "lat": 22.5090261,
+    "lng": 88.3328437
+  },
+  {
+    "id": "11971705768",
+    "name": "Keoratala Shamshan",
+    "nameBn": "",
+    "lat": 22.5167539,
+    "lng": 88.3414691
+  },
+  {
+    "id": "11971706969",
+    "name": "Kalighat",
+    "nameBn": "",
+    "lat": 22.5169434,
+    "lng": 88.346226
+  },
+  {
+    "id": "11971706970",
+    "name": "Lake Market",
+    "nameBn": "",
+    "lat": 22.5167969,
+    "lng": 88.3490807
+  },
+  {
+    "id": "11971706971",
+    "name": "Deshapriya Park",
+    "nameBn": "",
+    "lat": 22.51733,
+    "lng": 88.3527346
+  },
+  {
+    "id": "11971707008",
+    "name": "Rashbehari/Deshapriya Park",
+    "nameBn": "",
+    "lat": 22.5179037,
+    "lng": 88.3559583
+  },
+  {
+    "id": "11971707018",
+    "name": "Tagore Park",
+    "nameBn": "",
+    "lat": 22.5212102,
+    "lng": 88.3985496
+  },
+  {
+    "id": "11971707019",
+    "name": "Panchana Gram",
+    "nameBn": "",
+    "lat": 22.5282021,
+    "lng": 88.395112
+  },
+  {
+    "id": "11971707020",
+    "name": "Uttara Panchanna Gram",
+    "nameBn": "",
+    "lat": 22.5310204,
+    "lng": 88.3958619
+  },
+  {
+    "id": "11971707021",
+    "name": "Bus stop",
+    "nameBn": "",
+    "lat": 22.5416326,
+    "lng": 88.3983896
+  },
+  {
+    "id": "11971707023",
+    "name": "Chingrighata (Evening)",
+    "nameBn": "",
+    "lat": 22.5559109,
+    "lng": 88.4121972
+  },
+  {
+    "id": "11971707024",
+    "name": "Metropolitan",
+    "nameBn": "",
+    "lat": 22.552221,
+    "lng": 88.4064326
+  },
+  {
+    "id": "11971707025",
+    "name": "Salt Lake Stadium",
+    "nameBn": "",
+    "lat": 22.5690605,
+    "lng": 88.4116757
+  },
+  {
+    "id": "11971707027",
+    "name": "GD Island",
+    "nameBn": "",
+    "lat": 22.5764188,
+    "lng": 88.4136729
+  },
+  {
+    "id": "11971707028",
+    "name": "FE Block",
+    "nameBn": "",
+    "lat": 22.5833143,
+    "lng": 88.4183488
+  },
+  {
+    "id": "11975930337",
+    "name": "Fire Brigade",
+    "nameBn": "",
+    "lat": 22.5678618,
+    "lng": 88.4325281
+  },
+  {
+    "id": "11975930338",
+    "name": "Ring Road",
+    "nameBn": "",
+    "lat": 22.5672538,
+    "lng": 88.4363124
+  },
+  {
+    "id": "11975930339",
+    "name": "Sector - V (2)",
+    "nameBn": "",
+    "lat": 22.5727651,
+    "lng": 88.4380277
+  },
+  {
+    "id": "11975930340",
+    "name": "Sector - V",
+    "nameBn": "",
+    "lat": 22.5747943,
+    "lng": 88.4391418
+  },
+  {
+    "id": "11982377441",
+    "name": "Sector - V",
+    "nameBn": "",
+    "lat": 22.5727563,
+    "lng": 88.4382877
+  },
+  {
+    "id": "11982377442",
+    "name": "Sector - V",
+    "nameBn": "",
+    "lat": 22.574702,
+    "lng": 88.4390944
+  },
+  {
+    "id": "12040528665",
+    "name": "Dum Dum Park",
+    "nameBn": "",
+    "lat": 22.6114242,
+    "lng": 88.4101901
+  },
+  {
+    "id": "12040533715",
+    "name": "China Mandir",
+    "nameBn": "",
+    "lat": 22.6107602,
+    "lng": 88.4072926
+  },
+  {
+    "id": "12040575181",
+    "name": "Cossipore Club",
+    "nameBn": "",
+    "lat": 22.6191052,
+    "lng": 88.3858618
+  },
+  {
+    "id": "12076417080",
+    "name": "Wipro",
+    "nameBn": "",
+    "lat": 22.5789078,
+    "lng": 88.4265338
+  },
+  {
+    "id": "12076417081",
+    "name": "College More",
+    "nameBn": "",
+    "lat": 22.5747609,
+    "lng": 88.4337519
+  },
+  {
+    "id": "12076417082",
+    "name": "Webel More",
+    "nameBn": "",
+    "lat": 22.5718888,
+    "lng": 88.4321424
+  },
+  {
+    "id": "12076417083",
+    "name": "SDF",
+    "nameBn": "",
+    "lat": 22.569102,
+    "lng": 88.4306991
+  },
+  {
+    "id": "12076417084",
+    "name": "Swasthya Bhawan",
+    "nameBn": "",
+    "lat": 22.570842,
+    "lng": 88.4263856
+  },
+  {
+    "id": "12076417086",
+    "name": "Sushrut",
+    "nameBn": "",
+    "lat": 22.5757555,
+    "lng": 88.4179155
+  },
+  {
+    "id": "12076417087",
+    "name": "Rajdanga",
+    "nameBn": "",
+    "lat": 22.5144128,
+    "lng": 88.3929773
+  },
+  {
+    "id": "12076417088",
+    "name": "KMC Pumping Station",
+    "nameBn": "",
+    "lat": 22.5195628,
+    "lng": 88.3825247
+  },
+  {
+    "id": "12076417089",
+    "name": "Kasba Bakultala",
+    "nameBn": "",
+    "lat": 22.5193225,
+    "lng": 88.3807772
+  },
+  {
+    "id": "12076417090",
+    "name": "Kasba Purono Thana",
+    "nameBn": "",
+    "lat": 22.5193547,
+    "lng": 88.3785711
+  },
+  {
+    "id": "12076417091",
+    "name": "Kasba Old Police Station",
+    "nameBn": "কসবা পুরোনো থানা",
+    "lat": 22.5198837,
+    "lng": 88.3754879
+  },
+  {
+    "id": "12076417092",
+    "name": "Hindustan Park",
+    "nameBn": "",
+    "lat": 22.5189074,
+    "lng": 88.360599
+  },
+  {
+    "id": "12076417093",
+    "name": "Rashbehari/Deshapriya Park",
+    "nameBn": "",
+    "lat": 22.5180303,
+    "lng": 88.3559909
+  },
+  {
+    "id": "12076417094",
+    "name": "Deshapriya Park",
+    "nameBn": "",
+    "lat": 22.5175893,
+    "lng": 88.3529681
+  },
+  {
+    "id": "12076417095",
+    "name": "Lake Market",
+    "nameBn": "",
+    "lat": 22.5169377,
+    "lng": 88.3490843
+  },
+  {
+    "id": "12076417096",
+    "name": "Kalighat",
+    "nameBn": "",
+    "lat": 22.5170566,
+    "lng": 88.3462089
+  },
+  {
+    "id": "12076417097",
+    "name": "Keoratala Shamshan",
+    "nameBn": "",
+    "lat": 22.5168955,
+    "lng": 88.3414721
+  },
+  {
+    "id": "12076417098",
+    "name": "Chetla",
+    "nameBn": "",
+    "lat": 22.517396,
+    "lng": 88.3374435
+  },
+  {
+    "id": "12076417099",
+    "name": "Alipore Chetla X-ing",
+    "nameBn": "",
+    "lat": 22.5182224,
+    "lng": 88.3333933
+  },
+  {
+    "id": "12076417100",
+    "name": "Bankim Mukherjee Sarani/Triangular Park",
+    "nameBn": "",
+    "lat": 22.5122596,
+    "lng": 88.3295122
+  },
+  {
+    "id": "12076417101",
+    "name": "Taratalla",
+    "nameBn": "",
+    "lat": 22.5132458,
+    "lng": 88.3225545
+  },
+  {
+    "id": "12076417102",
+    "name": "Alipore Chetla X-ing",
+    "nameBn": "",
+    "lat": 22.518127,
+    "lng": 88.3333504
+  },
+  {
+    "id": "12076417103",
+    "name": "Shakuntala Park Bus Terminal",
+    "nameBn": "",
+    "lat": 22.4850845,
+    "lng": 88.2895797
+  },
+  {
+    "id": "12076417104",
+    "name": "Bankim Mukherjee Sarani/Triangular Park",
+    "nameBn": "",
+    "lat": 22.5122493,
+    "lng": 88.3289705
+  },
+  {
+    "id": "12076417105",
+    "name": "Chetla",
+    "nameBn": "",
+    "lat": 22.5172961,
+    "lng": 88.3374306
+  },
+  {
+    "id": "12076417106",
+    "name": "KMC Pumping Station",
+    "nameBn": "",
+    "lat": 22.5194057,
+    "lng": 88.3824549
+  },
+  {
+    "id": "12076417107",
+    "name": "Rajdanga",
+    "nameBn": "",
+    "lat": 22.5143239,
+    "lng": 88.3926411
+  },
+  {
+    "id": "12076417113",
+    "name": "Sector - V",
+    "nameBn": "",
+    "lat": 22.5725116,
+    "lng": 88.4380944
+  },
+  {
+    "id": "12076417114",
+    "name": "Sector - V",
+    "nameBn": "",
+    "lat": 22.57472,
+    "lng": 88.4391327
+  },
+  {
+    "id": "12076417115",
+    "name": "Nabadiganta Bus Terminus",
+    "nameBn": "",
+    "lat": 22.5766382,
+    "lng": 88.4389718
+  },
+  {
+    "id": "12129026846",
+    "name": "Dumdum Park",
+    "nameBn": "",
+    "lat": 22.6027313,
+    "lng": 88.4192519
+  },
+  {
+    "id": "12129049529",
+    "name": "Lake town",
+    "nameBn": "",
+    "lat": 22.5994169,
+    "lng": 88.4063992
+  },
+  {
+    "id": "12136528824",
+    "name": "Lala Babu Shire More",
+    "nameBn": "",
+    "lat": 22.627931,
+    "lng": 88.3538284
+  },
+  {
+    "id": "12206764162",
+    "name": "Matri Sadan Bus Stop",
+    "nameBn": "",
+    "lat": 22.5819947,
+    "lng": 88.4243526
+  },
+  {
+    "id": "12451374492",
+    "name": "Purabi",
+    "nameBn": "",
+    "lat": 22.5725264,
+    "lng": 88.3678721
+  },
+  {
+    "id": "12451374493",
+    "name": "Amherst Street",
+    "nameBn": "",
+    "lat": 22.5733983,
+    "lng": 88.3673212
+  },
+  {
+    "id": "12451374494",
+    "name": "College Square",
+    "nameBn": "",
+    "lat": 22.5755758,
+    "lng": 88.3657168
+  },
+  {
+    "id": "12451374495",
+    "name": "College Street",
+    "nameBn": "",
+    "lat": 22.5770797,
+    "lng": 88.3641391
+  },
+  {
+    "id": "12451374496",
+    "name": "College Street",
+    "nameBn": "",
+    "lat": 22.5770193,
+    "lng": 88.3641149
+  },
+  {
+    "id": "12451374497",
+    "name": "College Street",
+    "nameBn": "",
+    "lat": 22.5771898,
+    "lng": 88.3639452
+  },
+  {
+    "id": "12451374498",
+    "name": "College Street",
+    "nameBn": "",
+    "lat": 22.577143,
+    "lng": 88.3639119
+  },
+  {
+    "id": "12492485023",
+    "name": "Surya Sen Crossing",
+    "nameBn": "",
+    "lat": 22.5726043,
+    "lng": 88.3669606
+  },
+  {
+    "id": "12743628401",
+    "name": "3 No. Pramod Nagar",
+    "nameBn": "",
+    "lat": 22.6514014,
+    "lng": 88.3983199
+  },
+  {
+    "id": "12743629101",
+    "name": "Mathkal bus stop",
+    "nameBn": "",
+    "lat": 22.651989,
+    "lng": 88.4022307
+  },
+  {
+    "id": "12749030302",
+    "name": "Belgharia Bata Bus Stop",
+    "nameBn": "",
+    "lat": 22.6605501,
+    "lng": 88.3853168
+  },
+  {
+    "id": "12749073301",
+    "name": "Badamtala Bus Stop",
+    "nameBn": "",
+    "lat": 22.66159,
+    "lng": 88.3926796
+  },
+  {
+    "id": "12761560746",
+    "name": "Chabbigarh",
+    "nameBn": "",
+    "lat": 22.5699816,
+    "lng": 88.3692835
+  },
+  {
+    "id": "12761560747",
+    "name": "Sealdah",
+    "nameBn": "",
+    "lat": 22.5700193,
+    "lng": 88.3694101
+  },
+  {
+    "id": "12761560748",
+    "name": "Sealdah Court",
+    "nameBn": "",
+    "lat": 22.5655457,
+    "lng": 88.3696752
+  },
+  {
+    "id": "12761560749",
+    "name": "Sealdah Station",
+    "nameBn": "",
+    "lat": 22.5652881,
+    "lng": 88.3701979
+  },
+  {
+    "id": "12761560750",
+    "name": "Barafkal",
+    "nameBn": "",
+    "lat": 22.5658607,
+    "lng": 88.377369
+  },
+  {
+    "id": "12761560751",
+    "name": "Sales Tax",
+    "nameBn": "",
+    "lat": 22.5660552,
+    "lng": 88.3799993
+  },
+  {
+    "id": "12761560752",
+    "name": "Beleghata Khalpar",
+    "nameBn": "",
+    "lat": 22.5657302,
+    "lng": 88.3817214
+  },
+  {
+    "id": "12761560753",
+    "name": "Beleghata Khalpar",
+    "nameBn": "",
+    "lat": 22.5656364,
+    "lng": 88.3825371
+  },
+  {
+    "id": "12761560754",
+    "name": "Uriyabagan",
+    "nameBn": "",
+    "lat": 22.5648542,
+    "lng": 88.3861894
+  },
+  {
+    "id": "12761560755",
+    "name": "Alochaya",
+    "nameBn": "",
+    "lat": 22.5643166,
+    "lng": 88.3888543
+  },
+  {
+    "id": "12761637266",
+    "name": "Deshbandhu",
+    "nameBn": "",
+    "lat": 22.5640538,
+    "lng": 88.3900396
+  },
+  {
+    "id": "12761637267",
+    "name": "Rashmoni Bazar",
+    "nameBn": "",
+    "lat": 22.5636583,
+    "lng": 88.3921864
+  },
+  {
+    "id": "12761637272",
+    "name": "ID Hospital",
+    "nameBn": "",
+    "lat": 22.5662785,
+    "lng": 88.396563
+  },
+  {
+    "id": "12761637273",
+    "name": "ID Hospital",
+    "nameBn": "",
+    "lat": 22.5662652,
+    "lng": 88.3966554
+  },
+  {
+    "id": "12761637274",
+    "name": "Orient",
+    "nameBn": "",
+    "lat": 22.5709336,
+    "lng": 88.4000311
+  },
+  {
+    "id": "12761637275",
+    "name": "Swabhumi",
+    "nameBn": "",
+    "lat": 22.5708567,
+    "lng": 88.4011492
+  },
+  {
+    "id": "12761637276",
+    "name": "EM Bypass",
+    "nameBn": "",
+    "lat": 22.5713233,
+    "lng": 88.4043073
+  },
+  {
+    "id": "12761637295",
+    "name": "Stadium Gate No. 1",
+    "nameBn": "",
+    "lat": 22.5718795,
+    "lng": 88.4082268
+  },
+  {
+    "id": "12761637296",
+    "name": "Stadium Gate No. 1",
+    "nameBn": "",
+    "lat": 22.5717787,
+    "lng": 88.4082048
+  },
+  {
+    "id": "12761638105",
+    "name": "13 No. Tank",
+    "nameBn": "",
+    "lat": 22.5744417,
+    "lng": 88.4090865
+  },
+  {
+    "id": "12761638106",
+    "name": "13 No. Tank",
+    "nameBn": "",
+    "lat": 22.5743975,
+    "lng": 88.4091775
+  },
+  {
+    "id": "12761638107",
+    "name": "ESI Head Office",
+    "nameBn": "",
+    "lat": 22.5753189,
+    "lng": 88.407202
+  },
+  {
+    "id": "12761638108",
+    "name": "ESI Head Office",
+    "nameBn": "",
+    "lat": 22.5753828,
+    "lng": 88.407277
+  },
+  {
+    "id": "12761638109",
+    "name": "Vidya Bhavan",
+    "nameBn": "",
+    "lat": 22.5767933,
+    "lng": 88.4058605
+  },
+  {
+    "id": "12761638110",
+    "name": "Vidya Bhavan",
+    "nameBn": "",
+    "lat": 22.5771095,
+    "lng": 88.4060885
+  },
+  {
+    "id": "12761638111",
+    "name": "Vidya Bhavan",
+    "nameBn": "",
+    "lat": 22.5771984,
+    "lng": 88.4060405
+  },
+  {
+    "id": "12761665969",
+    "name": "EM Bypass",
+    "nameBn": "",
+    "lat": 22.5712268,
+    "lng": 88.4043519
+  },
+  {
+    "id": "12761665970",
+    "name": "CIT More",
+    "nameBn": "",
+    "lat": 22.5630568,
+    "lng": 88.3963252
+  },
+  {
+    "id": "12778278593",
+    "name": "Ganguly Bagan Bus Stop",
+    "nameBn": "",
+    "lat": 22.4776682,
+    "lng": 88.3761913
+  },
+  {
+    "id": "13171173999",
+    "name": "Sainya Bus Stand",
+    "nameBn": "",
+    "lat": 22.9250117,
+    "lng": 88.2763636
+  },
+  {
+    "id": "13171174000",
+    "name": "Balikukhari Bus Stop",
+    "nameBn": "",
+    "lat": 22.929479,
+    "lng": 88.2515558
+  },
+  {
+    "id": "13379110275",
+    "name": "Harit Bus Stand",
+    "nameBn": "",
+    "lat": 22.9275,
+    "lng": 88.2576371
+  },
+  {
+    "id": "13528802162",
+    "name": "Vidyasagar Abason BusSTOP",
+    "nameBn": "",
+    "lat": 22.5844355,
+    "lng": 88.4043986
+  },
+  {
+    "id": "13595523987",
+    "name": "35 Bus Stand",
+    "nameBn": "",
+    "lat": 22.5613795,
+    "lng": 88.4049309
+  },
+  {
+    "id": "13595546531",
+    "name": "ID Hospital",
+    "nameBn": "",
+    "lat": 22.5624079,
+    "lng": 88.3985929
+  },
+  {
+    "id": "13605749839",
+    "name": "Sarkar Bazar",
+    "nameBn": "",
+    "lat": 22.5650116,
+    "lng": 88.3853893
+  },
+  {
+    "id": "13607194259",
+    "name": "NRS Hospital",
+    "nameBn": "",
+    "lat": 22.5648931,
+    "lng": 88.3685142
+  },
+  {
+    "id": "13607194260",
+    "name": "NRS Hospital",
+    "nameBn": "",
+    "lat": 22.5649105,
+    "lng": 88.3683728
+  },
+  {
+    "id": "13610902595",
+    "name": "Ratna Cabin",
+    "nameBn": "",
+    "lat": 22.5649146,
+    "lng": 88.3946353
+  },
+  {
+    "id": "13610902596",
+    "name": "Ratna Cabin",
+    "nameBn": "",
+    "lat": 22.5647999,
+    "lng": 88.3948747
+  },
+  {
+    "id": "13612096521",
+    "name": "Trikon Park",
+    "nameBn": "",
+    "lat": 22.5672217,
+    "lng": 88.3925241
+  },
+  {
+    "id": "13612096522",
+    "name": "Trikon Park",
+    "nameBn": "",
+    "lat": 22.5674261,
+    "lng": 88.3924905
+  },
+  {
+    "id": "13612096523",
+    "name": "Beleghata 33 Pally",
+    "nameBn": "",
+    "lat": 22.5685699,
+    "lng": 88.3912469
+  },
+  {
+    "id": "13612096524",
+    "name": "Beleghata 33 Pally",
+    "nameBn": "",
+    "lat": 22.568632,
+    "lng": 88.3913559
+  },
+  {
+    "id": "13612096525",
+    "name": "Kalimandir",
+    "nameBn": "",
+    "lat": 22.570197,
+    "lng": 88.3899126
+  },
+  {
+    "id": "13612096526",
+    "name": "Kalimandir",
+    "nameBn": "",
+    "lat": 22.5703313,
+    "lng": 88.3899416
+  },
+  {
+    "id": "13612096527",
+    "name": "Phoolbagan",
+    "nameBn": "",
+    "lat": 22.5718846,
+    "lng": 88.3893303
+  },
+  {
+    "id": "13612096528",
+    "name": "Phoolbagan",
+    "nameBn": "",
+    "lat": 22.5718746,
+    "lng": 88.3894378
+  },
+  {
+    "id": "13612096529",
+    "name": "Phoolbagan",
+    "nameBn": "",
+    "lat": 22.5723481,
+    "lng": 88.3894038
+  },
+  {
+    "id": "13612096530",
+    "name": "Phoolbagan",
+    "nameBn": "",
+    "lat": 22.5723391,
+    "lng": 88.3895085
+  },
+  {
+    "id": "13612096531",
+    "name": "Phoolbagan",
+    "nameBn": "",
+    "lat": 22.5719933,
+    "lng": 88.3905061
+  },
+  {
+    "id": "13612096532",
+    "name": "Pantaloons/V.I.P. Market",
+    "nameBn": "",
+    "lat": 22.5748814,
+    "lng": 88.3897338
+  },
+  {
+    "id": "13612096533",
+    "name": "Pantaloons/V.I.P. Market",
+    "nameBn": "",
+    "lat": 22.5748662,
+    "lng": 88.3898821
+  },
+  {
+    "id": "13612096534",
+    "name": "Kathgola",
+    "nameBn": "",
+    "lat": 22.5767147,
+    "lng": 88.3899863
+  },
+  {
+    "id": "13612096535",
+    "name": "Kathgola",
+    "nameBn": "",
+    "lat": 22.5767858,
+    "lng": 88.3901381
+  },
+  {
+    "id": "13612096536",
+    "name": "Mukulbithi",
+    "nameBn": "",
+    "lat": 22.5780181,
+    "lng": 88.3901539
+  },
+  {
+    "id": "13612096537",
+    "name": "Mukulbithi",
+    "nameBn": "",
+    "lat": 22.5780048,
+    "lng": 88.3903029
+  },
+  {
+    "id": "13612096538",
+    "name": "Kankurgachi",
+    "nameBn": "",
+    "lat": 22.5799405,
+    "lng": 88.3904444
+  },
+  {
+    "id": "13612096539",
+    "name": "Kankurgachi",
+    "nameBn": "",
+    "lat": 22.5799309,
+    "lng": 88.3905646
+  },
+  {
+    "id": "13612096540",
+    "name": "Kankurgachi",
+    "nameBn": "",
+    "lat": 22.5801644,
+    "lng": 88.3901424
+  },
+  {
+    "id": "13612096541",
+    "name": "Kankurgachi",
+    "nameBn": "",
+    "lat": 22.580257,
+    "lng": 88.3901375
+  },
+  {
+    "id": "13612096542",
+    "name": "Kankurgachi",
+    "nameBn": "",
+    "lat": 22.5804955,
+    "lng": 88.3905697
+  },
+  {
+    "id": "13612096543",
+    "name": "Kankurgachi",
+    "nameBn": "",
+    "lat": 22.5804642,
+    "lng": 88.3907047
+  },
+  {
+    "id": "13612096544",
+    "name": "ESI Hospital",
+    "nameBn": "",
+    "lat": 22.5856734,
+    "lng": 88.3919547
+  },
+  {
+    "id": "13612096545",
+    "name": "ESI Hospital",
+    "nameBn": "",
+    "lat": 22.5856554,
+    "lng": 88.3921008
+  },
+  {
+    "id": "13808916648",
+    "name": "Masat",
+    "nameBn": "",
+    "lat": 22.7367985,
+    "lng": 88.1925016
+  },
+  {
+    "id": "14051777299",
+    "name": "FD Block bus stand",
+    "nameBn": "",
+    "lat": 22.5844086,
+    "lng": 88.4113864
+  }
+]

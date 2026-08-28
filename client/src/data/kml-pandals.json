@@ -1,0 +1,2754 @@
+[
+  {
+    "id": "kml-001",
+    "name": "Ahiritola",
+    "description": "Iconic North Kolkata heritage puja celebrated for magnificent traditional artistry, vibrant cultural themes, and riverside charm.",
+    "category": "Iconic Pujos",
+    "lat": 22.595062,
+    "lng": 88.357521
+  },
+  {
+    "id": "kml-002",
+    "name": "College Square",
+    "description": "Famed for breathtaking architectural monument replicas illuminated over the historic lake with mesmerizing night reflections.",
+    "category": "Iconic Pujos",
+    "lat": 22.574865,
+    "lng": 88.364578
+  },
+  {
+    "id": "kml-003",
+    "name": "Anupama Housing Complex",
+    "description": "Prominent VIP Road residential complex puja known for grand thematic decor, festive lighting, and vibrant community celebrations.",
+    "category": "Iconic Pujos",
+    "lat": 22.629421,
+    "lng": 88.431786
+  },
+  {
+    "id": "kml-004",
+    "name": "Dum Dum Park Tarun Sangha",
+    "description": "Award-winning art destination along Dum Dum Park celebrated for intricate hand-sculpted installations, conceptual themes, and ambient lighting.",
+    "category": "Iconic Pujos",
+    "lat": 22.610723,
+    "lng": 88.413628
+  },
+  {
+    "id": "kml-005",
+    "name": "Dum Dum Park Bharat Chakra",
+    "description": "Premier Dum Dum Park attraction renowned for innovative eco-friendly craftsmanship, contemporary artistic sculptures, and cultural resonance.",
+    "category": "Iconic Pujos",
+    "lat": 22.610662,
+    "lng": 88.41433
+  },
+  {
+    "id": "kml-006",
+    "name": "Dum Dum Tarun Dal",
+    "description": "Popular North-East Kolkata pandal known for creative thematic installations, festive illuminations, and community cultural heritage.",
+    "category": "Iconic Pujos",
+    "lat": 22.611732,
+    "lng": 88.418739
+  },
+  {
+    "id": "kml-007",
+    "name": "Dum Dum Park Yubak Brinda",
+    "description": "Celebrated Dum Dum Park youth club famous for artistic pandal designs, lively festive atmosphere, and innovative idol styling.",
+    "category": "Iconic Pujos",
+    "lat": 22.605478,
+    "lng": 88.417732
+  },
+  {
+    "id": "kml-008",
+    "name": "Baghbazar Sarbojonin Durgotsab & Exhibition",
+    "description": "Historic centenary barowari celebration (est. 1919) famous for its timeless Ekchala Daker Saaj idol, classic rituals, and grand carnival.",
+    "category": "Iconic Pujos",
+    "lat": 22.604582,
+    "lng": 88.366234
+  },
+  {
+    "id": "kml-009",
+    "name": "Joramandir",
+    "description": "Landmark VIP Road puja known for sprawling thematic structures, creative illuminations, and bustling festive footfall.",
+    "category": "Iconic Pujos",
+    "lat": 22.613289,
+    "lng": 88.429512
+  },
+  {
+    "id": "kml-010",
+    "name": "Telengabagan",
+    "description": "Pioneer of North Kolkata theme pujas along Ultadanga, celebrated for intricate handicrafts, natural material decor, and artistic idols.",
+    "category": "Iconic Pujos",
+    "lat": 22.594915,
+    "lng": 88.385399
+  },
+  {
+    "id": "kml-011",
+    "name": "Karbagan Sarbojanin",
+    "description": "Vibrant Ultadanga neighborhood puja famous for colorful thematic decor, folk artisan motifs, and warm community festivities.",
+    "category": "Iconic Pujos",
+    "lat": 22.595152,
+    "lng": 88.383873
+  },
+  {
+    "id": "kml-012",
+    "name": "Gouriberia",
+    "description": "Heritage North Kolkata puja known for rich traditional rituals, artistic lighting displays, and festive hospitality.",
+    "category": "Iconic Pujos",
+    "lat": 22.594547,
+    "lng": 88.379227
+  },
+  {
+    "id": "kml-013",
+    "name": "Kumartuli Park",
+    "description": "Grand celebration adjoining the potters' colony, renowned for massive architectural facades and contemporary artistic installations.",
+    "category": "Iconic Pujos",
+    "lat": 22.598995,
+    "lng": 88.361366
+  },
+  {
+    "id": "kml-014",
+    "name": "Laketown Adhibasi Brinda",
+    "description": "Premier Lake Town celebration celebrated for lavish architectural structures, vibrant festive illuminations, and traditional fervor.",
+    "category": "Iconic Pujos",
+    "lat": 22.605404,
+    "lng": 88.403793
+  },
+  {
+    "id": "kml-015",
+    "name": "Laketown Netaji Sporting Club",
+    "description": "Popular Lake Town sporting club known for energetic cultural programs, artistic pandal decor, and festive gatherings.",
+    "category": "Iconic Pujos",
+    "lat": 22.608088,
+    "lng": 88.39962
+  },
+  {
+    "id": "kml-016",
+    "name": "Md. Ali Park",
+    "description": "Major Central Kolkata crowd-puller celebrated for towering monument replicas, illuminated fountains, and colorful lighting.",
+    "category": "Iconic Pujos",
+    "lat": 22.577229,
+    "lng": 88.360878
+  },
+  {
+    "id": "kml-017",
+    "name": "Mitali - Kankurgachi",
+    "description": "Famed Kankurgachi neighborhood celebration known for artistic craftsmanship, social themes, and harmonious idol aesthetics.",
+    "category": "Iconic Pujos",
+    "lat": 22.580042,
+    "lng": 88.393974
+  },
+  {
+    "id": "kml-018",
+    "name": "Salt Lake CJ Block",
+    "description": "Renowned Salt Lake Sector-II celebration known for grand royal temple architecture, cultural performances, and traditional idol.",
+    "category": "Iconic Pujos",
+    "lat": 22.58927,
+    "lng": 88.423599
+  },
+  {
+    "id": "kml-019",
+    "name": "Salt Lake BJ Block",
+    "description": "Famous Salt Lake ground puja celebrated for magnificent palace replicas, festive fairs, and massive community gatherings.",
+    "category": "Iconic Pujos",
+    "lat": 22.590794,
+    "lng": 88.42672
+  },
+  {
+    "id": "kml-020",
+    "name": "Salt Lake FD Block",
+    "description": "Salt Lake's most celebrated mega-puja, attracting lakhs of visitors for its colossal fantasy architecture, laser shows, and grand themes.",
+    "category": "Iconic Pujos",
+    "lat": 22.583464,
+    "lng": 88.412216
+  },
+  {
+    "id": "kml-021",
+    "name": "Salt Lake GD Block",
+    "description": "Popular Salt Lake block puja known for creative artistic motifs, eco-friendly materials, and traditional family warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.576777,
+    "lng": 88.414162
+  },
+  {
+    "id": "kml-022",
+    "name": "Salt Lake HA Block",
+    "description": "Vibrant Salt Lake residential celebration featuring artistic pandal architecture, festive lighting, and cultural programs.",
+    "category": "Iconic Pujos",
+    "lat": 22.57641,
+    "lng": 88.412971
+  },
+  {
+    "id": "kml-023",
+    "name": "Salt Lake IA Block",
+    "description": "Charming Salt Lake block puja celebrated for traditional idol modeling, cultural unity, and festive community feasts.",
+    "category": "Iconic Pujos",
+    "lat": 22.574305,
+    "lng": 88.409523
+  },
+  {
+    "id": "kml-024",
+    "name": "Salt Lake Laboni",
+    "description": "Historic Salt Lake estate celebration known for serene residential ambiance, traditional rituals, and warm community bhog.",
+    "category": "Iconic Pujos",
+    "lat": 22.582869,
+    "lng": 88.406723
+  },
+  {
+    "id": "kml-025",
+    "name": "Santosh Mitra Square",
+    "description": "Superstar Central Kolkata spectacle renowned for ultra-luxurious gold/diamond themed sets, laser shows, and record-breaking crowds.",
+    "category": "Iconic Pujos",
+    "lat": 22.566067,
+    "lng": 88.365593
+  },
+  {
+    "id": "kml-026",
+    "name": "Sealdah Railway Athletic Club",
+    "description": "Historic Central Kolkata celebration established in 1947 near Sealdah station, celebrated for traditional rituals and railway sporting heritage.",
+    "category": "Iconic Pujos",
+    "lat": 22.570951,
+    "lng": 88.371902
+  },
+  {
+    "id": "kml-027",
+    "name": "Sovabazar Beniatola",
+    "description": "Historic North Kolkata neighborhood puja celebrated for authentic traditional idol artistry, heritage lane decor, and classic rituals.",
+    "category": "Iconic Pujos",
+    "lat": 22.595915,
+    "lng": 88.360909
+  },
+  {
+    "id": "kml-028",
+    "name": "Sreebhumi Sporting Club",
+    "description": "Mega VIP Road attraction renowned for lavish world-famous monument replicas (Burj Khalifa, Vatican, Ram Mandir) and real gold-adorned idols.",
+    "category": "Iconic Pujos",
+    "lat": 22.598993,
+    "lng": 88.402931
+  },
+  {
+    "id": "kml-029",
+    "name": "Tala Barowari",
+    "description": "Pioneering North Kolkata barowari celebration (est. 1921) celebrated for its century-old heritage, traditional idol, and festive fairs.",
+    "category": "Iconic Pujos",
+    "lat": 22.607212,
+    "lng": 88.376022
+  },
+  {
+    "id": "kml-030",
+    "name": "Manicktala Chaltabagan Loha Patty",
+    "description": "Renowned Manicktala celebration famous for pioneering glass/brass artisanal themes, eco-friendly decor, and spirited dhak contests.",
+    "category": "Iconic Pujos",
+    "lat": 22.58489,
+    "lng": 88.372093
+  },
+  {
+    "id": "kml-031",
+    "name": "Pathuriaghata Pancher Pally",
+    "description": "Historic North Kolkata lane puja celebrated for intimate community warmth, traditional clay artistry, and cultural heritage.",
+    "category": "Iconic Pujos",
+    "lat": 22.588566,
+    "lng": 88.358368
+  },
+  {
+    "id": "kml-032",
+    "name": "Tala Palli",
+    "description": "Vibrant Tala neighborhood celebration noted for creative contemporary pandal themes, artistic lighting, and community fervor.",
+    "category": "Iconic Pujos",
+    "lat": 22.608385,
+    "lng": 88.374886
+  },
+  {
+    "id": "kml-033",
+    "name": "Ghas Bagan",
+    "description": "Charming North Kolkata riverside celebration known for traditional idol craftsmanship and peaceful festive ambiance.",
+    "category": "Iconic Pujos",
+    "lat": 22.591923,
+    "lng": 88.343468
+  },
+  {
+    "id": "kml-034",
+    "name": "Hatibagan Nabin Pally",
+    "description": "Famous Hatibagan theme powerhouse renowned for creative rural and folk art motifs, intricate woodwork, and cultural depth.",
+    "category": "Iconic Pujos",
+    "lat": 22.595707,
+    "lng": 88.373421
+  },
+  {
+    "id": "kml-035",
+    "name": "Nalin Sarkar Street Sarbojanin Durgotsab",
+    "description": "Acclaimed North Kolkata art hub celebrated for exquisite terracotta and clay sculpture installations blending heritage with modern aesthetics.",
+    "category": "Iconic Pujos",
+    "lat": 22.594627,
+    "lng": 88.374634
+  },
+  {
+    "id": "kml-036",
+    "name": "Hatibagan Sarbojonin",
+    "description": "Century-old heritage celebration along the historic Hatibagan theater corridor, noted for traditional idol decor and cultural nostalgia.",
+    "category": "Iconic Pujos",
+    "lat": 22.594128,
+    "lng": 88.371872
+  },
+  {
+    "id": "kml-037",
+    "name": "Olabibitala Sarbojanin",
+    "description": "Historic Howrah barowari celebration known for century-old traditional rituals, classic idol craftsmanship, and local community fervor.",
+    "category": "Iconic Pujos",
+    "lat": 22.575529,
+    "lng": 88.315788
+  },
+  {
+    "id": "kml-038",
+    "name": "Yuva Brinda",
+    "description": "Energetic North Kolkata youth club puja celebrated for vibrant thematic pandal designs, lighting, and community warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.595825,
+    "lng": 88.381683
+  },
+  {
+    "id": "kml-039",
+    "name": "Kashi Bose Lane",
+    "description": "Award-winning North Kolkata thematic powerhouse celebrated for deeply emotional social, literary, and environmental art installations.",
+    "category": "Iconic Pujos",
+    "lat": 22.59222,
+    "lng": 88.369476
+  },
+  {
+    "id": "kml-040",
+    "name": "Purbachal Sarbojanin",
+    "description": "Celebrated Salt Lake area puja known for creative pandal structures, cultural events, and festive community harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.573011,
+    "lng": 88.407463
+  },
+  {
+    "id": "kml-041",
+    "name": "Sovabazar Rajbari",
+    "description": "Historic royal household puja founded in 1757 by Raja Nabakrishna Deb; famed for its grand Natmandir courtyard and Ekchala Daker Saaj idol.",
+    "category": "Iconic Pujos",
+    "lat": 22.596798,
+    "lng": 88.367233
+  },
+  {
+    "id": "kml-042",
+    "name": "37 Pally",
+    "description": "Renowned Sealdah-Amherst Street celebration known for thought-provoking contemporary social themes and artistic installations.",
+    "category": "Iconic Pujos",
+    "lat": 22.574528,
+    "lng": 88.368446
+  },
+  {
+    "id": "kml-043",
+    "name": "Salt Lake AJ Block",
+    "description": "Salt Lake Sector-II block puja noted for traditional idol craftsmanship, festive illuminations, and community cultural performances.",
+    "category": "Iconic Pujos",
+    "lat": 22.592161,
+    "lng": 88.428291
+  },
+  {
+    "id": "kml-044",
+    "name": "Laketown Nutan Palli Pradeep Sangha",
+    "description": "Vibrant Lake Town neighborhood celebration known for innovative pandal decor, colorful lighting, and festive warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.60372,
+    "lng": 88.397507
+  },
+  {
+    "id": "kml-045",
+    "name": "Rammohan Sammilani",
+    "description": "Historic North Kolkata celebration named after Raja Ram Mohan Roy, known for cultural heritage, social themes, and classic idol.",
+    "category": "Iconic Pujos",
+    "lat": 22.581205,
+    "lng": 88.375031
+  },
+  {
+    "id": "kml-046",
+    "name": "Durga Puja of 4 Ghosh Lane",
+    "description": "Intimate North Kolkata heritage lane puja celebrated for traditional family warmth, sabeki idol, and neighborhood festive bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.585108,
+    "lng": 88.370789
+  },
+  {
+    "id": "kml-047",
+    "name": "Dakshineswar Dolpere Adi Sabojonin Durgapuja",
+    "description": "Historic Dakshineswar riverside celebration noted for age-old traditional rituals, devotional atmosphere, and heritage idol craftsmanship.",
+    "category": "Iconic Pujos",
+    "lat": 22.659449,
+    "lng": 88.364433
+  },
+  {
+    "id": "kml-048",
+    "name": "Milangarh Sarbojanin",
+    "description": "Popular North suburban puja near Baranagar known for grand pandal architecture, festive fairs, and community celebrations.",
+    "category": "Iconic Pujos",
+    "lat": 22.651651,
+    "lng": 88.374054
+  },
+  {
+    "id": "kml-049",
+    "name": "Motijheel Sarbojanin",
+    "description": "Prominent Dum Dum Motijheel celebration known for creative thematic installations, festive illuminations, and large footfall.",
+    "category": "Iconic Pujos",
+    "lat": 22.62336,
+    "lng": 88.410759
+  },
+  {
+    "id": "kml-050",
+    "name": "Beliaghata Nabamilan",
+    "description": "Lively Beliaghata neighborhood celebration known for artistic pandal designs, festive gatherings, and community harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.565413,
+    "lng": 88.396255
+  },
+  {
+    "id": "kml-051",
+    "name": "Sandhani",
+    "description": "Popular Beliaghata club celebrated for innovative contemporary themes, vibrant lighting, and festive cultural events.",
+    "category": "Iconic Pujos",
+    "lat": 22.564798,
+    "lng": 88.396149
+  },
+  {
+    "id": "kml-052",
+    "name": "Simla Byam Samity",
+    "description": "Historic nationalist puja founded in 1926 with blessings of Netaji Subhas Chandra Bose, famous for its fierce traditional warrior-form idol.",
+    "category": "Iconic Pujos",
+    "lat": 22.585285,
+    "lng": 88.365097
+  },
+  {
+    "id": "kml-053",
+    "name": "United Club",
+    "description": "Energetic North Kolkata club puja known for creative thematic decor, youth participation, and festive community spirit.",
+    "category": "Iconic Pujos",
+    "lat": 22.591042,
+    "lng": 88.391182
+  },
+  {
+    "id": "kml-054",
+    "name": "Kumartuli Preparation",
+    "description": "Located in the heart of Kolkata's legendary idol-makers' hub Kumartuli, showcasing raw clay craftsmanship and sacred sculpting traditions.",
+    "category": "Iconic Pujos",
+    "lat": 22.599609,
+    "lng": 88.362396
+  },
+  {
+    "id": "kml-055",
+    "name": "Swapnar Bagan",
+    "description": "Popular Kankurgachi neighborhood celebration noted for colorful artistic pandals, festive fairs, and community bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.579193,
+    "lng": 88.395462
+  },
+  {
+    "id": "kml-056",
+    "name": "Lalabagan Yubak Brinda - Nabankur Sangha",
+    "description": "Award-winning North Kolkata theme puja celebrated for extraordinary botanical, eco-friendly, and seed-crafted temple installations.",
+    "category": "Iconic Pujos",
+    "lat": 22.588247,
+    "lng": 88.377106
+  },
+  {
+    "id": "kml-057",
+    "name": "Sammilita Lalabagan Sarbojanin",
+    "description": "Vibrant Manicktala-Lalabagan neighborhood celebration known for artistic pandal decor, traditional rituals, and community warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.587385,
+    "lng": 88.376923
+  },
+  {
+    "id": "kml-058",
+    "name": "Salt Lake AE Block - Part 1",
+    "description": "Prominent Salt Lake Sector-I puja celebrated for monumental architecture, cultural programs, and grand community dining.",
+    "category": "Iconic Pujos",
+    "lat": 22.59856,
+    "lng": 88.409409
+  },
+  {
+    "id": "kml-059",
+    "name": "Kolkata",
+    "description": "Central Kolkata festive landmark celebrating the cosmopolitan spirit, architectural lights, and joy of the city of joy.",
+    "category": "Iconic Pujos",
+    "lat": 22.56472,
+    "lng": 88.350845
+  },
+  {
+    "id": "kml-060",
+    "name": "CIT Sarbojanin",
+    "description": "Renowned VIP Road CIT Scheme celebration known for creative artistic themes, festive illuminations, and community fervor.",
+    "category": "Iconic Pujos",
+    "lat": 22.625994,
+    "lng": 88.377861
+  },
+  {
+    "id": "kml-061",
+    "name": "Baghbazar Jagodharti",
+    "description": "North Kolkata neighborhood landmark celebrated for its traditional idol craftsmanship and deep-rooted autumnal festivities.",
+    "category": "Iconic Pujos",
+    "lat": 22.603493,
+    "lng": 88.371101
+  },
+  {
+    "id": "kml-062",
+    "name": "Beliaghata 33 No Palli",
+    "description": "Acclaimed Beliaghata theme destination celebrated for rural Bengal folk art, handmade craft installations, and nostalgic decor.",
+    "category": "Iconic Pujos",
+    "lat": 22.566563,
+    "lng": 88.393852
+  },
+  {
+    "id": "kml-063",
+    "name": "Belgachia Sadharan Durgatsab",
+    "description": "Century-old Belgachia barowari puja celebrated for traditional rituals, heritage idol styling, and neighborhood cultural unity.",
+    "category": "Iconic Pujos",
+    "lat": 22.609217,
+    "lng": 88.383423
+  },
+  {
+    "id": "kml-064",
+    "name": "Kumartuli Sarbojanin",
+    "description": "Historic barowari celebration in Kumartuli, revered for master artisan clay sculpting and sacred traditional heritage.",
+    "category": "Iconic Pujos",
+    "lat": 22.600859,
+    "lng": 88.363274
+  },
+  {
+    "id": "kml-065",
+    "name": "Satadal",
+    "description": "North Kolkata neighborhood club celebrated for artistic thematic pandals, cultural functions, and festive enthusiasm.",
+    "category": "Iconic Pujos",
+    "lat": 22.595173,
+    "lng": 88.367691
+  },
+  {
+    "id": "kml-066",
+    "name": "Salt Lake AE Block - Part 2",
+    "description": "Popular Salt Lake Sector-I ground puja noted for grand pavilion designs, festive food stalls, and community cultural events.",
+    "category": "Iconic Pujos",
+    "lat": 22.600937,
+    "lng": 88.413353
+  },
+  {
+    "id": "kml-067",
+    "name": "Salt Lake BE Block - Part 2",
+    "description": "Vibrant Salt Lake Sector-I block puja known for creative artistic craftsmanship, lighting displays, and family celebrations.",
+    "category": "Iconic Pujos",
+    "lat": 22.596836,
+    "lng": 88.412193
+  },
+  {
+    "id": "kml-068",
+    "name": "Salt Lake CK-CL Block",
+    "description": "Salt Lake Sector-II twin-block celebration known for cohesive community spirit, traditional idol, and festive fairs.",
+    "category": "Iconic Pujos",
+    "lat": 22.584633,
+    "lng": 88.427864
+  },
+  {
+    "id": "kml-069",
+    "name": "Salt Lake DL block",
+    "description": "Salt Lake residential block puja noted for peaceful festive ambiance, traditional rituals, and cultural gatherings.",
+    "category": "Iconic Pujos",
+    "lat": 22.582136,
+    "lng": 88.425819
+  },
+  {
+    "id": "kml-070",
+    "name": "Karunamayee G Block",
+    "description": "Central Salt Lake housing complex puja near Karunamayee, known for colorful illuminations and community festivities.",
+    "category": "Iconic Pujos",
+    "lat": 22.583117,
+    "lng": 88.423172
+  },
+  {
+    "id": "kml-071",
+    "name": "Kamardanga Sitalatala - Howrah",
+    "description": "Historic Howrah temple-side celebration celebrated for traditional rituals, devotional atmosphere, and community feasts.",
+    "category": "Iconic Pujos",
+    "lat": 22.596292,
+    "lng": 88.302353
+  },
+  {
+    "id": "kml-072",
+    "name": "Arupara Milan Sangha - Howrah",
+    "description": "Prominent Howrah neighborhood club celebrated for creative thematic pandal architecture and vibrant festive spirit.",
+    "category": "Iconic Pujos",
+    "lat": 22.597847,
+    "lng": 88.300949
+  },
+  {
+    "id": "kml-073",
+    "name": "Naba Baghbazar",
+    "description": "Vibrant North Kolkata celebration known for innovative contemporary decor and lively festive community participation.",
+    "category": "Iconic Pujos",
+    "lat": 22.605097,
+    "lng": 88.370171
+  },
+  {
+    "id": "kml-074",
+    "name": "Bangur Avenue Protirodh Bahini",
+    "description": "Popular Bangur Avenue puja known for creative pandal architecture, festive street lighting, and community harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.606899,
+    "lng": 88.409248
+  },
+  {
+    "id": "kml-075",
+    "name": "Goabagan Sarbojanin",
+    "description": "Traditional North Kolkata neighborhood celebration known for heritage rituals, classic sabeki idol, and local warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.59124,
+    "lng": 88.372864
+  },
+  {
+    "id": "kml-076",
+    "name": "Hari Ghosh Street Sarbojonin",
+    "description": "Historic North Kolkata lane puja noted for heritage architecture, traditional clay idol, and intimate community celebrations.",
+    "category": "Iconic Pujos",
+    "lat": 22.590546,
+    "lng": 88.368286
+  },
+  {
+    "id": "kml-077",
+    "name": "Jagat Mukherjee Park",
+    "description": "North Kolkata crowd favorite famous for imaginative, whimsical fantasy themes and unique artistic materials.",
+    "category": "Iconic Pujos",
+    "lat": 22.599777,
+    "lng": 88.36615
+  },
+  {
+    "id": "kml-078",
+    "name": "Baghbazar Pally",
+    "description": "Charming Baghbazar neighborhood celebration steeped in traditional Bengali culture, dhak rhythms, and heritage warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.60281,
+    "lng": 88.367363
+  },
+  {
+    "id": "kml-079",
+    "name": "Beadon Street Sarbojanin",
+    "description": "Historic Beadon Street barowari celebration known for classic Daker Saaj idol and rich cultural heritage.",
+    "category": "Iconic Pujos",
+    "lat": 22.589317,
+    "lng": 88.368347
+  },
+  {
+    "id": "kml-080",
+    "name": "Sammilita Malapara",
+    "description": "Old Kolkata Malapara neighborhood celebration known for traditional craftsmanship, devotional fervor, and community unity.",
+    "category": "Iconic Pujos",
+    "lat": 22.587664,
+    "lng": 88.354752
+  },
+  {
+    "id": "kml-081",
+    "name": "Darpanarayan Tagore Street Pally Samity",
+    "description": "Heritage North Kolkata merchant quarter puja celebrated for traditional family rituals and historic lane decor.",
+    "category": "Iconic Pujos",
+    "lat": 22.587505,
+    "lng": 88.354111
+  },
+  {
+    "id": "kml-082",
+    "name": "Haritaki Bagan",
+    "description": "Traditional Manicktala neighborhood celebration known for warm community hospitality and sabeki idol craftsmanship.",
+    "category": "Iconic Pujos",
+    "lat": 22.584158,
+    "lng": 88.373466
+  },
+  {
+    "id": "kml-083",
+    "name": "Sovabazar Sarbojanin",
+    "description": "Prominent North Kolkata heritage celebration known for classic sabeki rituals, dhunuchi dance, and festive joy.",
+    "category": "Iconic Pujos",
+    "lat": 22.597075,
+    "lng": 88.361763
+  },
+  {
+    "id": "kml-084",
+    "name": "Hatkhola Gosain Para",
+    "description": "Historic North Kolkata neighborhood puja near the Ganges, known for traditional rituals and centuries-old cultural charm.",
+    "category": "Iconic Pujos",
+    "lat": 22.597885,
+    "lng": 88.360771
+  },
+  {
+    "id": "kml-085",
+    "name": "Laketown Vivekananda Park",
+    "description": "Vibrant Lake Town park celebration noted for grand architectural facades, lush green surroundings, and festive fairs.",
+    "category": "Iconic Pujos",
+    "lat": 22.610039,
+    "lng": 88.402565
+  },
+  {
+    "id": "kml-086",
+    "name": "Jawpur Bayam Samiti",
+    "description": "Historic Jawpur sports and physical culture association puja, famous for traditional idol styling and community enthusiasm.",
+    "category": "Iconic Pujos",
+    "lat": 22.610584,
+    "lng": 88.401138
+  },
+  {
+    "id": "kml-087",
+    "name": "Pragati Pally Adhibasi Brindra",
+    "description": "Lake Town residential neighborhood celebration known for artistic pandal decor, colorful lights, and family festivities.",
+    "category": "Iconic Pujos",
+    "lat": 22.609594,
+    "lng": 88.400665
+  },
+  {
+    "id": "kml-088",
+    "name": "Kabiraj Bagan",
+    "description": "North Kolkata Ultadanga neighborhood puja known for innovative theme concepts, handcrafted decor, and festive warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.593855,
+    "lng": 88.382729
+  },
+  {
+    "id": "kml-089",
+    "name": "Murari Pukur Bidhan Sangha",
+    "description": "Prominent Muraripukur community puja celebrated for social art themes, festive lighting, and cultural unity.",
+    "category": "Iconic Pujos",
+    "lat": 22.592875,
+    "lng": 88.383232
+  },
+  {
+    "id": "kml-090",
+    "name": "Salt Lake AD Block",
+    "description": "Salt Lake Sector-I block puja noted for artistic pandal craftsmanship, quiet residential elegance, and traditional bhog.",
+    "category": "Iconic Pujos",
+    "lat": 22.596855,
+    "lng": 88.406448
+  },
+  {
+    "id": "kml-091",
+    "name": "Salt Lake AG Block",
+    "description": "Salt Lake Sector-II celebration known for grand decorative pavilions, colorful lighting, and festive community events.",
+    "category": "Iconic Pujos",
+    "lat": 22.598421,
+    "lng": 88.423286
+  },
+  {
+    "id": "kml-092",
+    "name": "Sangrami",
+    "description": "Ultadanga area community club celebrated for creative themes, festive youth energy, and community service.",
+    "category": "Iconic Pujos",
+    "lat": 22.590536,
+    "lng": 88.395699
+  },
+  {
+    "id": "kml-093",
+    "name": "Tarun Sporting Club",
+    "description": "Historic North Kolkata athletic club puja known for classic idol modeling, festive sports heritage, and local celebrations.",
+    "category": "Iconic Pujos",
+    "lat": 22.586376,
+    "lng": 88.365311
+  },
+  {
+    "id": "kml-094",
+    "name": "Shimla Vivekananda Sporting Club",
+    "description": "North Kolkata neighborhood puja inspired by Swami Vivekananda's heritage, known for devotional spirit and traditional rituals.",
+    "category": "Iconic Pujos",
+    "lat": 22.585722,
+    "lng": 88.371811
+  },
+  {
+    "id": "kml-095",
+    "name": "Shurir Bagan",
+    "description": "Ultadanga neighborhood celebration noted for colorful artistic pandals, festive music, and community bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.594559,
+    "lng": 88.387566
+  },
+  {
+    "id": "kml-096",
+    "name": "Salt Lake CA Block",
+    "description": "Salt Lake Sector-I block celebration known for innovative pandal structures, vibrant cultural programs, and community dining.",
+    "category": "Iconic Pujos",
+    "lat": 22.587496,
+    "lng": 88.399689
+  },
+  {
+    "id": "kml-097",
+    "name": "Salt Lake BG Block",
+    "description": "Salt Lake Sector-II block puja celebrated for elegant artistic themes, festive lighting, and traditional family atmosphere.",
+    "category": "Iconic Pujos",
+    "lat": 22.595449,
+    "lng": 88.423119
+  },
+  {
+    "id": "kml-098",
+    "name": "Salt Lake AH Block",
+    "description": "Salt Lake block celebration known for peaceful residential charm, traditional idol modeling, and community cultural nights.",
+    "category": "Iconic Pujos",
+    "lat": 22.594231,
+    "lng": 88.427269
+  },
+  {
+    "id": "kml-099",
+    "name": "Park Circus",
+    "description": "Iconic Central Kolkata cosmopolitan gathering point celebrated for illuminated fairgrounds, festive food, and grand celebrations.",
+    "category": "Iconic Pujos",
+    "lat": 22.543079,
+    "lng": 88.36776
+  },
+  {
+    "id": "kml-100",
+    "name": "Maddox Square",
+    "description": "The ultimate cultural heart of South Kolkata Durga Puja, world-famous for its open park gathering, traditional sabeki idol, and lively festive reunions.",
+    "category": "Iconic Pujos",
+    "lat": 22.526407,
+    "lng": 88.35463
+  },
+  {
+    "id": "kml-101",
+    "name": "Deshapriya Park",
+    "description": "Legendary South Kolkata ground celebration known for colossal monumental themes, towering pandal structures, and massive crowd appeal.",
+    "category": "Iconic Pujos",
+    "lat": 22.518661,
+    "lng": 88.353249
+  },
+  {
+    "id": "kml-102",
+    "name": "41 Pally",
+    "description": "Haridevpur's famed art powerhouse celebrated for breathtaking contemporary sculptures, experimental themes, and atmospheric lighting.",
+    "category": "Iconic Pujos",
+    "lat": 22.48303,
+    "lng": 88.338509
+  },
+  {
+    "id": "kml-103",
+    "name": "Ajeya Sanghati",
+    "description": "Acclaimed Haridevpur theme destination renowned for innovative structural art, surreal concepts, and award-winning craftsmanship.",
+    "category": "Iconic Pujos",
+    "lat": 22.480553,
+    "lng": 88.337418
+  },
+  {
+    "id": "kml-104",
+    "name": "Vivekananda Sporting Club",
+    "description": "Prominent Haridevpur sports club puja known for creative thematic installations, vibrant festive music, and cultural events.",
+    "category": "Iconic Pujos",
+    "lat": 22.476332,
+    "lng": 88.338493
+  },
+  {
+    "id": "kml-105",
+    "name": "Vivekananda Park Athletic Club",
+    "description": "Lively Haridevpur park puja noted for artistic pandal architecture, family festive atmosphere, and community harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.481016,
+    "lng": 88.336967
+  },
+  {
+    "id": "kml-106",
+    "name": "Pally Unnayan Samity Paschim Putiary",
+    "description": "Traditional Haridevpur neighborhood celebration known for community warmth, cultural programs, and artistic idol styling.",
+    "category": "Iconic Pujos",
+    "lat": 22.478121,
+    "lng": 88.342247
+  },
+  {
+    "id": "kml-107",
+    "name": "Naskarpara Pally Unnayan Samity - Haridevpur",
+    "description": "Popular Haridevpur community puja celebrated for creative folk themes, intricate handicrafts, and festive enthusiasm.",
+    "category": "Iconic Pujos",
+    "lat": 22.480223,
+    "lng": 88.339539
+  },
+  {
+    "id": "kml-108",
+    "name": "Barisha Club, Srishti Sahajatri",
+    "description": "South Kolkata powerhouse renowned for deeply moving, award-winning social themes and museum-grade installation art.",
+    "category": "Iconic Pujos",
+    "lat": 22.48151,
+    "lng": 88.312866
+  },
+  {
+    "id": "kml-109",
+    "name": "Barisha Janakalyan Sangha",
+    "description": "Vibrant Barisha neighborhood club celebrated for community welfare initiatives, artistic decor, and traditional rituals.",
+    "category": "Iconic Pujos",
+    "lat": 22.485041,
+    "lng": 88.312744
+  },
+  {
+    "id": "kml-110",
+    "name": "Sabeda Bagan",
+    "description": "Charming Behala Sabeda Bagan celebration noted for creative contemporary themes, festive lighting, and community harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.488293,
+    "lng": 88.316666
+  },
+  {
+    "id": "kml-111",
+    "name": "Behala Club",
+    "description": "Historic South-West Kolkata club renowned for innovative environmental concepts, handcrafted decor, and cultural depth.",
+    "category": "Iconic Pujos",
+    "lat": 22.505381,
+    "lng": 88.314308
+  },
+  {
+    "id": "kml-112",
+    "name": "Debdaru Fatak",
+    "description": "Popular Behala destination famous for massive thematic gate structures, inventive materials, and vibrant festive fairs.",
+    "category": "Iconic Pujos",
+    "lat": 22.502714,
+    "lng": 88.317474
+  },
+  {
+    "id": "kml-113",
+    "name": "Behala Sree Sangha",
+    "description": "Behala landmark celebration known for grand architectural sets, classical Indian temple themes, and festive grandeur.",
+    "category": "Iconic Pujos",
+    "lat": 22.497669,
+    "lng": 88.320183
+  },
+  {
+    "id": "kml-114",
+    "name": "Behala Youngmen's Association",
+    "description": "Historic Behala association puja noted for rich sports heritage, traditional rituals, and community cultural programs.",
+    "category": "Iconic Pujos",
+    "lat": 22.507067,
+    "lng": 88.325104
+  },
+  {
+    "id": "kml-115",
+    "name": "Behala Adarsha Pally",
+    "description": "Warm Behala neighborhood celebration known for colorful artistic pandals, traditional idol, and festive hospitality.",
+    "category": "Iconic Pujos",
+    "lat": 22.499989,
+    "lng": 88.327629
+  },
+  {
+    "id": "kml-116",
+    "name": "Badamtala Ashar Sangha",
+    "description": "Renowned Kalighat art destination celebrated for pioneering avant-garde themes, exquisite idol modeling, and artistic brilliance.",
+    "category": "Iconic Pujos",
+    "lat": 22.517864,
+    "lng": 88.343994
+  },
+  {
+    "id": "kml-117",
+    "name": "Behala Nutan Dal",
+    "description": "Major Behala theme destination famous for monumental rural art installations, indigenous crafts, and immersive soundscapes.",
+    "category": "Iconic Pujos",
+    "lat": 22.501228,
+    "lng": 88.319565
+  },
+  {
+    "id": "kml-118",
+    "name": "Bosepukur Talbagan",
+    "description": "Renowned Kasba-Bosepukur art hub celebrated for intricate wooden crafts, folk motifs, and atmospheric illuminations.",
+    "category": "Iconic Pujos",
+    "lat": 22.517492,
+    "lng": 88.38533
+  },
+  {
+    "id": "kml-119",
+    "name": "Rajdanga Tribarna Sangha",
+    "description": "Kasba neighborhood crowd-puller known for creative thematic architecture, vibrant lighting, and cultural presentations.",
+    "category": "Iconic Pujos",
+    "lat": 22.515083,
+    "lng": 88.389534
+  },
+  {
+    "id": "kml-120",
+    "name": "Bosepukur Sitala Mandir",
+    "description": "Historic pioneer of Kolkata's theme movement (famous for earthen tea-cup pandal), continuing trailblazing artistic decor.",
+    "category": "Iconic Pujos",
+    "lat": 22.516581,
+    "lng": 88.388023
+  },
+  {
+    "id": "kml-121",
+    "name": "Singhi Park",
+    "description": "Prestigious South Kolkata landmark celebrating over 80 years, renowned for magnificent royal temple facades and traditional idol.",
+    "category": "Iconic Pujos",
+    "lat": 22.521238,
+    "lng": 88.362991
+  },
+  {
+    "id": "kml-122",
+    "name": "Ekdalia Evergreen Club",
+    "description": "Legendary South Kolkata powerhouse famed for authentic Indian temple replicas, massive German chandeliers, and traditional idol.",
+    "category": "Iconic Pujos",
+    "lat": 22.521111,
+    "lng": 88.366447
+  },
+  {
+    "id": "kml-123",
+    "name": "Jodhpur Park",
+    "description": "Premier South Kolkata park celebration known for innovative environmental themes, sprawling fairs, and cultural excellence.",
+    "category": "Iconic Pujos",
+    "lat": 22.504702,
+    "lng": 88.365028
+  },
+  {
+    "id": "kml-124",
+    "name": "Selimpur Pally",
+    "description": "Famous South Kolkata art hub renowned for intricate handicrafts, natural material installations, and poetic aesthetics.",
+    "category": "Iconic Pujos",
+    "lat": 22.505087,
+    "lng": 88.368149
+  },
+  {
+    "id": "kml-125",
+    "name": "Santoshpur Lake Pally",
+    "description": "Prestigious Eastern South Kolkata lakeside celebration celebrated for sublime artistic concepts and peaceful festival elegance.",
+    "category": "Iconic Pujos",
+    "lat": 22.491508,
+    "lng": 88.382774
+  },
+  {
+    "id": "kml-126",
+    "name": "Mudiali Club",
+    "description": "Prestigious South Kolkata landmark celebrated for intricate hand-cut thermocol and wooden filigree art glowing in exquisite symmetry.",
+    "category": "Iconic Pujos",
+    "lat": 22.510118,
+    "lng": 88.346725
+  },
+  {
+    "id": "kml-127",
+    "name": "Shibmandir Sarbojanin Durgotsab",
+    "description": "Acclaimed Rabindra Sarobar lakeside puja famous for profound philosophical concepts, artistic subtlety, and peaceful charm.",
+    "category": "Iconic Pujos",
+    "lat": 22.510822,
+    "lng": 88.349388
+  },
+  {
+    "id": "kml-128",
+    "name": "Naktala Udayan Sangha",
+    "description": "Mega South Kolkata spectacle renowned for colossal avant-garde installations, futuristic themes, and massive crowd pull.",
+    "category": "Iconic Pujos",
+    "lat": 22.474174,
+    "lng": 88.36705
+  },
+  {
+    "id": "kml-129",
+    "name": "Rajdanga Naba Uday Sangha",
+    "description": "Vibrant Kasba art destination known for impressive architectural installations, colorful lighting, and festive energy.",
+    "category": "Iconic Pujos",
+    "lat": 22.515675,
+    "lng": 88.390442
+  },
+  {
+    "id": "kml-130",
+    "name": "Suruchi Sangha",
+    "description": "Acclaimed New Alipore mega-puja featuring rich state-wise cultural themes from across India with custom thematic songs.",
+    "category": "Iconic Pujos",
+    "lat": 22.509346,
+    "lng": 88.333664
+  },
+  {
+    "id": "kml-131",
+    "name": "Tridhara Sammilani",
+    "description": "Award-winning South Kolkata powerhouse celebrated for blending contemporary installation art with sacred spiritual harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.519238,
+    "lng": 88.355377
+  },
+  {
+    "id": "kml-132",
+    "name": "Pratapaditya Road Tricone Park",
+    "description": "Popular Rashbehari-Pratapaditya Road puja known for creative thematic designs, artistic lighting, and local warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.513498,
+    "lng": 88.344658
+  },
+  {
+    "id": "kml-133",
+    "name": "Sanghasree",
+    "description": "Historic Kalighat-Bhowanipore celebration known for traditional idol craftsmanship, cultural legacy, and festive community bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.521303,
+    "lng": 88.345795
+  },
+  {
+    "id": "kml-134",
+    "name": "25 Pally",
+    "description": "Watganj-Kidderpore landmark celebration known for grand architectural sets, colorful illuminations, and cultural harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.539078,
+    "lng": 88.326538
+  },
+  {
+    "id": "kml-135",
+    "name": "Mukul Sangha",
+    "description": "Behala neighborhood club noted for creative contemporary themes, community spirit, and festive gatherings.",
+    "category": "Iconic Pujos",
+    "lat": 22.503359,
+    "lng": 88.313705
+  },
+  {
+    "id": "kml-136",
+    "name": "66 Palli",
+    "description": "Famous Kalighat neighborhood celebration known for progressive social themes, inclusive initiatives, and artistic brilliance.",
+    "category": "Iconic Pujos",
+    "lat": 22.518148,
+    "lng": 88.342644
+  },
+  {
+    "id": "kml-137",
+    "name": "Hindustan Park",
+    "description": "Acclaimed South Kolkata art hub renowned for exquisite folk art, handloom textiles, and poetic thematic installations.",
+    "category": "Iconic Pujos",
+    "lat": 22.517731,
+    "lng": 88.362648
+  },
+  {
+    "id": "kml-138",
+    "name": "Adi Lake Palli",
+    "description": "Charming Lake Market area puja celebrated for traditional idol aesthetics, warm community atmosphere, and cultural nights.",
+    "category": "Iconic Pujos",
+    "lat": 22.514532,
+    "lng": 88.34938
+  },
+  {
+    "id": "kml-139",
+    "name": "Azadgarh",
+    "description": "Popular Tollygunge-Azadgarh celebration known for creative thematic pandals, festive lighting, and neighborhood joy.",
+    "category": "Iconic Pujos",
+    "lat": 22.484604,
+    "lng": 88.356171
+  },
+  {
+    "id": "kml-140",
+    "name": "Bharat Mata",
+    "description": "Regent Park neighborhood puja celebrating traditional Bengali culture, patriotic heritage, and community festivals.",
+    "category": "Iconic Pujos",
+    "lat": 22.488014,
+    "lng": 88.36248
+  },
+  {
+    "id": "kml-141",
+    "name": "Golfgreen Phase 2",
+    "description": "Serene green residential complex puja in Golf Green, known for refined artistic decor, cultural programs, and family bhog.",
+    "category": "Iconic Pujos",
+    "lat": 22.492256,
+    "lng": 88.360809
+  },
+  {
+    "id": "kml-142",
+    "name": "Santoshpur Trikon Park",
+    "description": "Santoshpur neighborhood park celebration noted for creative artistic installations, festive fairs, and community harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.492996,
+    "lng": 88.378448
+  },
+  {
+    "id": "kml-143",
+    "name": "Yuba Sangha Club",
+    "description": "Vibrant Tollygunge youth club celebrated for energetic festive events, innovative pandal designs, and community bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.485378,
+    "lng": 88.36499
+  },
+  {
+    "id": "kml-144",
+    "name": "Netaji Nagar Sarbojanin",
+    "description": "Prominent Netaji Nagar community puja known for creative social themes, colorful lighting, and neighborhood festivities.",
+    "category": "Iconic Pujos",
+    "lat": 22.480721,
+    "lng": 88.357719
+  },
+  {
+    "id": "kml-145",
+    "name": "Netaji Jatiya Sebadal",
+    "description": "Historic Netaji Nagar socio-cultural club puja noted for traditional rituals, patriotic heritage, and community warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.484991,
+    "lng": 88.358231
+  },
+  {
+    "id": "kml-146",
+    "name": "New Alipore Children's Park",
+    "description": "Elegant New Alipore park celebration known for family-friendly ambiance, creative pandal decor, and cultural functions.",
+    "category": "Iconic Pujos",
+    "lat": 22.507145,
+    "lng": 88.337021
+  },
+  {
+    "id": "kml-147",
+    "name": "Pally Mangal Samity",
+    "description": "Dhakuria-Jodhpur Park neighborhood puja celebrated for artistic craftsmanship, traditional idol, and festive harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.503017,
+    "lng": 88.36396
+  },
+  {
+    "id": "kml-148",
+    "name": "Poddar Nagar Park",
+    "description": "Charming Prince Anwar Shah Road park puja noted for warm residential community spirit and traditional rituals.",
+    "category": "Iconic Pujos",
+    "lat": 22.500887,
+    "lng": 88.364433
+  },
+  {
+    "id": "kml-149",
+    "name": "Chakraberia Sarbojanin",
+    "description": "Historic Bhowanipore celebration celebrated for traditional Daker Saaj idol, classic aristocratic ambiance, and rich heritage.",
+    "category": "Iconic Pujos",
+    "lat": 22.533646,
+    "lng": 88.351891
+  },
+  {
+    "id": "kml-150",
+    "name": "Babubagan Club",
+    "description": "Famed Dhakuria art powerhouse celebrated for extraordinary coin, currency, and heritage craft replicas of Indian temples.",
+    "category": "Iconic Pujos",
+    "lat": 22.507988,
+    "lng": 88.368515
+  },
+  {
+    "id": "kml-151",
+    "name": "Barisha Tarun Tirtha",
+    "description": "Popular Barisha neighborhood celebration known for innovative themes, festive illuminations, and community bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.476515,
+    "lng": 88.31823
+  },
+  {
+    "id": "kml-152",
+    "name": "74 Pally",
+    "description": "Historic Kidderpore-Watganj celebration known for grand decorative pavilions, vibrant lights, and cultural unity.",
+    "category": "Iconic Pujos",
+    "lat": 22.539438,
+    "lng": 88.325729
+  },
+  {
+    "id": "kml-153",
+    "name": "Kabitirtha",
+    "description": "Kidderpore literary and cultural celebration named in honor of Bengal's great poets, featuring artistic thematic pandals.",
+    "category": "Iconic Pujos",
+    "lat": 22.541048,
+    "lng": 88.323288
+  },
+  {
+    "id": "kml-154",
+    "name": "Pally Saradiya Club",
+    "description": "South-West Kolkata neighborhood club noted for traditional idol styling, festive enthusiasm, and local gatherings.",
+    "category": "Iconic Pujos",
+    "lat": 22.543179,
+    "lng": 88.321709
+  },
+  {
+    "id": "kml-155",
+    "name": "Behala 29 Palli",
+    "description": "Behala 29 Palli celebration known for innovative contemporary theme designs and vibrant neighborhood festivities.",
+    "category": "Iconic Pujos",
+    "lat": 22.507343,
+    "lng": 88.322426
+  },
+  {
+    "id": "kml-156",
+    "name": "Baishnabghata Patuli Upanagari",
+    "description": "Major Patuli township celebration known for sprawling fairgrounds, creative architectural themes, and festive lights.",
+    "category": "Iconic Pujos",
+    "lat": 22.471201,
+    "lng": 88.380142
+  },
+  {
+    "id": "kml-157",
+    "name": "Kendua Shanti Sangha - Patuli",
+    "description": "Prominent Patuli-Kendua celebration celebrated for artistic craftsmanship, cultural nights, and community dining.",
+    "category": "Iconic Pujos",
+    "lat": 22.47193,
+    "lng": 88.380997
+  },
+  {
+    "id": "kml-158",
+    "name": "Falguni Sangha",
+    "description": "Ballygunge neighborhood celebration near Ekdalia, known for festive lighting, traditional rituals, and warm hospitality.",
+    "category": "Iconic Pujos",
+    "lat": 22.521793,
+    "lng": 88.365829
+  },
+  {
+    "id": "kml-159",
+    "name": "Chetla Agrani Club",
+    "description": "Prestigious South Kolkata theme destination spearheaded with grand folk art installations and mesmerizing environmental themes.",
+    "category": "Iconic Pujos",
+    "lat": 22.516447,
+    "lng": 88.337151
+  },
+  {
+    "id": "kml-160",
+    "name": "Chelta Sarbasadharaner Club",
+    "description": "Historic Chetla community celebration known for traditional idol craftsmanship, cultural functions, and local camaraderie.",
+    "category": "Iconic Pujos",
+    "lat": 22.517433,
+    "lng": 88.339928
+  },
+  {
+    "id": "kml-161",
+    "name": "Selimpur Naskarpara",
+    "description": "Dhakuria-Selimpur neighborhood celebration noted for creative thematic decor, lighting, and community warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.504808,
+    "lng": 88.37606
+  },
+  {
+    "id": "kml-162",
+    "name": "Bengal United Club",
+    "description": "Southern Avenue club puja celebrated for traditional idol aesthetics, serene lakeside ambiance, and cultural unity.",
+    "category": "Iconic Pujos",
+    "lat": 22.512428,
+    "lng": 88.348518
+  },
+  {
+    "id": "kml-163",
+    "name": "Chandranath Chatterjee Street",
+    "description": "Charming Bhowanipore lane celebration known for traditional family warmth, classic rituals, and heritage charm.",
+    "category": "Iconic Pujos",
+    "lat": 22.52669,
+    "lng": 88.345848
+  },
+  {
+    "id": "kml-164",
+    "name": "Greenwood Nook",
+    "description": "Serene residential enclave puja near EM Bypass, known for elegant thematic decor and close-knit community festivities.",
+    "category": "Iconic Pujos",
+    "lat": 22.50556,
+    "lng": 88.399902
+  },
+  {
+    "id": "kml-165",
+    "name": "Sebak Sangha",
+    "description": "Lake Market area celebration noted for social service initiatives, traditional idol, and warm neighborhood festivals.",
+    "category": "Iconic Pujos",
+    "lat": 22.511377,
+    "lng": 88.347542
+  },
+  {
+    "id": "kml-166",
+    "name": "Dilip Smriti Sangha",
+    "description": "Kalighat area neighborhood club puja celebrated for youthful energy, creative pandal decor, and festive gatherings.",
+    "category": "Iconic Pujos",
+    "lat": 22.517796,
+    "lng": 88.34494
+  },
+  {
+    "id": "kml-167",
+    "name": "Lake Youth Corner",
+    "description": "Southern Avenue youth corner celebration noted for contemporary artistic concepts and serene lakeside surroundings.",
+    "category": "Iconic Pujos",
+    "lat": 22.510754,
+    "lng": 88.347328
+  },
+  {
+    "id": "kml-168",
+    "name": "Ekush Pally Sarbojanin Durgotsab",
+    "description": "Ballygunge 21 Pally celebration renowned for award-winning theme installations, intricate craftsmanship, and cultural depth.",
+    "category": "Iconic Pujos",
+    "lat": 22.529325,
+    "lng": 88.369217
+  },
+  {
+    "id": "kml-169",
+    "name": "Acharya Prafulla Sangha - Behala",
+    "description": "Behala neighborhood puja named after Acharya Prafulla Chandra Ray, celebrating education, science, and traditional culture.",
+    "category": "Iconic Pujos",
+    "lat": 22.49065,
+    "lng": 88.313461
+  },
+  {
+    "id": "kml-170",
+    "name": "Adi Ballygunge",
+    "description": "Historic Ballygunge neighborhood celebration known for century-old traditional rituals, sabeki idol, and cultural legacy.",
+    "category": "Iconic Pujos",
+    "lat": 22.529564,
+    "lng": 88.37265
+  },
+  {
+    "id": "kml-171",
+    "name": "Ballygunge Cultural Association",
+    "description": "Prestigious South Kolkata institution celebrated for elegant, sophisticated art installations and refined traditional aesthetics.",
+    "category": "Iconic Pujos",
+    "lat": 22.516363,
+    "lng": 88.355705
+  },
+  {
+    "id": "kml-172",
+    "name": "Barisha Player's Corner",
+    "description": "Barisha sports corner puja celebrated for youth enthusiasm, creative pandal designs, and festive camaraderie.",
+    "category": "Iconic Pujos",
+    "lat": 22.486588,
+    "lng": 88.312614
+  },
+  {
+    "id": "kml-173",
+    "name": "Barisha Sabuj Sathi Club",
+    "description": "Popular Barisha club celebration known for community welfare, vibrant lighting, and traditional idol worship.",
+    "category": "Iconic Pujos",
+    "lat": 22.47821,
+    "lng": 88.310753
+  },
+  {
+    "id": "kml-174",
+    "name": "Barisha Tapoban",
+    "description": "Barisha neighborhood celebration noted for creative thematic pandal architecture and festive community bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.475655,
+    "lng": 88.310432
+  },
+  {
+    "id": "kml-175",
+    "name": "Behala Arcadia Sarbojanin",
+    "description": "Behala Arcadia residential celebration known for peaceful family festive atmosphere and traditional rituals.",
+    "category": "Iconic Pujos",
+    "lat": 22.4942,
+    "lng": 88.315163
+  },
+  {
+    "id": "kml-176",
+    "name": "Durgabari",
+    "description": "Traditional Behala Durgabari celebration known for devotional purity, Vedic rituals, and classic sabeki idol.",
+    "category": "Iconic Pujos",
+    "lat": 22.499889,
+    "lng": 88.315765
+  },
+  {
+    "id": "kml-177",
+    "name": "Ganbani Sangha",
+    "description": "Behala area community club celebrated for creative thematic decor, cultural programs, and festive joy.",
+    "category": "Iconic Pujos",
+    "lat": 22.488768,
+    "lng": 88.327805
+  },
+  {
+    "id": "kml-178",
+    "name": "Samaj Sebi Sangha",
+    "description": "Famous South Kolkata institution renowned for deeply emotional social themes, inclusive accessibility, and eco-friendly art.",
+    "category": "Iconic Pujos",
+    "lat": 22.515591,
+    "lng": 88.357719
+  },
+  {
+    "id": "kml-179",
+    "name": "Sodepur Pragati Sangha (Haridevpur)",
+    "description": "Haridevpur area neighborhood puja noted for creative contemporary themes, festive lighting, and local harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.481165,
+    "lng": 88.331619
+  },
+  {
+    "id": "kml-180",
+    "name": "Santoshpur Sonar Tori Durgatsav",
+    "description": "Santoshpur Sonar Tori celebration famous for boat and riverine artisanal themes, reflecting Bengal's rich water heritage.",
+    "category": "Iconic Pujos",
+    "lat": 22.49184,
+    "lng": 88.378548
+  },
+  {
+    "id": "kml-181",
+    "name": "Abasar Sarbojonin",
+    "description": "Historic Bhowanipore celebration celebrated for traditional rituals, sabeki idol styling, and neighborhood warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.527561,
+    "lng": 88.3489
+  },
+  {
+    "id": "kml-182",
+    "name": "Goal Math",
+    "description": "Bhowanipore Goal Math park celebration known for spacious grounds, festive fairs, and creative pandal decor.",
+    "category": "Iconic Pujos",
+    "lat": 22.526709,
+    "lng": 88.349045
+  },
+  {
+    "id": "kml-183",
+    "name": "Barisha Netaji Sangha",
+    "description": "Barisha Netaji Sangha celebration noted for patriotic heritage, creative thematic installations, and community spirit.",
+    "category": "Iconic Pujos",
+    "lat": 22.48385,
+    "lng": 88.314629
+  },
+  {
+    "id": "kml-184",
+    "name": "Behala Buroshibtala Janakalyan Sangha",
+    "description": "Historic Behala Buroshibtala club celebrated for community welfare, traditional idol, and vibrant festive events.",
+    "category": "Iconic Pujos",
+    "lat": 22.502289,
+    "lng": 88.329735
+  },
+  {
+    "id": "kml-185",
+    "name": "Jogajatri Club",
+    "description": "Behala neighborhood club puja known for creative artistic motifs, colorful lighting, and festive gatherings.",
+    "category": "Iconic Pujos",
+    "lat": 22.501614,
+    "lng": 88.331284
+  },
+  {
+    "id": "kml-186",
+    "name": "Surya Nagar Sarbojanin",
+    "description": "Tollygunge Suryanagar celebration celebrated for innovative theme concepts, handcrafted decor, and community warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.47489,
+    "lng": 88.359344
+  },
+  {
+    "id": "kml-187",
+    "name": "Udayan Sangha",
+    "description": "Santoshpur area Udayan Sangha puja noted for creative pandal architecture, festive music, and neighborhood bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.501814,
+    "lng": 88.387711
+  },
+  {
+    "id": "kml-188",
+    "name": "Uttar Panchanan Gram Milan",
+    "description": "EM Bypass area Panchanan Gram celebration known for grand decorative pandals, lighting, and community harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.532141,
+    "lng": 88.396339
+  },
+  {
+    "id": "kml-189",
+    "name": "Golden Arrow Club",
+    "description": "Kalighat area Golden Arrow Club puja celebrated for youthful energy, creative themes, and festive enthusiasm.",
+    "category": "Iconic Pujos",
+    "lat": 22.516293,
+    "lng": 88.34758
+  },
+  {
+    "id": "kml-190",
+    "name": "Purbachal Shakti Sangha",
+    "description": "Kasba Purbachal Shakti Sangha noted for artistic thematic pandals, traditional rituals, and community celebrations.",
+    "category": "Iconic Pujos",
+    "lat": 22.505142,
+    "lng": 88.389214
+  },
+  {
+    "id": "kml-191",
+    "name": "Naskarpur Sarbojanin",
+    "description": "Behala Naskarpur neighborhood celebration known for traditional idol craftsmanship and warm community hospitality.",
+    "category": "Iconic Pujos",
+    "lat": 22.506571,
+    "lng": 88.312065
+  },
+  {
+    "id": "kml-192",
+    "name": "64 Pally",
+    "description": "Bhowanipore 64 Pally celebration celebrated for creative contemporary themes and intimate neighborhood festivities.",
+    "category": "Iconic Pujos",
+    "lat": 22.526789,
+    "lng": 88.346512
+  },
+  {
+    "id": "kml-193",
+    "name": "95 Pally",
+    "description": "Jodhpur Park 95 Pally celebration renowned for innovative craftsmanship, social art installations, and cultural programs.",
+    "category": "Iconic Pujos",
+    "lat": 22.507622,
+    "lng": 88.362953
+  },
+  {
+    "id": "kml-194",
+    "name": "Bandhab Sammilani",
+    "description": "Dhakuria Bandhab Sammilani celebration known for close-knit community harmony, traditional idol, and festive meals.",
+    "category": "Iconic Pujos",
+    "lat": 22.507818,
+    "lng": 88.367661
+  },
+  {
+    "id": "kml-195",
+    "name": "The Bengal Boys Training Association",
+    "description": "Historic Kalighat training association puja celebrated for youth fitness heritage, traditional rituals, and community spirit.",
+    "category": "Iconic Pujos",
+    "lat": 22.517557,
+    "lng": 88.341179
+  },
+  {
+    "id": "kml-196",
+    "name": "Nepal Bhattacharjee Street",
+    "description": "Historic Kalighat neighborhood celebration known for traditional idol artistry and vibrant festive camaraderie.",
+    "category": "Iconic Pujos",
+    "lat": 22.517784,
+    "lng": 88.341049
+  },
+  {
+    "id": "kml-197",
+    "name": "Roynagar Unnayan Samity",
+    "description": "Netaji Nagar-Roynagar community puja noted for creative thematic designs, cultural functions, and local joy.",
+    "category": "Iconic Pujos",
+    "lat": 22.47242,
+    "lng": 88.360176
+  },
+  {
+    "id": "kml-198",
+    "name": "Shyamapally Shyama Sangha",
+    "description": "Tollygunge-Shyamapally celebration known for devotional spirit, traditional idol styling, and community warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.49152,
+    "lng": 88.37159
+  },
+  {
+    "id": "kml-199",
+    "name": "Garia Sreerampur Kalyan Samity",
+    "description": "Garia Sreerampur welfare committee puja celebrated for social initiatives, festive illuminations, and community bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.466888,
+    "lng": 88.38044
+  },
+  {
+    "id": "kml-200",
+    "name": "Bhowanipur Swadhin Sangha",
+    "description": "Historic Bhowanipore Swadhin Sangha puja celebrated for freedom-era heritage, traditional rituals, and cultural programs.",
+    "category": "Iconic Pujos",
+    "lat": 22.531992,
+    "lng": 88.346237
+  },
+  {
+    "id": "kml-201",
+    "name": "Dakshin Phalguni Club",
+    "description": "Patuli Dakshin Phalguni celebration known for artistic pandal decor, lakeside surroundings, and family festivities.",
+    "category": "Iconic Pujos",
+    "lat": 22.470131,
+    "lng": 88.379921
+  },
+  {
+    "id": "kml-202",
+    "name": "Garia Pancha Durga",
+    "description": "Historic Garia celebration honoring the divine Pancha Durga heritage with deep devotional reverence and community feasts.",
+    "category": "Iconic Pujos",
+    "lat": 22.461643,
+    "lng": 88.378166
+  },
+  {
+    "id": "kml-203",
+    "name": "Garia Sabuj Dal",
+    "description": "Garia Sabuj Dal community celebration known for eco-friendly green themes, festive illuminations, and cultural events.",
+    "category": "Iconic Pujos",
+    "lat": 22.469654,
+    "lng": 88.381599
+  },
+  {
+    "id": "kml-204",
+    "name": "Harish Park Puja",
+    "description": "Historic Bhowanipore Harish Park celebration celebrated for sprawling park fairs, grand pandal architecture, and rich legacy.",
+    "category": "Iconic Pujos",
+    "lat": 22.530655,
+    "lng": 88.343681
+  },
+  {
+    "id": "kml-205",
+    "name": "Jatra Suru Sangha",
+    "description": "Garia Jatra Suru Sangha puja noted for creative cultural installations, traditional idol, and community enthusiasm.",
+    "category": "Iconic Pujos",
+    "lat": 22.470646,
+    "lng": 88.37793
+  },
+  {
+    "id": "kml-206",
+    "name": "Judge Bagan Recreation Club",
+    "description": "Haridevpur Judge Bagan recreation club puja celebrated for artistic contemporary themes and festive sports spirit.",
+    "category": "Iconic Pujos",
+    "lat": 22.477327,
+    "lng": 88.338959
+  },
+  {
+    "id": "kml-207",
+    "name": "Green Avenue Sarbojanin",
+    "description": "Santoshpur Green Avenue celebration known for peaceful residential ambiance, creative decor, and traditional bhog.",
+    "category": "Iconic Pujos",
+    "lat": 22.494051,
+    "lng": 88.380264
+  },
+  {
+    "id": "kml-208",
+    "name": "Rupchand Mukherjee Lane Sarbojanin",
+    "description": "Bhowanipore Rupchand Mukherjee Lane puja known for heritage lane lighting, classic sabeki idol, and family warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.527273,
+    "lng": 88.344948
+  },
+  {
+    "id": "kml-209",
+    "name": "Santoshpur Agragami",
+    "description": "Santoshpur Agragami celebration celebrated for innovative folk art themes, lighting displays, and community harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.494265,
+    "lng": 88.377991
+  },
+  {
+    "id": "kml-210",
+    "name": "Santoshpur Bibekananda Sangha",
+    "description": "Santoshpur Bibekananda Sangha celebration noted for educational and cultural activities, artistic pandal, and festive joy.",
+    "category": "Iconic Pujos",
+    "lat": 22.493908,
+    "lng": 88.383392
+  },
+  {
+    "id": "kml-211",
+    "name": "Lake Pally Sarbojanin",
+    "description": "Lake Pally Sarbojanin near Southern Avenue, known for serene lakeside surroundings, traditional idol, and cultural events.",
+    "category": "Iconic Pujos",
+    "lat": 22.507259,
+    "lng": 88.346237
+  },
+  {
+    "id": "kml-212",
+    "name": "Golfgreen Phase 1",
+    "description": "Golf Green Phase 1 residential puja celebrated for refined artistic decor, tree-lined festive charm, and community feasts.",
+    "category": "Iconic Pujos",
+    "lat": 22.493393,
+    "lng": 88.362274
+  },
+  {
+    "id": "kml-213",
+    "name": "19 Pally",
+    "description": "Dhakuria 19 Pally celebration celebrated for creative contemporary themes, festive lighting, and neighborhood enthusiasm.",
+    "category": "Iconic Pujos",
+    "lat": 22.512735,
+    "lng": 88.3675
+  },
+  {
+    "id": "kml-214",
+    "name": "68 Pally",
+    "description": "Bhowanipore 68 Pally celebration known for intimate neighborhood charm, traditional rituals, and festive warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.527443,
+    "lng": 88.346184
+  },
+  {
+    "id": "kml-215",
+    "name": "77 Palli",
+    "description": "Dhakuria 77 Palli celebration noted for creative artistic installations, traditional idol, and community bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.504271,
+    "lng": 88.367607
+  },
+  {
+    "id": "kml-216",
+    "name": "Abasarika Club",
+    "description": "Dhakuria Abasarika Club puja celebrated for warm community spirit, festive lighting, and cultural performances.",
+    "category": "Iconic Pujos",
+    "lat": 22.508394,
+    "lng": 88.369278
+  },
+  {
+    "id": "kml-217",
+    "name": "Bakul Bagan Sarbojanin",
+    "description": "Famed Bhowanipore art pioneer celebrated since 1928 for commissioning exquisite temple architecture replicas and clay idols.",
+    "category": "Iconic Pujos",
+    "lat": 22.52673,
+    "lng": 88.347397
+  },
+  {
+    "id": "kml-218",
+    "name": "Haridevpur Adarsha Samiti",
+    "description": "Haridevpur Adarsha Samiti celebration known for creative contemporary themes, traditional rituals, and community harmony.",
+    "category": "Iconic Pujos",
+    "lat": 22.475842,
+    "lng": 88.336937
+  },
+  {
+    "id": "kml-219",
+    "name": "Hindustan Club",
+    "description": "Prominent Sarat Bose Road celebration known for grand decorative pavilions, vibrant lights, and festive social gatherings.",
+    "category": "Iconic Pujos",
+    "lat": 22.520149,
+    "lng": 88.361259
+  },
+  {
+    "id": "kml-220",
+    "name": "Manoharpukur Youngs",
+    "description": "Manoharpukur neighborhood celebration celebrated for traditional rituals, sabeki idol modeling, and community warmth.",
+    "category": "Iconic Pujos",
+    "lat": 22.52673,
+    "lng": 88.347397
+  },
+  {
+    "id": "kml-221",
+    "name": "Manoharpukur Youngs",
+    "description": "Manoharpukur Youngs celebration known for youthful festive energy, creative pandal decor, and neighborhood bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.518682,
+    "lng": 88.356216
+  },
+  {
+    "id": "kml-222",
+    "name": "Padmapukur Youth Association",
+    "description": "Bhowanipore Padmapukur youth club puja celebrated for creative thematic designs, festive music, and community spirit.",
+    "category": "Iconic Pujos",
+    "lat": 22.531614,
+    "lng": 88.352341
+  },
+  {
+    "id": "kml-223",
+    "name": "Padmapukur Baroyari",
+    "description": "Historic Bhowanipore Padmapukur barowari celebration known for classic Daker Saaj idol and rich neighborhood heritage.",
+    "category": "Iconic Pujos",
+    "lat": 22.531862,
+    "lng": 88.354294
+  },
+  {
+    "id": "kml-224",
+    "name": "Park Circus - Uddipani",
+    "description": "Park Circus Uddipani celebration known for vibrant cosmopolitan festive energy, illuminated fairs, and cultural unity.",
+    "category": "Iconic Pujos",
+    "lat": 22.544149,
+    "lng": 88.370056
+  },
+  {
+    "id": "kml-225",
+    "name": "Triangular Park Sarbojanin",
+    "description": "Southern Avenue Triangular Park celebration known for beautiful park decor, traditional idol, and pleasant festive gatherings.",
+    "category": "Iconic Pujos",
+    "lat": 22.517979,
+    "lng": 88.357964
+  },
+  {
+    "id": "kml-226",
+    "name": "Sitalatala Kishore Sangha",
+    "description": "Barisha Sitalatala Kishore Sangha puja celebrated for youth enthusiasm, traditional rituals, and neighborhood joy.",
+    "category": "Iconic Pujos",
+    "lat": 22.481987,
+    "lng": 88.322479
+  },
+  {
+    "id": "kml-227",
+    "name": "Prasanta Disha Sarbojanin",
+    "description": "Behala Prasanta Disha celebration known for social welfare themes, creative decor, and community festivities.",
+    "category": "Iconic Pujos",
+    "lat": 22.499216,
+    "lng": 88.327644
+  },
+  {
+    "id": "kml-228",
+    "name": "Barisha Yubak Brinda",
+    "description": "Barisha Yubak Brinda celebration noted for energetic youth participation, colorful lighting, and festive community bonding.",
+    "category": "Iconic Pujos",
+    "lat": 22.484386,
+    "lng": 88.306541
+  },
+  {
+    "id": "kml-229",
+    "name": "Aikya Sammilani",
+    "description": "Behala Aikya Sammilani celebration celebrated for communal harmony, traditional idol, and cultural programs.",
+    "category": "Iconic Pujos",
+    "lat": 22.504429,
+    "lng": 88.318611
+  },
+  {
+    "id": "kml-230",
+    "name": "Sealdah Railway Athletic Club",
+    "description": "Historic Central Kolkata celebration established in 1947 near Sealdah station, celebrated for traditional rituals and railway sporting heritage.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5705774,
+    "lng": 88.37194
+  },
+  {
+    "id": "kml-231",
+    "name": "College Square Sarbojanin Durgotsab Committee",
+    "description": "Historic Central Kolkata landmark famous for majestic illuminated temple replicas floating on the historic lake water.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.573941,
+    "lng": 88.362675
+  },
+  {
+    "id": "kml-232",
+    "name": "Muhammad Ali Park",
+    "description": "Celebrated Central Kolkata ground puja famous for grand replicas of world-famous monuments and brilliant decorative lighting.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5771888,
+    "lng": 88.3607369
+  },
+  {
+    "id": "kml-233",
+    "name": "Santosh Mitra Square",
+    "description": "Spectacular Central Kolkata mega-puja renowned for ultra-luxurious gold/diamond themed sets, laser shows, and massive crowds.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5660201,
+    "lng": 88.3656532
+  },
+  {
+    "id": "kml-234",
+    "name": "Manicktala Chaltabagan Lohapatty Durga Puja",
+    "description": "Renowned North-Central celebration famous for pioneering glass/brass artisanal themes, eco-friendly decor, and spirited dhak contests.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5847266,
+    "lng": 88.3720013
+  },
+  {
+    "id": "kml-235",
+    "name": "Brindaban Matri Mandir Durga Puja Committee in Kolkata",
+    "description": "Historic Manicktala temple-precinct puja known for deep devotional rituals, traditional idol styling, and community warmth.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5825241,
+    "lng": 88.3732045
+  },
+  {
+    "id": "kml-236",
+    "name": "Karbagan Sarbojanin Durgotsab Committee",
+    "description": "Vibrant Ultadanga neighborhood puja famous for colorful thematic decor, folk artisan motifs, and warm community festivities.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5953601,
+    "lng": 88.3838115
+  },
+  {
+    "id": "kml-237",
+    "name": "Telenga Bagan",
+    "description": "Pioneer of North Kolkata theme pujas along Ultadanga, celebrated for intricate handicrafts, natural material decor, and artistic idols.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5940824,
+    "lng": 88.3835636
+  },
+  {
+    "id": "kml-238",
+    "name": "Nalin Sarkar Street",
+    "description": "Acclaimed North Kolkata art hub celebrated for exquisite terracotta and clay sculpture installations blending heritage with modern aesthetics.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5953765,
+    "lng": 88.3731609
+  },
+  {
+    "id": "kml-239",
+    "name": "Hatibagan Sarbojanin Durgotsav",
+    "description": "Century-old heritage celebration along the historic Hatibagan theater corridor, noted for traditional idol decor and cultural nostalgia.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5943863,
+    "lng": 88.3720004
+  },
+  {
+    "id": "kml-240",
+    "name": "Hatibagan Nabinpally Sarbojanin Durgotsav",
+    "description": "Famous Hatibagan theme powerhouse renowned for creative rural and folk art motifs, intricate woodwork, and cultural depth.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5966688,
+    "lng": 88.3743691
+  },
+  {
+    "id": "kml-241",
+    "name": "Sikdar Bagan Sadharan Durgotsov",
+    "description": "Historic North Kolkata puja celebrated for exquisite handcrafted wooden and clay idol artistry and heritage charm.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5966234,
+    "lng": 88.3723112
+  },
+  {
+    "id": "kml-242",
+    "name": "Kashi Bose Lane Durga Puja Samity",
+    "description": "Award-winning North Kolkata thematic powerhouse celebrated for deeply emotional social, literary, and environmental art installations.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5908979,
+    "lng": 88.3689174
+  },
+  {
+    "id": "kml-243",
+    "name": "Hedua Park Durga Puja",
+    "description": "Historic North Kolkata Hedua Park celebration famous for lakeside ambiance, traditional sabeki idol, and cultural legacy.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5887151,
+    "lng": 88.369288
+  },
+  {
+    "id": "kml-244",
+    "name": "Simla Byayam Samity",
+    "description": "Historic nationalist puja founded in 1926 with blessings of Netaji Subhas Chandra Bose, famous for its fierce traditional warrior-form idol.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5853694,
+    "lng": 88.3650092
+  },
+  {
+    "id": "kml-245",
+    "name": "Jagat Mukherjee Park",
+    "description": "North Kolkata crowd favorite famous for imaginative, whimsical fantasy themes and unique artistic materials.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5994903,
+    "lng": 88.3660388
+  },
+  {
+    "id": "kml-246",
+    "name": "Yubak Brinda DurgaPuja Mandop",
+    "description": "Energetic North Kolkata youth club puja celebrated for vibrant thematic pandal designs, lighting, and community warmth.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.595916,
+    "lng": 88.3823154
+  },
+  {
+    "id": "kml-247",
+    "name": "Ahiritola Sarbojanin Durgotsab",
+    "description": "Iconic North Kolkata heritage puja celebrated for magnificent traditional artistry, vibrant cultural themes, and riverside charm.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.594859,
+    "lng": 88.3571768
+  },
+  {
+    "id": "kml-248",
+    "name": "AHIRITOLA JUBAK BRINDA SARBOJONIN SARODOTSAB",
+    "description": "Energetic Ahiritola youth celebration known for innovative pandal art, colorful illuminations, and festive spirit.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.594889,
+    "lng": 88.356777
+  },
+  {
+    "id": "kml-249",
+    "name": "Beniatola Sarbojonin Durgostsav",
+    "description": "Historic North Kolkata neighborhood puja celebrated for authentic traditional idol artistry, heritage lane decor, and classic rituals.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.595926,
+    "lng": 88.3611171
+  },
+  {
+    "id": "kml-250",
+    "name": "Kumartuli Park",
+    "description": "Grand celebration adjoining the potters' colony, renowned for massive architectural facades and contemporary artistic installations.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5989827,
+    "lng": 88.3614663
+  },
+  {
+    "id": "kml-251",
+    "name": "Hatkhola Gosaipara Sarbojonin Durgotsab",
+    "description": "Historic North Kolkata neighborhood puja near the Ganges, known for traditional rituals and centuries-old cultural charm.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5991411,
+    "lng": 88.3591403
+  },
+  {
+    "id": "kml-252",
+    "name": "Kumortuli Sarbojonin Durgotsab",
+    "description": "Historic barowari celebration in Kumartuli, revered for master artisan clay sculpting and sacred traditional heritage.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.601233,
+    "lng": 88.3626053
+  },
+  {
+    "id": "kml-253",
+    "name": "Baghbazar Sarbojonin Durgotsav",
+    "description": "Historic centenary barowari celebration (est. 1919) famous for its timeless Ekchala Daker Saaj idol, classic rituals, and grand carnival.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.6046649,
+    "lng": 88.3659778
+  },
+  {
+    "id": "kml-254",
+    "name": "Baghbazar 7 Pally Sarbojanin Durgotsav",
+    "description": "Baghbazar 7 Pally celebration noted for traditional community rituals, dhunuchi dance, and festive neighborhood camaraderie.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.6046937,
+    "lng": 88.3713085
+  },
+  {
+    "id": "kml-255",
+    "name": "Deshbandhu Park",
+    "description": "Sprawling North Kolkata park celebration known for community cultural events, festive fairs, and traditional idol worship.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.60001,
+    "lng": 88.3771053
+  },
+  {
+    "id": "kml-256",
+    "name": "Tala Barowari Durgotsab",
+    "description": "Pioneering North Kolkata barowari celebration (est. 1921) celebrated for its century-old heritage, traditional idol, and festive fairs.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.6071191,
+    "lng": 88.3760867
+  },
+  {
+    "id": "kml-257",
+    "name": "Tala Prattoy Durga Puja Art",
+    "description": "Renowned for world-class museum-grade installation art and contemporary conceptual architectural installations.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.6089319,
+    "lng": 88.382574
+  },
+  {
+    "id": "kml-258",
+    "name": "Sree Bhumi Sporting Club",
+    "description": "Mega VIP Road attraction renowned for lavish world-famous monument replicas (Burj Khalifa, Vatican, Ram Mandir) and real gold-adorned idols.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.5988987,
+    "lng": 88.4029328
+  },
+  {
+    "id": "kml-259",
+    "name": "Dum Dum Park Tarun Sangha",
+    "description": "Award-winning art destination along Dum Dum Park celebrated for intricate hand-sculpted installations, conceptual themes, and ambient lighting.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.6109224,
+    "lng": 88.4137848
+  },
+  {
+    "id": "kml-260",
+    "name": "Dum Dum Park Sarbojanin Durga Puja Samity",
+    "description": "Celebrated Dum Dum Park community puja known for creative contemporary pandal themes, festive illuminations, and large footfall.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.6094363,
+    "lng": 88.4164052
+  },
+  {
+    "id": "kml-261",
+    "name": "Dum Dum Park Bharat Chakra",
+    "description": "Premier Dum Dum Park attraction renowned for innovative eco-friendly craftsmanship, contemporary artistic sculptures, and cultural resonance.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.61026,
+    "lng": 88.4143505
+  },
+  {
+    "id": "kml-262",
+    "name": "Lake Town Adhibasi Brindo Durga Puja Pandal",
+    "description": "Premier Lake Town celebration celebrated for lavish architectural structures, vibrant festive illuminations, and traditional fervor.",
+    "category": "Central ar North Kolkata r Pujo",
+    "lat": 22.6044508,
+    "lng": 88.4039701
+  },
+  {
+    "id": "kml-263",
+    "name": "Srimani Barir Durga Pujo",
+    "description": "Historic 200+ year-old North Kolkata household puja of the illustrious Srimani family, famous for round-the-clock open courtyard hospitality.",
+    "category": "Kolkata Bonedi Bari Map",
+    "lat": 22.5818002,
+    "lng": 88.3738888
+  },
+  {
+    "id": "kml-264",
+    "name": "Hathkhola Dutta Barir Durga Pujo",
+    "description": "Over 200-year-old aristocratic household puja featuring the unique 'Muttchowree' three-spired backdrop and traditional Khaas Bangla face mould.",
+    "category": "Kolkata Bonedi Bari Map",
+    "lat": 22.5928457,
+    "lng": 88.3549315
+  },
+  {
+    "id": "kml-265",
+    "name": "Sovabazar Rajbarir Durga Pujo",
+    "description": "Historic royal household puja founded in 1757 by Raja Nabakrishna Deb; famed for its grand Natmandir courtyard and Ekchala Daker Saaj idol.",
+    "category": "Kolkata Bonedi Bari Map",
+    "lat": 22.5962505,
+    "lng": 88.3674185
+  },
+  {
+    "id": "kml-266",
+    "name": "Roychoudhury Barir Durga Pujo",
+    "description": "Kolkata's oldest recorded Durga Puja (started in 1610 at Barisha by Lakshmikanta Ray Mazumdar), worshipped in the historic Aatchala mandap.",
+    "category": "Kolkata Bonedi Bari Map",
+    "lat": 22.4800988,
+    "lng": 88.3065756
+  },
+  {
+    "id": "kml-267",
+    "name": "Khelat Ghose er Durga Pujo",
+    "description": "Aristocratic North Kolkata zamindar mansion puja (est. 1846) with a grand marble Natmandir, dancing hall, and pristine Ekchala idol.",
+    "category": "Kolkata Bonedi Bari Map",
+    "lat": 22.5887689,
+    "lng": 88.3565391
+  },
+  {
+    "id": "kml-268",
+    "name": "Rani Rashmoni er Durga Pujo",
+    "description": "Sacred 18th-century heritage celebration founded by the legendary philanthropist Rani Rashmoni, attended by historic Bengal luminaries.",
+    "category": "Kolkata Bonedi Bari Map",
+    "lat": 22.5624669,
+    "lng": 88.3553522
+  },
+  {
+    "id": "kml-269",
+    "name": "RAMDULAL NIBAS er Durga Pujo",
+    "description": "Historic Beadon Street merchant mansion puja (est. 1770) famed for its exquisite idol flanked by Jaya and Bijaya on swans.",
+    "category": "Kolkata Bonedi Bari Map",
+    "lat": 22.5903317,
+    "lng": 88.3644845
+  },
+  {
+    "id": "kml-270",
+    "name": "Baghbazar Haldar Bari er Pujo",
+    "description": "Ancient 450+ year-old household puja where the sacred deity is crafted from touchstone (Kasthipathar) sculpted during Bengal's Pala era.",
+    "category": "Kolkata Bonedi Bari Map",
+    "lat": 22.6034575,
+    "lng": 88.3670376
+  },
+  {
+    "id": "kml-271",
+    "name": "Badamtala Ashar Sangha",
+    "description": "Renowned Kalighat art destination celebrated for pioneering avant-garde themes, exquisite idol modeling, and artistic brilliance.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5179743,
+    "lng": 88.3437184
+  },
+  {
+    "id": "kml-272",
+    "name": "66 Pally Durga Puja Pandal",
+    "description": "Landmark Kalighat neighborhood puja celebrated for progressive themes, artistic decor, and historic community roots.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5181372,
+    "lng": 88.3427029
+  },
+  {
+    "id": "kml-273",
+    "name": "Nepal Bhattacharjee Street",
+    "description": "Historic South Kolkata club showcasing intimate community warmth, traditional rituals, and local festive spirit.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5180222,
+    "lng": 88.3426217
+  },
+  {
+    "id": "kml-274",
+    "name": "Chetla Agrani Club",
+    "description": "Celebrated South Kolkata theme destination spearheaded with grand folk art installations and mesmerizing environmental themes.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5164325,
+    "lng": 88.337091
+  },
+  {
+    "id": "kml-275",
+    "name": "Deshapriya Park",
+    "description": "Legendary South Kolkata ground celebration known for colossal monumental themes, towering pandal structures, and massive crowd appeal.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5185819,
+    "lng": 88.3534607
+  },
+  {
+    "id": "kml-276",
+    "name": "Samaj Sebi Sangha",
+    "description": "Famous South Kolkata institution renowned for deeply emotional social themes, inclusive accessibility, and eco-friendly art.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5155625,
+    "lng": 88.3559608
+  },
+  {
+    "id": "kml-277",
+    "name": "Ballygunge Cultural Association",
+    "description": "Prestigious South Kolkata institution celebrated for elegant, sophisticated art installations and refined traditional aesthetics.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5159227,
+    "lng": 88.3557435
+  },
+  {
+    "id": "kml-278",
+    "name": "Tridhara Sammilani",
+    "description": "Award-winning South Kolkata powerhouse celebrated for blending contemporary installation art with sacred spiritual harmony.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5193983,
+    "lng": 88.3554347
+  },
+  {
+    "id": "kml-279",
+    "name": "Hindustan Park Sarbojanin Durga Puja",
+    "description": "Acclaimed South Kolkata art hub renowned for exquisite folk art, handloom textiles, and poetic thematic installations.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5179755,
+    "lng": 88.3614231
+  },
+  {
+    "id": "kml-280",
+    "name": "Singhi Park Sarbojanin Durga Puja Committee",
+    "description": "Prestigious South Kolkata landmark celebrating over 80 years, renowned for magnificent royal temple facades and traditional idol.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5208433,
+    "lng": 88.3631452
+  },
+  {
+    "id": "kml-281",
+    "name": "Ekdalia Evergreen Club",
+    "description": "Legendary South Kolkata powerhouse famed for authentic Indian temple replicas, massive German chandeliers, and traditional idol.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5212187,
+    "lng": 88.3665629
+  },
+  {
+    "id": "kml-282",
+    "name": "Falguni Sangha",
+    "description": "Ballygunge neighborhood celebration near Ekdalia, known for festive lighting, traditional rituals, and warm hospitality.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5220333,
+    "lng": 88.3656673
+  },
+  {
+    "id": "kml-283",
+    "name": "Ballygunge 21 Pally",
+    "description": "Ballygunge 21 Pally celebration renowned for award-winning theme installations, intricate craftsmanship, and cultural depth.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.529175,
+    "lng": 88.3688163
+  },
+  {
+    "id": "kml-284",
+    "name": "Bosepukur Sitala Mandir",
+    "description": "Historic pioneer of Kolkata's theme movement (famous for earthen tea-cup pandal), continuing trailblazing artistic decor.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5192181,
+    "lng": 88.3848576
+  },
+  {
+    "id": "kml-285",
+    "name": "Bosepukur Talbagan Sarbojanin Durga Puja Pandal",
+    "description": "Renowned Kasba-Bosepukur art hub celebrated for intricate wooden crafts, folk motifs, and atmospheric illuminations.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5187427,
+    "lng": 88.3826451
+  },
+  {
+    "id": "kml-286",
+    "name": "Rajdanga Naba Uday Sangha",
+    "description": "Vibrant Kasba art destination known for impressive architectural installations, colorful lighting, and festive energy.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5166272,
+    "lng": 88.3902285
+  },
+  {
+    "id": "kml-287",
+    "name": "Babubagan Club",
+    "description": "Famed Dhakuria art powerhouse celebrated for extraordinary coin, currency, and heritage craft replicas of Indian temples.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5079097,
+    "lng": 88.3690351
+  },
+  {
+    "id": "kml-288",
+    "name": "Selimpur Pally Durga Puja Pandal",
+    "description": "Famous South Kolkata art hub renowned for intricate handicrafts, natural material installations, and poetic aesthetics.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5048712,
+    "lng": 88.3678466
+  },
+  {
+    "id": "kml-289",
+    "name": "Jodhpur Park",
+    "description": "Premier South Kolkata park celebration known for innovative environmental themes, sprawling fairs, and cultural excellence.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5058175,
+    "lng": 88.3639986
+  },
+  {
+    "id": "kml-290",
+    "name": "95 Pally Association",
+    "description": "Jodhpur Park 95 Pally celebration renowned for innovative craftsmanship, social art installations, and cultural programs.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5083339,
+    "lng": 88.3629194
+  },
+  {
+    "id": "kml-291",
+    "name": "Trikon Park Durgotsab ত্রিকোণ পার্ক দূর্গোৎসব",
+    "description": "Santoshpur neighborhood park celebration noted for creative artistic installations, festive fairs, and community harmony.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.493162,
+    "lng": 88.3784275
+  },
+  {
+    "id": "kml-292",
+    "name": "Pally Mangal Samity",
+    "description": "Dhakuria-Jodhpur Park neighborhood puja celebrated for artistic craftsmanship, traditional idol, and festive harmony.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5049158,
+    "lng": 88.3744596
+  },
+  {
+    "id": "kml-293",
+    "name": "SANTOSHPUR LAKE PALLY",
+    "description": "Prestigious Eastern South Kolkata lakeside celebration celebrated for sublime artistic concepts and peaceful festival elegance.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.4914216,
+    "lng": 88.3826648
+  },
+  {
+    "id": "kml-294",
+    "name": "Mudiali Club",
+    "description": "Prestigious South Kolkata landmark celebrated for intricate hand-cut thermocol and wooden filigree art glowing in exquisite symmetry.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.509985,
+    "lng": 88.346783
+  },
+  {
+    "id": "kml-295",
+    "name": "Suruchi Sangha",
+    "description": "Acclaimed New Alipore mega-puja featuring rich state-wise cultural themes from across India with custom thematic songs.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5090531,
+    "lng": 88.333942
+  },
+  {
+    "id": "kml-296",
+    "name": "Hindustan Club",
+    "description": "Prominent Sarat Bose Road celebration known for grand decorative pavilions, vibrant lights, and festive social gatherings.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5039723,
+    "lng": 88.3371126
+  },
+  {
+    "id": "kml-297",
+    "name": "Behala Club Sarbojanin Durgotsav Committee",
+    "description": "Historic South-West Kolkata club renowned for innovative environmental concepts, handcrafted decor, and cultural depth.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.505119,
+    "lng": 88.3141052
+  },
+  {
+    "id": "kml-298",
+    "name": "BARISHA SARBOJANIN DURGOTSAB",
+    "description": "South-West Kolkata celebration rooted in Barisha's historic heritage, featuring traditional rituals and community unity.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.4798221,
+    "lng": 88.3078724
+  },
+  {
+    "id": "kml-299",
+    "name": "Raipur Club : Durga Puja Organisers in Kolkata",
+    "description": "Prominent Garia-Raipur community celebration known for creative thematic decor, lighting, and cultural festivities.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.4745148,
+    "lng": 88.3780502
+  },
+  {
+    "id": "kml-300",
+    "name": "Naktala Udayan Sangha club",
+    "description": "Mega South Kolkata spectacle renowned for colossal avant-garde installations, futuristic themes, and massive crowd pull.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.4747012,
+    "lng": 88.3667911
+  },
+  {
+    "id": "kml-301",
+    "name": "Maddox Square Durga Puja",
+    "description": "The ultimate cultural heart of South Kolkata Durga Puja, world-famous for its open park gathering, traditional sabeki idol, and lively festive reunions.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.5265634,
+    "lng": 88.3546477
+  },
+  {
+    "id": "kml-302",
+    "name": "11 Pally Club",
+    "description": "Behala 11 Pally celebration noted for creative thematic installations, festive lighting, and neighborhood camaraderie.",
+    "category": "South Kolkata r Pujo",
+    "lat": 22.4985408,
+    "lng": 88.3214501
+  },
+  {
+    "id": "kml-303",
+    "name": "FD Block",
+    "description": "Salt Lake's most celebrated mega-puja, attracting lakhs of visitors for its colossal fantasy architecture, laser shows, and grand themes.",
+    "category": "Salt Lake",
+    "lat": 22.5830181,
+    "lng": 88.4131218
+  },
+  {
+    "id": "kml-304",
+    "name": "AK Block",
+    "description": "Salt Lake Sector-II block puja celebrated for royal architectural temple replicas, colorful illuminations, and community fairs.",
+    "category": "Salt Lake",
+    "lat": 22.5891537,
+    "lng": 88.4313014
+  },
+  {
+    "id": "kml-305",
+    "name": "AE Block",
+    "description": "Prominent Salt Lake Sector-I puja celebrated for monumental architecture, cultural programs, and grand community dining.",
+    "category": "Salt Lake",
+    "lat": 22.6008801,
+    "lng": 88.4119096
+  },
+  {
+    "id": "kml-306",
+    "name": "AJ Block",
+    "description": "Salt Lake Sector-II block puja noted for traditional idol craftsmanship, festive illuminations, and community cultural performances.",
+    "category": "Salt Lake",
+    "lat": 22.5921092,
+    "lng": 88.4288779
+  },
+  {
+    "id": "kml-307",
+    "name": "AA Block",
+    "description": "Salt Lake Sector-I block celebration known for innovative thematic decor, artistic lighting, and warm community feasts.",
+    "category": "Salt Lake",
+    "lat": 22.5917995,
+    "lng": 88.39736
+  },
+  {
+    "id": "kml-308",
+    "name": "AB Block",
+    "description": "Popular Salt Lake Sector-I celebration known for creative handicrafts, traditional idol modeling, and cultural events.",
+    "category": "Salt Lake",
+    "lat": 22.593313,
+    "lng": 88.3997852
+  },
+  {
+    "id": "kml-309",
+    "name": "AC Block",
+    "description": "Salt Lake Sector-I block celebration celebrated for artistic pandal designs, festive lights, and family harmony.",
+    "category": "Salt Lake",
+    "lat": 22.5948385,
+    "lng": 88.4034229
+  },
+  {
+    "id": "kml-310",
+    "name": "AD Block",
+    "description": "Salt Lake Sector-I block puja noted for artistic pandal craftsmanship, quiet residential elegance, and traditional bhog.",
+    "category": "Salt Lake",
+    "lat": 22.5978414,
+    "lng": 88.4058478
+  },
+  {
+    "id": "kml-311",
+    "name": "AG Block",
+    "description": "Salt Lake Sector-II celebration known for grand decorative pavilions, colorful lighting, and festive community events.",
+    "category": "Salt Lake",
+    "lat": 22.5995094,
+    "lng": 88.4240305
+  },
+  {
+    "id": "kml-312",
+    "name": "AH Block",
+    "description": "Salt Lake block celebration known for peaceful residential charm, traditional idol modeling, and community cultural nights.",
+    "category": "Salt Lake",
+    "lat": 22.5965541,
+    "lng": 88.4264543
+  },
+  {
+    "id": "kml-313",
+    "name": "AL Block",
+    "description": "Salt Lake Sector-II block puja noted for elegant thematic decor, traditional rituals, and warm residential gatherings.",
+    "category": "Salt Lake",
+    "lat": 22.5861982,
+    "lng": 88.4337248
+  },
+  {
+    "id": "kml-314",
+    "name": "BA Block",
+    "description": "Salt Lake Sector-I residential celebration known for creative artistic motifs, traditional idol, and community dining.",
+    "category": "Salt Lake",
+    "lat": 22.5888325,
+    "lng": 88.3985726
+  },
+  {
+    "id": "kml-315",
+    "name": "BB Block",
+    "description": "Salt Lake Sector-I block puja celebrated for architectural replicas, colorful illuminations, and festive cultural nights.",
+    "category": "Salt Lake",
+    "lat": 22.5918475,
+    "lng": 88.4022104
+  },
+  {
+    "id": "kml-316",
+    "name": "BC Block",
+    "description": "Salt Lake Sector-I block celebration known for peaceful festive atmosphere, traditional rituals, and family gatherings.",
+    "category": "Salt Lake",
+    "lat": 22.5929856,
+    "lng": 88.4043323
+  },
+  {
+    "id": "kml-317",
+    "name": "BD Block",
+    "description": "Salt Lake Sector-I block puja celebrated for creative theme installations, artistic decor, and community camaraderie.",
+    "category": "Salt Lake",
+    "lat": 22.5948864,
+    "lng": 88.4082726
+  },
+  {
+    "id": "kml-318",
+    "name": "BE Block",
+    "description": "Vibrant Salt Lake Sector-I block puja known for creative artistic craftsmanship, lighting displays, and family celebrations.",
+    "category": "Salt Lake",
+    "lat": 22.5979131,
+    "lng": 88.4131218
+  },
+  {
+    "id": "kml-319",
+    "name": "BG Block",
+    "description": "Salt Lake Sector-II block puja celebrated for elegant artistic themes, festive lighting, and traditional family atmosphere.",
+    "category": "Salt Lake",
+    "lat": 22.5953985,
+    "lng": 88.4225156
+  },
+  {
+    "id": "kml-320",
+    "name": "BH Block",
+    "description": "Salt Lake Sector-II block celebration known for traditional idol worship, festive lighting, and close-knit community spirit.",
+    "category": "Salt Lake",
+    "lat": 22.5939268,
+    "lng": 88.4243335
+  },
+  {
+    "id": "kml-321",
+    "name": "BJ Block",
+    "description": "Famous Salt Lake ground puja celebrated for magnificent palace replicas, festive fairs, and massive community gatherings.",
+    "category": "Salt Lake",
+    "lat": 22.5912327,
+    "lng": 88.4264406
+  },
+  {
+    "id": "kml-322",
+    "name": "BK Block",
+    "description": "Salt Lake Sector-II block celebration noted for creative architectural decor, cultural programs, and festive harmony.",
+    "category": "Salt Lake",
+    "lat": 22.5876407,
+    "lng": 88.4288779
+  },
+  {
+    "id": "kml-323",
+    "name": "BL Block",
+    "description": "Salt Lake Sector-II block puja celebrated for traditional idol aesthetics, serene residential charm, and community feasts.",
+    "category": "Salt Lake",
+    "lat": 22.5846852,
+    "lng": 88.4313014
+  },
+  {
+    "id": "kml-324",
+    "name": "CA Block",
+    "description": "Salt Lake Sector-I block celebration known for innovative pandal structures, vibrant cultural programs, and community dining.",
+    "category": "Salt Lake",
+    "lat": 22.5869917,
+    "lng": 88.4006947
+  },
+  {
+    "id": "kml-325",
+    "name": "CB Block",
+    "description": "Salt Lake Sector-I block puja celebrated for creative theme craftsmanship, festive illuminations, and cultural events.",
+    "category": "Salt Lake",
+    "lat": 22.5888806,
+    "lng": 88.4034229
+  },
+  {
+    "id": "kml-326",
+    "name": "CD Block",
+    "description": "Salt Lake Sector-I block celebration known for artistic pandal designs, traditional rituals, and family festivities.",
+    "category": "Salt Lake",
+    "lat": 22.5919194,
+    "lng": 88.409485
+  },
+  {
+    "id": "kml-327",
+    "name": "CE Block",
+    "description": "Salt Lake Sector-I block puja noted for peaceful residential elegance, traditional idol modeling, and community bhog.",
+    "category": "Salt Lake",
+    "lat": 22.5949341,
+    "lng": 88.4131218
+  },
+  {
+    "id": "kml-328",
+    "name": "LABONY ESTATE",
+    "description": "Historic Salt Lake estate celebration known for serene residential ambiance, traditional rituals, and warm community bhog.",
+    "category": "Salt Lake",
+    "lat": 22.583099,
+    "lng": 88.4069754
+  },
+  {
+    "id": "kml-329",
+    "name": "JC Block",
+    "description": "Salt Lake Sector-III block celebration known for creative thematic decor, festive illuminations, and community unity.",
+    "category": "Salt Lake",
+    "lat": 22.5696125,
+    "lng": 88.4131218
+  },
+  {
+    "id": "kml-330",
+    "name": "IB Block",
+    "description": "Salt Lake Sector-III block puja celebrated for elegant architectural designs, cultural performances, and festive warmth.",
+    "category": "Salt Lake",
+    "lat": 22.572234,
+    "lng": 88.4146371
+  },
+  {
+    "id": "kml-331",
+    "name": "IA Block",
+    "description": "Charming Salt Lake block puja celebrated for traditional idol modeling, cultural unity, and festive community feasts.",
+    "category": "Salt Lake",
+    "lat": 22.5725677,
+    "lng": 88.4106973
+  },
+  {
+    "id": "kml-332",
+    "name": "HB Block",
+    "description": "Salt Lake Sector-III block celebration noted for artistic craftsmanship, colorful lighting, and family gatherings.",
+    "category": "Salt Lake",
+    "lat": 22.5741049,
+    "lng": 88.4155462
+  },
+  {
+    "id": "kml-333",
+    "name": "HA Block",
+    "description": "Vibrant Salt Lake residential celebration featuring artistic pandal architecture, festive lighting, and cultural programs.",
+    "category": "Salt Lake",
+    "lat": 22.5755587,
+    "lng": 88.4119096
+  },
+  {
+    "id": "kml-334",
+    "name": "GD Block",
+    "description": "Popular Salt Lake block puja known for creative artistic motifs, eco-friendly materials, and traditional family warmth.",
+    "category": "Salt Lake",
+    "lat": 22.5770958,
+    "lng": 88.4167583
+  },
+  {
+    "id": "kml-335",
+    "name": "GC Block",
+    "description": "Salt Lake Sector-III block puja celebrated for traditional idol aesthetics, serene residential charm, and community feasts.",
+    "category": "Salt Lake",
+    "lat": 22.5785377,
+    "lng": 88.4119096
+  },
+  {
+    "id": "kml-336",
+    "name": "FE Block",
+    "description": "Salt Lake Sector-III block celebration known for grand decorative pavilions, festive lighting, and cultural harmony.",
+    "category": "Salt Lake",
+    "lat": 22.5815762,
+    "lng": 88.4179705
+  },
+  {
+    "id": "kml-337",
+    "name": "FC Block",
+    "description": "Salt Lake Sector-III block celebration noted for creative thematic installations, traditional rituals, and festive joy.",
+    "category": "Salt Lake",
+    "lat": 22.5800034,
+    "lng": 88.409485
+  },
+  {
+    "id": "kml-338",
+    "name": "EE Block",
+    "description": "Salt Lake Sector-III block puja celebrated for innovative decor, lively cultural nights, and community dining.",
+    "category": "Salt Lake",
+    "lat": 22.5801459,
+    "lng": 88.4240305
+  },
+  {
+    "id": "kml-339",
+    "name": "EC Market",
+    "description": "Vibrant Salt Lake commercial and residential hub puja known for festive illuminations, food fairs, and community gatherings.",
+    "category": "Salt Lake",
+    "lat": 22.5852613,
+    "lng": 88.4092955
+  },
+  {
+    "id": "kml-340",
+    "name": "DL Block",
+    "description": "Salt Lake residential block puja noted for peaceful festive ambiance, traditional rituals, and cultural gatherings.",
+    "category": "Salt Lake",
+    "lat": 22.5812837,
+    "lng": 88.4261513
+  },
+  {
+    "id": "kml-341",
+    "name": "DB Block",
+    "description": "Salt Lake Sector-I block puja celebrated for architectural replicas, festive lighting, and close-knit community spirit.",
+    "category": "Salt Lake",
+    "lat": 22.5862889,
+    "lng": 88.4049385
+  },
+  {
+    "id": "kml-342",
+    "name": "DA Block",
+    "description": "Salt Lake Sector-I block celebration known for traditional idol worship, festive lighting, and neighborhood harmony.",
+    "category": "Salt Lake",
+    "lat": 22.5847695,
+    "lng": 88.4019072
+  },
+  {
+    "id": "kml-343",
+    "name": "CJ Block",
+    "description": "Renowned Salt Lake Sector-II celebration known for grand royal temple architecture, cultural performances, and traditional idol.",
+    "category": "Salt Lake",
+    "lat": 22.5895296,
+    "lng": 88.4243333
+  },
+  {
+    "id": "kml-344",
+    "name": "CG Block",
+    "description": "Salt Lake Sector-II block celebration celebrated for creative thematic designs, festive music, and community spirit.",
+    "category": "Salt Lake",
+    "lat": 22.5920383,
+    "lng": 88.4216066
+  }
+]

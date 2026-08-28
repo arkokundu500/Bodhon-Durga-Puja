@@ -1,0 +1,49 @@
+🌸 "আসছেন তো? শহর জুড়ে মায়ের আলো জ্বলবে।" ✨
+
+Durga Puja is more than just a festival for Bengalis across the globe — it is an emotion, a sensory memory of autumn skies, the resonance of Dhak, and the magic of walking through night-lit Kolkata alleys.
+
+To celebrate this spirit, I built **বোধন (Bodhon) — Durga Puja 2026**: A cinematic Bengali editorial web application and intelligent city guide designed to help festival lovers discover pandals, find nearest metro or bus stations, and get transit directions.
+
+---
+
+### 🎨 The Design Philosophy: "শিউলি সকাল" (Morning Shiuli)
+Instead of building another generic SaaS directory, Bodhon was crafted as a digital ritual invitation:
+Warm paper & cream textures (`#F8F1E4`, `#FFF9EF`) reflecting traditional puja cards.
+Bodhon Vermilion (`#B52A22`) & Marigold Yellow (`#E5A62C`) celebrating ritual sacredness and energy.
+Bilingual Editorial Typography: Authentic **Noto Serif Bengali** for poetic headlines paired with **Manrope** for modern interface controls.
+
+---
+
+### 💡 What Makes Bodhon Special?
+
+1. 🔍 **Instant Pandal Search & Discovery**:
+Debounced search filtering through 70+ iconic pandals (North to South Kolkata and beyond) by name, neighborhood (Bagbazar, Sovabazar, Ekdalia, Tridhara), or category.
+
+2. 🗺️ **Dual-Layer Interactive Map & Transit Intelligence**:
+Integrated with Google Maps API and a custom illustrated canvas fallback. With one click on "Use my location", Bodhon automatically sorts pandals by distance and highlights the nearest **Kolkata Metro station** (Blue/Green lines) and **Bus stop** with walking legs!
+
+3. 📻 **Bodhon Radio (Spotify-like Audio Glider)**:
+A ceremonial music player featuring celebratory Agomoni tracks with real-time scrubbers and an animated vinyl/alpona gramophone reel powered by GSAP.
+
+4. ⏳ **Real-Time Mahalaya Countdown & Day-by-Day Tithi Calendar**:
+Live countdown to Mahalaya dawn (October 10, 2026) with detailed ritual day notes from Maha Panchami to Vijaya Dashami.
+
+5. 👥 **Live Festive Visitor Counter**:
+A celebratory visitor badge in the footer honoring everyone celebrating together.
+
+---
+
+### 🛠️ Built With Modern Web Technologies:
+- **Frontend**: React 19, Vite 7, TailwindCSS v4, Wouter, Radix UI Primitives
+- **Animations**: GSAP (ScrollTrigger) & Framer Motion
+- **Backend & APIs**: Express 4, tRPC v11, Drizzle ORM, Google Maps JavaScript API
+- **State Management**: Zustand & TanStack React Query
+- **Testing**: Vitest & JSDOM
+
+---
+
+Building Bodhon was a love letter to Kolkata, art, and Bengali culture. If you love modern web engineering paired with cultural storytelling, check out the project!
+
+👉 What’s your favorite Durga Puja memory or must-visit pandal in Kolkata? Let me know in the comments below! 👇
+
+#WebDevelopment #React #Vite #TypeScript #TailwindCSS #GSAP #UIUXDesign #Frontend #FullStack #GoogleMapsAPI #DurgaPuja #Kolkata #BengaliCulture #CreativeCoding #OpenSource
