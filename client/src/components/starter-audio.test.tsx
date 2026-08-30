@@ -13,17 +13,12 @@ describe("StarterAudio Component", () => {
   beforeEach(() => {
     vi.useFakeTimers();
 
-    playMock = vi.fn().mockResolvedValue(undefined);
+    playMock = vi.fn().mockImplementation(() => Promise.resolve());
     pauseMock = vi.fn();
 
-    // Mock HTML5 Audio
-    window.Audio = vi.fn().mockImplementation(() => ({
-      play: playMock,
-      pause: pauseMock,
-      preload: "auto",
-      muted: false,
-      currentTime: 0,
-    })) as unknown as typeof Audio;
+    // Mock HTMLMediaElement prototype
+    window.HTMLMediaElement.prototype.play = playMock;
+    window.HTMLMediaElement.prototype.pause = pauseMock;
   });
 
   afterEach(() => {
@@ -34,6 +29,7 @@ describe("StarterAudio Component", () => {
   it("plays 20s starter song when home page loads or reloads", async () => {
     await act(async () => {
       render(<StarterAudio />);
+      vi.advanceTimersByTime(200);
     });
 
     expect(playMock).toHaveBeenCalledTimes(1);
@@ -52,6 +48,7 @@ describe("StarterAudio Component", () => {
   it("allows user to mute and dismiss starter audio manually", async () => {
     await act(async () => {
       render(<StarterAudio />);
+      vi.advanceTimersByTime(200);
     });
 
     const muteBtn = screen.getByRole("button", { name: /mute starter music/i });
