@@ -10,6 +10,7 @@ import { Countdown } from "@/components/Countdown";
 import { Gallery } from "@/components/Gallery";
 import { PandalMap } from "@/components/PandalMap";
 import { SiteHeader } from "@/components/SiteHeader";
+import { StarterAudio } from "@/components/StarterAudio";
 import { VisitorCount } from "@/components/VisitorCount";
 import { PUJA_TIMELINE } from "@/lib/bodhon-data";
 
@@ -84,6 +85,7 @@ export default function Home() {
   return (
     <div ref={pageRef} className="min-h-screen overflow-hidden bg-[#F8F1E4] text-[#2A201A]">
       <SiteHeader />
+      <StarterAudio />
       <main>
         <section ref={heroRef} id="top" className="hero-section relative isolate flex min-h-[760px] items-end overflow-hidden bg-[#2A201A] pb-14 pt-32 text-[#FFF9EF] sm:min-h-[840px] sm:pb-20 lg:min-h-[900px] lg:pb-24">
           <video className="absolute inset-0 -z-20 h-full w-full object-cover opacity-[0.84]" autoPlay muted loop playsInline poster="/durga-gold-wide_329e4673.png" src="/kashful-loop_e16b0912.mp4" aria-hidden="true" />
